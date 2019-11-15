@@ -1,0 +1,9 @@
+RwTestProjectLibraryIndexCard {
+	#name : 'index_0001',
+	#title : 'Bare bones package structure -Core and -Tests',
+	#specName : 'spec_0001',
+	#index : 1,
+	#comment : 'One class per package',
+	#rowanIssues : [ ],
+	#gemstoneIssues : [ ]
+}
