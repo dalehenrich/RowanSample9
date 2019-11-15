@@ -6,7 +6,7 @@ RwProjectLoadSpecificationV2 {
 	#projectsPath : 'rowan/projects',
 	#specsPath : 'rowan/specs',
 	#gitUrl : 'https://github.com/dalehenrich/RowanSample9',
-	#revision : 'master',
+	#revision : 'spec_0000',
 	#componentNames : [
 		'Core'
 	],
