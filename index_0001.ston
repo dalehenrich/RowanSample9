@@ -3,6 +3,7 @@ RwTestProjectLibraryIndexCard {
 	#title : 'Bare bones package structure -Core and -Tests',
 	#specName : 'spec_0001',
 	#index : 1,
+	#derivedFrom : 'spec_0000',
 	#comment : 'One class per package',
 	#rowanIssues : [ ],
 	#gemstoneIssues : [ ]
