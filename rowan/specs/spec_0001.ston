@@ -20,5 +20,6 @@ RwProjectLoadSpecificationV2 {
 				#defaultSymbolDictName : #RowanSample9_1
 			}
 		}
-	}
+	},
+	#repositoryResolutionPolicy : #strict
 }
