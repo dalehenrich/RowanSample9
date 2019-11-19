@@ -1,0 +1,12 @@
+"
+I test the GemStone class
+"
+Class {
+	#name : 'RowanSample9GemStoneTestCase',
+	#superclass : 'TestCase',
+	#category : 'RowanSample9-GemStone-Tests'
+}
+
+{ #category : 'tests' }
+RowanSample9GemStoneTestCase >> test1 [  self assert: RowanSample4IdentityKeyValueDictionary new foo = 1
+]
