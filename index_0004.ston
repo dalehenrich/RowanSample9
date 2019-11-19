@@ -3,7 +3,7 @@ RwTestProjectLibraryIndexCard {
 	#title : 'Reconcile inconsistencies for storage of package-specific properties',
 	#specName : 'spec_0004',
 	#index : 4,
-	#derivedFrom : 'spec_0000',
+	#derivedFrom : 'master',
 	#comment : '',
 	#rowanIssues : [
 		500,

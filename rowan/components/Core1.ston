@@ -1,14 +1,16 @@
 RwProjectLoadComponentV2 {
-	#name : 'Core',
-	#comment : 'Primary component used for loading the core classes.',
+	#name : 'Core1',
+	#comment : 'contains RowanSample9-Core1 package',
+	#componentNames : [
+		'Core2'
+	],
 	#conditionalPackages : {
 		[
 			'common'
 		] : {
 			'core' : {
 				#packageNames : [
-					'RowanSample9-Core1',
-					'RowanSample9-Core2'
+					'RowanSample9-Core1'
 				]
 			},
 			'tests' : {
