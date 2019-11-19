@@ -1,12 +1,12 @@
 RwProjectLoadSpecificationV2 {
-	#specName : 'spec_0002',
+	#specName : 'spec_0003',
 	#projectName : 'RowanSample9',
 	#componentsPath : 'rowan/components',
 	#packagesPath : 'rowan/src',
 	#projectsPath : 'rowan/projects',
 	#specsPath : 'rowan/specs',
 	#gitUrl : 'https://github.com/dalehenrich/RowanSample9',
-	#revision : 'spec_0002',
+	#revision : 'spec_0003',
 	#componentNames : [
 		'Core'
 	],
