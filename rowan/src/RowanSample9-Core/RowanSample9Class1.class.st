@@ -11,7 +11,7 @@ Class {
 }
 
 { #category : 'accessing' }
-RowanSample9Class1 class >> bar [ ^1
+RowanSample9Class1 class >> bar [ ^'bar'
 ]
 
 { #category : 'accessing' }

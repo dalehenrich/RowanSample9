@@ -10,3 +10,7 @@ Class {
 { #category : 'tests' }
 RowanSample9GemStoneTestCase >> test1 [  self assert: RowanSample4IdentityKeyValueDictionary new foo = 1
 ]
+
+{ #category : 'tests' }
+RowanSample9GemStoneTestCase >> test2 [  self assert: RowanSample4IdentityKeyValueDictionary bar = 'bar'
+]
