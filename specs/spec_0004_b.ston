@@ -8,7 +8,7 @@ RwProjectLoadSpecificationV2 {
 	#gitUrl : 'https://github.com/dalehenrich/RowanSample9',
 	#revision : 'spec_0004',
 	#componentNames : [
-		'CoreX'
+		'Core3'
 	],
 	#groupNames : [
 		'core',
