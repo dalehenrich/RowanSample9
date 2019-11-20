@@ -22,10 +22,10 @@ RwProjectLoadComponentV2 {
 	},
 	#conditionalPackageMapSpecs : {
 		'gemstone' : {
-			'SystemUser' : {
+			'allusers' : {
 				#packageNameToPlatformPropertiesMap : {
 					'RowanSample9-Core1' : {
-						'symbolDictName' : 'RowanSample9_1'
+						'symbolDictName' : 'RowanSample9_2'
 					}
 				}
 			}

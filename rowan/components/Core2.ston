@@ -20,7 +20,7 @@ RwProjectLoadComponentV2 {
 			'allusers' : {
 				#packageNameToPlatformPropertiesMap : {
 					'RowanSample9-Core2' : {
-						'symbolDictName' : 'RowanSample9_2'
+						'symbolDictName' : 'RowanSample9_3'
 					}
 				}
 			}
