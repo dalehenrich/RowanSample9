@@ -1,4 +1,4 @@
-RwProjectLoadSpecificationV2 {
+RwProjectSpecificationV2 {
 	#specName : 'spec_0000',
 	#projectName : 'RowanSample9',
 	#componentsPath : 'rowan/components',
@@ -7,9 +7,7 @@ RwProjectLoadSpecificationV2 {
 	#specsPath : 'rowan/specs',
 	#gitUrl : 'https://github.com/dalehenrich/RowanSample9',
 	#revision : 'spec_0000',
-	#componentNames : [
-		'Core'
-	],
+	#componentNames : [ ],
 	#groupNames : [
 		'core',
 		'tests'
