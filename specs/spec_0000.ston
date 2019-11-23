@@ -7,7 +7,9 @@ RwProjectSpecificationV2 {
 	#specsPath : 'rowan/specs',
 	#gitUrl : 'https://github.com/dalehenrich/RowanSample9',
 	#revision : 'spec_0000',
-	#componentNames : [ ],
+	#componentNames : [
+		'Core'
+	],
 	#groupNames : [
 		'core',
 		'tests'
