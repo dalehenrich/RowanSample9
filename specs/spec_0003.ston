@@ -1,4 +1,4 @@
-RwProjectLoadSpecificationV2 {
+RwProjectSpecificationV2 {
 	#specName : 'spec_0003',
 	#projectName : 'RowanSample9',
 	#componentsPath : 'rowan/components',
