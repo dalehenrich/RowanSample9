@@ -20,7 +20,6 @@ RwProjectLoadComponentV2 {
 			}
 		}
 	},
-	#conditionalPackageMapSpecs : { },
 	#definedGroupNames : {
 		'tests' : [
 			'core'
