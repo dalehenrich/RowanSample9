@@ -1,18 +1,16 @@
-RwProjectSpecificationV2 {
+RwLoadSpecificationV2 {
 	#specName : 'spec_0000',
 	#projectName : 'RowanSample9',
-	#componentsPath : 'rowan/components',
-	#packagesPath : 'rowan/src',
-	#projectsPath : 'rowan/projects',
-	#specsPath : 'rowan/specs',
 	#gitUrl : 'https://github.com/dalehenrich/RowanSample9',
 	#revision : 'spec_0000',
+	#projectSpecFile : 'rowan/project.ston',
 	#componentNames : [
 		'Core'
 	],
 	#groupNames : [
 		'core',
-		'tests'
+		'tests',
+		'deprecated'
 	],
 	#platformProperties : {
 		'gemstone' : {
@@ -20,5 +18,6 @@ RwProjectSpecificationV2 {
 				#defaultSymbolDictName : #RowanSample9_1
 			}
 		}
-	}
+	},
+	#comment : ''
 }
