@@ -4,7 +4,9 @@ RwTestProjectLibraryIndexCard {
 	#specName : 'spec_0001',
 	#index : 1,
 	#derivedFrom : 'spec_0000',
-	#comment : 'One class per package',
-	#rowanIssues : [ ],
+	#comment : 'One class per package: RowanSample9-Core and RowanSample9-Tests packages',
+	#rowanIssues : [
+		527
+	],
 	#gemstoneIssues : [ ]
 }
