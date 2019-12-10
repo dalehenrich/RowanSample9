@@ -6,7 +6,7 @@ RwTestProjectLibraryIndexCard {
 	#derivedFrom : 'spec_0002',
 	#comment : 'RowanSample9Class1 has instancesInvariant option set',
 	#rowanIssues : [
-		230
+		254
 	],
 	#gemstoneIssues : [ ]
 }
