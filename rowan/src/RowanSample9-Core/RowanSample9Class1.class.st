@@ -11,9 +11,5 @@ Class {
 }
 
 { #category : 'accessing' }
-RowanSample9Class1 class >> bar [ ^'bar'
-]
-
-{ #category : 'accessing' }
 RowanSample9Class1 >> foo [ ^1
 ]
