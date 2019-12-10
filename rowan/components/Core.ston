@@ -20,6 +20,23 @@ RwProjectLoadComponentV2 {
 			}
 		}
 	},
+	#conditionalPackageMapSpecs : {
+		'gemstone' : {
+			'allusers' : {
+				#packageNameToPlatformPropertiesMap : {
+					'RowanSample9-GemStone' : {
+						'symbolDictName' : 'RowanSample9_3'
+					},
+					'RowanSample9-Core' : {
+						'symbolDictName' : 'RowanSample9_2'
+					},
+					'RowanSample9-Extensions' : {
+						'symbolDictName' : 'RowanSample9_2'
+					}
+				}
+			}
+		}
+	},
 	#definedGroupNames : {
 		'tests' : [
 			'core'
