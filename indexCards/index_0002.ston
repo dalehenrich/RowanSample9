@@ -6,8 +6,8 @@ RwTestProjectLibraryIndexCard {
 	#derivedFrom : 'spec_0000',
 	#comment : 'RowanSampe9Class1 has extension methods',
 	#rowanIssues : [
-		230,
-		254
+		254,
+		504
 	],
 	#gemstoneIssues : [ ]
 }
