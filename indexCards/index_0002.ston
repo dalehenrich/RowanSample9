@@ -4,7 +4,9 @@ RwTestProjectLibraryIndexCard {
 	#specName : 'spec_0002',
 	#index : 2,
 	#derivedFrom : 'spec_0000',
-	#comment : '',
-	#rowanIssues : [ ],
+	#comment : 'RowanSampe9Class1 has extension methods',
+	#rowanIssues : [
+		230
+	],
 	#gemstoneIssues : [ ]
 }
