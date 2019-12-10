@@ -22,3 +22,11 @@ RowanSample9TestCase >> test3 [  self assert: RowanSample9IdentityKeyValueDictio
 { #category : 'tests' }
 RowanSample9TestCase >> test4 [  self assert: RowanSample9IdentityKeyValueDictionary bar = 'bar'
 ]
+
+{ #category : 'tests' }
+RowanSample9TestCase >> testSymbolDicts [
+	self assert: ((Rowan image symbolDictNamed: RowanSample9_2) includesKey: RowanSample9Class1 asSymbol).
+	self assert: ((Rowan image symbolDictNamed: RowanSample9_3) includesKey: RowanSample9IdentityKeyValueDictionary asSymbol).
+	self assert: ((Rowan image symbolDictNamed: RowanSample9_1) includesKey: RowanSample9TestCase asSymbol).
+
+]

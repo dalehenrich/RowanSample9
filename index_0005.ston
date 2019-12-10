@@ -4,7 +4,7 @@ RwTestProjectLibraryIndexCard {
 	#specName : 'spec_0005',
 	#index : 1,
 	#derivedFrom : 'spec_0000',
-	#comment : 'One class per package: RowanSample9-Core1, RowanSample9-Core2 and RowanSample9-Tests packages',
+	#comment : 'One class per package: RowanSample9-Core1, RowanSample9-Core2 and RowanSample9-Tests packages. Tests ensure that classes in Core1 are in #\'RowanSample9_2\' and classes in Core2 are in symbol dictionary #\'RowanSample9_3\' and classes in Tests are in symbol dictionary #\'RowanSample9_1\'',
 	#rowanIssues : [
 		230
 	],
