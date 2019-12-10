@@ -1,0 +1,12 @@
+RwTestProjectLibraryIndexCard {
+	#name : 'index_0005',
+	#title : 'Two classes, two  packages, plus tests. Primer for Issue 230',
+	#specName : 'spec_0005',
+	#index : 1,
+	#derivedFrom : 'spec_0000',
+	#comment : 'One class per package: RowanSample9-Core1, RowanSample9-Core2 and RowanSample9-Tests packages',
+	#rowanIssues : [
+		230
+	],
+	#gemstoneIssues : [ ]
+}
