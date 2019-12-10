@@ -7,7 +7,7 @@ Class {
 	#category : 'RowanSample9-GemStone'
 }
 
-{ #category : '*rowansample9-gemstone' }
+{ #category : 'accessing' }
 RowanSample4IdentityKeyValueDictionary class >> bar [ ^'bar'
 ]
 
