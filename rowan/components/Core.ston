@@ -24,14 +24,17 @@ RwProjectLoadComponentV2 {
 		'gemstone' : {
 			'allusers' : {
 				#packageNameToPlatformPropertiesMap : {
+					'RowanSample9-GemStone-Tests' : {
+						'symbolDictName' : 'RowanSample9_2'
+					},
 					'RowanSample9-GemStone' : {
-						'symbolDictName' : 'RowanSample9_3'
+						'symbolDictName' : 'RowanSample9_2'
 					},
 					'RowanSample9-Core' : {
-						'symbolDictName' : 'RowanSample9_2'
+						'symbolDictName' : 'RowanSample9_1'
 					},
 					'RowanSample9-Extensions' : {
-						'symbolDictName' : 'RowanSample9_2'
+						'symbolDictName' : 'RowanSample9_1'
 					}
 				}
 			}
