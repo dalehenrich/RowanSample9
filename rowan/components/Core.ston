@@ -7,7 +7,8 @@ RwProjectLoadComponentV2 {
 		] : {
 			'core' : {
 				#packageNames : [
-					'RowanSample9-Core'
+					'RowanSample9-Core',
+					'RowanSample9-Extensions'
 				]
 			},
 			'tests' : {
