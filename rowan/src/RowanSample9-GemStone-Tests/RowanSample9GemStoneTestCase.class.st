@@ -8,9 +8,9 @@ Class {
 }
 
 { #category : 'tests' }
-RowanSample9GemStoneTestCase >> test1 [  self assert: RowanSample4IdentityKeyValueDictionary new foo = 1
+RowanSample9GemStoneTestCase >> test1 [  self assert: RowanSample9IdentityKeyValueDictionary new foo = 1
 ]
 
 { #category : 'tests' }
-RowanSample9GemStoneTestCase >> test2 [  self assert: RowanSample4IdentityKeyValueDictionary bar = 'bar'
+RowanSample9GemStoneTestCase >> test2 [  self assert: RowanSample9IdentityKeyValueDictionary bar = 'bar'
 ]
