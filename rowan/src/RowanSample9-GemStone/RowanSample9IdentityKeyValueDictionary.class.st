@@ -2,15 +2,15 @@
 I am an example class
 "
 Class {
-	#name : 'RowanSample4IdentityKeyValueDictionary',
+	#name : 'RowanSample9IdentityKeyValueDictionary',
 	#superclass : 'IdentityKeyValueDictionary',
 	#category : 'RowanSample9-GemStone'
 }
 
 { #category : 'accessing' }
-RowanSample4IdentityKeyValueDictionary class >> bar [ ^'bar'
+RowanSample9IdentityKeyValueDictionary class >> bar [ ^'bar'
 ]
 
 { #category : 'accessing' }
-RowanSample4IdentityKeyValueDictionary >> foo [ ^1
+RowanSample9IdentityKeyValueDictionary >> foo [ ^1
 ]
