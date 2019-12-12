@@ -8,13 +8,28 @@ RwProjectLoadComponentV2 {
 			'core' : {
 				#packageNames : [
 					'RowanSample9-Core',
-					'RowanSample9-Extensions'
+					'RowanSample9-Extensions',
+					'RowanSample9-Extensions1'
 				]
 			},
 			'tests' : {
 				#packageNames : [
 					'RowanSample9-Tests'
 				]
+			}
+		}
+	},
+	#conditionalPackageMapSpecs : {
+		'gemstone' : {
+			'allusers' : {
+				#packageNameToPlatformPropertiesMap : {
+					'RowanSample9-Extensions1' : {
+						'symbolDictName' : 'RowanSample9_1'
+					},
+					'RowanSample9-Core' : {
+						'symbolDictName' : 'RowanSample9_2'
+					}
+				}
 			}
 		}
 	},
