@@ -1,6 +1,6 @@
 RwTestProjectLibraryIndexCard {
 	#name : 'index_0013',
-	#title : 'Starting with spec_0011, move extension method to a new extension package; move class package to a \n\t\tdifferent symbol dict; move new extension package to the first symbol dictionary. This is an illegal combination\n\t\t(extension method and class in different symbol dictionaries) and should cause an error, but currently we \n\t\tget an audit error.',
+	#title : 'Starting with spec_0011, move extension method to a new extension package; move class package to a \n\t\tdifferent symbol dict; move new extension package to the first symbol dictionary. This is an illegal combination\n\t\t(extension method and class in different symbol dictionaries) and does cause an error.',
 	#specName : 'spec_0013',
 	#index : 13,
 	#derivedFrom : 'spec_0011',
