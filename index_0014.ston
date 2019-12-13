@@ -1,12 +1,12 @@
 RwTestProjectLibraryIndexCard {
 	#name : 'index_0014',
-	#title : 'Starting with spec_0011, move extension method to a new extension package; move new extension package \n\t\tto the classes symbol dictionary. This is an legal combination (extension method and class in same symbol\n\t\tdictionary) and should cause an error, but currently we get an audit error.',
+	#title : 'Starting with spec_0011, move extension method to a new extension package; move new extension package \n\t\tto the classes symbol dictionary. This is a legal combination (extension method and class in same symbol\n\t\tdictionary) the V2 classes are handling the symbol dictionary lookup properly, so this combo validates that\n\t\tthe bug (#493) is fixed.',
 	#specName : 'spec_0014',
 	#index : 14,
 	#derivedFrom : 'spec_0011',
 	#comment : 'RowanSample9-Core and RowanSample9-Extensions1 in same symbol dictionary, but extension method moves\n\t\tto new package. RowanSample9-Tests package in default symbol dictionary.',
 	#rowanIssues : [
-		495
+		493
 	],
 	#gemstoneIssues : [ ]
 }
