@@ -1,6 +1,5 @@
 RwProjectSpecificationV2 {
 	#specName : 'project',
-	#projectName : 'RowanSample9',
 	#projectSpecPath : 'rowan',
 	#componentsPath : 'rowan/components',
 	#packagesPath : 'rowan/src',
