@@ -4,6 +4,12 @@ RwProjectLoadComponentV2 {
 	#componentNames : [
 		'Core1'
 	],
+	#definedGroupNames : {
+		'tests' : [
+			'core'
+		],
+		'core' : [ ]
+	},
 	#conditionalPackages : {
 		[
 			'common'
@@ -25,11 +31,5 @@ RwProjectLoadComponentV2 {
 				}
 			}
 		}
-	},
-	#definedGroupNames : {
-		'tests' : [
-			'core'
-		],
-		'core' : [ ]
 	}
 }
