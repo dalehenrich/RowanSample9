@@ -1,0 +1,12 @@
+RwTestProjectLibraryIndexCard {
+	#name : 'index_0016',
+	#title : 'Starting with spec_0015, move an extension method from one package to another with no modifications',
+	#specName : 'spec_0016',
+	#index : 16,
+	#derivedFrom : 'spec_0015',
+	#comment : 'Move extension method from  RowanSample9-Extensions1 to RowanSample9-Extensions.',
+	#rowanIssues : [
+		557
+	],
+	#gemstoneIssues : [ ]
+}
