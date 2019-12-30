@@ -1,6 +1,12 @@
 RwProjectLoadComponentV2 {
 	#name : 'Core',
 	#comment : 'Primary component used for loading the core classes.',
+	#definedGroupNames : {
+		'tests' : [
+			'core'
+		],
+		'core' : [ ]
+	},
 	#conditionalPackages : {
 		[
 			'common'
@@ -39,11 +45,5 @@ RwProjectLoadComponentV2 {
 				}
 			}
 		}
-	},
-	#definedGroupNames : {
-		'tests' : [
-			'core'
-		],
-		'core' : [ ]
 	}
 }
