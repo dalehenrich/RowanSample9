@@ -1,0 +1,12 @@
+RwTestProjectLibraryIndexCard {
+	#name : 'index_0018',
+	#title : 'Build a sample vast/gemstone project based on information in https://github.com/dalehenrich/tonel-demos/tree/rowan_553',
+	#specName : 'spec_0018',
+	#index : 18,
+	#derivedFrom : 'master',
+	#comment : '',
+	#rowanIssues : [
+		553
+	],
+	#gemstoneIssues : [ ]
+}
