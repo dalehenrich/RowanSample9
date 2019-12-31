@@ -22,27 +22,15 @@ Class {
 	#category : 'TonelExampleApp'
 }
 
-{
-	#category : 'Accessing',
-	#protocol : 'Accessing',
-	#selector : 'classInstVar1'
-}
+{ #category : 'Accessing' }
 TonelExampleTest class >> classInstVar1 [ ^ classInstVar1 ifNil: [ classInstVar1 := 'classInstVar1' ]
 ]
 
-{
-	#category : 'Accessing',
-	#protocol : 'Accessing',
-	#selector : 'classVar1'
-}
+{ #category : 'Accessing' }
 TonelExampleTest class >> classVar1 [ ^ ClassVar1 ifNil: [ ClassVar1 := 'ClassVar1' ]
 ]
 
-{
-	#category : 'Accessing',
-	#protocol : 'Accessing',
-	#selector : 'privateMethod'
-}
+{ #category : 'Accessing' }
 TonelExampleTest >> privateMethod [
 	"this method has a VAST-specific property, but the source is shared"
 	^'privateMethod'
