@@ -7,5 +7,5 @@ RwProjectLoadComponentV2 {
 		],
 		'core' : [ ]
 	},
-	#conditionalPackages : { }
+	#conditionalProperties : { }
 }
