@@ -30,7 +30,10 @@ TonelExampleTest class >> classInstVar1 [ ^ classInstVar1 ifNil: [ classInstVar1
 TonelExampleTest class >> classVar1 [ ^ ClassVar1 ifNil: [ ClassVar1 := 'ClassVar1' ]
 ]
 
-{ #category : 'Accessing' }
+{
+	#category : 'Accessing',
+	#vaVisibility : 'private'
+}
 TonelExampleTest >> privateMethod [
 	"this method has a VAST-specific property, but the source is shared"
 	^'privateMethod'
