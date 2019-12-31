@@ -6,7 +6,8 @@ RwTestProjectLibraryIndexCard {
 	#derivedFrom : 'master',
 	#comment : '',
 	#rowanIssues : [
-		553
+		553,
+		555
 	],
 	#gemstoneIssues : [ ]
 }
