@@ -10,10 +10,6 @@ Class {
 	#category : 'RowanSample9-Core'
 }
 
-{
-	#category : 'accessing',
-	#protocol : 'accessing',
-	#selector : 'foo'
-}
+{ #category : 'accessing' }
 RowanSample9Class1 >> foo [ ^1
 ]
