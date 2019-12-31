@@ -38,3 +38,35 @@ TonelExampleTest >> privateMethod [
 	"this method has a VAST-specific property, but the source is shared"
 	^'privateMethod'
 ]
+
+{ #category : 'Running' }
+TonelExampleTest >> setUp [ instVar1 := 'instVar1'
+]
+
+{ #category : 'Testing' }
+TonelExampleTest >> testClassInstVarAccess [ self assert: self class classInstVar1 equals: 'classInstVar1'
+]
+
+{ #category : 'Testing' }
+TonelExampleTest >> testClassVarAccess [ self assert: self class classVar1 equals: 'ClassVar1'
+]
+
+{ #category : 'Testing' }
+TonelExampleTest >> testExtendedMethodFromRootApp [ self assert: self tonelExampleExtendedMethodFromRootApp equals: 'tonelExampleExtendedMethodFromRootApp'
+]
+
+{ #category : 'Testing' }
+TonelExampleTest >> testExtendedMethodFromSubApp [ self assert: self tonelExampleExtendedMethodFromSubApp equals: 'tonelExampleExtendedMethodFromSubApp'
+]
+
+{ #category : 'Testing' }
+TonelExampleTest >> testExtendedMethodFromSubSubApp [ self assert: self tonelExampleExtendedMethodFromSubSubApp equals: 'tonelExampleExtendedMethodFromSubSubApp'
+]
+
+{ #category : 'Testing' }
+TonelExampleTest >> testInstVarAccess [ self assert: instVar1 equals: 'instVar1'
+]
+
+{ #category : 'Testing' }
+TonelExampleTest >> testPrivateMethod [ self assert: self privateMethod equals: 'privateMethod'
+]
