@@ -44,6 +44,14 @@ TonelExampleTest >> setUp [ instVar1 := 'instVar1'
 ]
 
 { #category : 'Testing' }
+TonelExampleTest >> testClassDefinedInSubApp [ self assert: TonelExampleSubAppClass notCategorizedMethod equals: 'notCategorizedMethod'
+]
+
+{ #category : 'Testing' }
+TonelExampleTest >> testClassDefinedInSubSubApp [ self assert: TonelExampleSubSubAppClass notCategorizedMethod2 equals: 'notCategorizedMethod2'
+]
+
+{ #category : 'Testing' }
 TonelExampleTest >> testClassInstVarAccess [ self assert: self class classInstVar1 equals: 'classInstVar1'
 ]
 

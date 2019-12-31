@@ -19,8 +19,7 @@ RwProjectLoadComponentV2 {
 		] : {
 			'core' : {
 				#packageNames : [
-					'RowanSample9-Vast-Application',
-					'RowanSample9-Vast-Core'
+					'RowanSample9-Vast-Application'
 				]
 			}
 		}
