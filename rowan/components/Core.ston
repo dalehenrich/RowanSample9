@@ -6,6 +6,15 @@ RwProjectLoadComponentV2 {
 	},
 	#conditionalProperties : {
 		[
+			'common'
+		] : {
+			'core' : {
+				#packageNames : [
+					'RowanSample9-Common-Core'
+				]
+			}
+		},
+		[
 			'vast'
 		] : {
 			'core' : {
