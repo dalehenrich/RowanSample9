@@ -10,7 +10,7 @@ RwProjectLoadComponentV2 {
 		],
 		'core' : [ ]
 	},
-	#conditionalPackages : {
+	#conditionalProperties : {
 		[
 			'common'
 		] : {
