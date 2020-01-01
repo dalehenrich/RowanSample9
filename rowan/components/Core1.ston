@@ -1,9 +1,6 @@
 RwProjectLoadComponentV2 {
 	#name : 'Core1',
 	#comment : 'contains RowanSample9-Core1 package',
-	#componentNames : [
-		'Core2'
-	],
 	#definedGroupNames : {
 		'tests' : [
 			'core'
@@ -15,6 +12,9 @@ RwProjectLoadComponentV2 {
 			'common'
 		] : {
 			'core' : {
+				#componentNames : [
+					'Core2'
+				],
 				#packageNames : [
 					'RowanSample9-Core1'
 				]
