@@ -1,0 +1,21 @@
+RwNestedProjectLoadComponentV2 {
+	#name : 'subs/Core1',
+	#comment : '',
+	#definedGroupNames : {
+		'tests' : [
+			'core'
+		],
+		'core' : [ ]
+	},
+	#conditionalProperties : {
+		[
+			'common'
+		] : {
+			'core' : {
+				#packageNames : [
+					'RowanSample9-Extensions1'
+				]
+			}
+		}
+	}
+}
