@@ -1,0 +1,15 @@
+RwLoadSpecificationV2 {
+	#specName : 'spec_0019',
+	#projectName : 'RowanSample9',
+	#gitUrl : 'https://github.com/dalehenrich/RowanSample9',
+	#revision : 'spec_0019',
+	#projectSpecFile : 'rowan/project.ston',
+	#componentNames : [
+		'Core'
+	],
+	#groupNames : [
+		'core',
+		'tests'
+	],
+	#comment : ''
+}
