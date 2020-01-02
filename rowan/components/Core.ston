@@ -12,12 +12,12 @@ RwProjectLoadComponentV2 {
 			'common'
 		] : {
 			'core' : {
+				#packageNames : [
+					'RowanSample9-Core'
+				],
 				#componentNames : [
 					'subs/Core1',
 					'subs/Core2'
-				],
-				#packageNames : [
-					'RowanSample9-Core'
 				]
 			},
 			'tests' : {

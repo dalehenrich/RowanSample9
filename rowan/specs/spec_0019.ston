@@ -11,5 +11,12 @@ RwLoadSpecificationV2 {
 		'core',
 		'tests'
 	],
+	#platformProperties : {
+		'gemstone' : {
+			'allusers' : {
+				#defaultSymbolDictName : #RowanSample9_1
+			}
+		}
+	},
 	#comment : ''
 }
