@@ -16,6 +16,10 @@ RowanSample9TestCase >> test2 [  self assert: RowanSample9Class1 bar = 'bar'
 ]
 
 { #category : 'tests' }
+RowanSample9TestCase >> test3 [ self assert: RowanSample9Class1 new baz = 'baz'
+]
+
+{ #category : 'tests' }
 RowanSample9TestCase >> testSymbolDicts [
 	self assert: ((Rowan image symbolDictNamed: 'RowanSample9_1') includesKey: 'RowanSample9Class1' asSymbol).
 	self assert: ((Rowan image symbolDictNamed: 'RowanSample9_1') includesKey: 'RowanSample9TestCase' asSymbol).
