@@ -18,5 +18,15 @@ RwNestedProjectLoadComponentV2 {
 			}
 		}
 	},
-	#conditionalPackageMapSpecs : { }
+	#conditionalPackageMapSpecs : {
+		'gemstone' : {
+			'allusers' : {
+				#packageNameToPlatformPropertiesMap : {
+					'RowanSample9-Extensions1' : {
+						'symbolDictName' : 'RowanSample9_1'
+					}
+				}
+			}
+		}
+	}
 }

@@ -33,6 +33,9 @@ RwProjectLoadComponentV2 {
 					'RowanSample9-Core' : {
 						'symbolDictName' : 'RowanSample9_1'
 					},
+					'RowanSample9-Extensions' : {
+						'symbolDictName' : 'RowanSample9_1'
+					},
 					'RowanSample9-Extensions1' : {
 						'symbolDictName' : 'RowanSample9_1'
 					}
