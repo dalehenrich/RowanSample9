@@ -13,12 +13,11 @@ RwProjectLoadComponentV2 {
 		] : {
 			'core' : {
 				#packageNames : [
-					'RowanSample9-Core'
+					'RowanSample9-Core',
+					'RowanSample9-Extensions',
+					'RowanSample9-Extensions1'
 				],
-				#componentNames : [
-					'subs/Core1',
-					'subs/Core2'
-				]
+				#componentNames : [ ]
 			},
 			'tests' : {
 				#packageNames : [
@@ -32,6 +31,9 @@ RwProjectLoadComponentV2 {
 			'allusers' : {
 				#packageNameToPlatformPropertiesMap : {
 					'RowanSample9-Core' : {
+						'symbolDictName' : 'RowanSample9_1'
+					},
+					'RowanSample9-Extensions1' : {
 						'symbolDictName' : 'RowanSample9_1'
 					}
 				}

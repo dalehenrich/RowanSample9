@@ -17,5 +17,6 @@ RwNestedProjectLoadComponentV2 {
 				]
 			}
 		}
-	}
+	},
+	#conditionalPackageMapSpecs : { }
 }
