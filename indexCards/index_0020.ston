@@ -1,0 +1,12 @@
+RwTestProjectLibraryIndexCard {
+	#name : 'index_0020',
+	#title : 'Conditional components test case',
+	#specName : 'spec_0020',
+	#index : 20,
+	#derivedFrom : 'spec_0019',
+	#comment : 'Start with spec_0019, and undo work done to recreate spec_0017 structure -- find and fix holes in api',
+	#rowanIssues : [
+		554
+	],
+	#gemstoneIssues : [ ]
+}
