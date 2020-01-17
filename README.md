@@ -46,7 +46,7 @@ RwLoadSpecificationV2 {
 			}
 		}
 	},
-	#comment : ''
+	#comment : 'Bare bones package structure -Core and -Tests'
 }
 ```
 ### spec_0002
