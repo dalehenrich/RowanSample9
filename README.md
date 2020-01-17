@@ -121,7 +121,7 @@ RwLoadSpecificationV2 {
 			}
 		}
 	},
-	#comment : ''
+	#comment : 'Reconcile inconsistencies for storage of package-specific properties'
 }
 ```
 ### spec_0004_b
