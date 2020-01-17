@@ -246,7 +246,7 @@ RwLoadSpecificationV2 {
 			}
 		}
 	},
-	#comment : ''
+	#comment : 'two symbol dicts ... gemstone in one, the rest in another'
 }
 ```
 ### spec_0009
