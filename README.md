@@ -146,7 +146,7 @@ RwLoadSpecificationV2 {
 			}
 		}
 	},
-	#comment : ''
+	#comment : 'Create inconsistency in component definitions ... duplicate package error expected on load'
 }
 ```
 ### spec_0005
