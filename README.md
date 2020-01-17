@@ -196,7 +196,7 @@ RwLoadSpecificationV2 {
 			}
 		}
 	},
-	#comment : ''
+	#comment : 'spec_0002 with different symbol dict mappings'
 }
 ```
 ### spec_0007
