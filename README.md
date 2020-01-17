@@ -22,7 +22,7 @@ RwLoadSpecificationV2 {
 			}
 		}
 	},
-	#comment : ''
+	#comment : 'Empty project with no packages'
 }
 ```
 ### spec_0001
