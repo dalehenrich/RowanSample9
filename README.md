@@ -96,7 +96,7 @@ RwLoadSpecificationV2 {
 			}
 		}
 	},
-	#comment : ''
+	#comment : 'RowanSample4 primer project definition'
 }
 ```
 ### spec_0004
