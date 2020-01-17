@@ -1,6 +1,17 @@
 RwProjectLoadComponentV2 {
 	#name : 'Core1',
 	#comment : 'contains RowanSample9-Core1 package',
+	#conditionalPackageMapSpecs : {
+		'gemstone' : {
+			'allusers' : {
+				#packageNameToPlatformPropertiesMap : {
+					'RowanSample9-Core1' : {
+						'symbolDictName' : 'RowanSample9_2'
+					}
+				}
+			}
+		}
+	},
 	#definedGroupNames : {
 		'tests' : [
 			'core'
@@ -23,17 +34,6 @@ RwProjectLoadComponentV2 {
 				#packageNames : [
 					'RowanSample9-Tests'
 				]
-			}
-		}
-	},
-	#conditionalPackageMapSpecs : {
-		'gemstone' : {
-			'allusers' : {
-				#packageNameToPlatformPropertiesMap : {
-					'RowanSample9-Core1' : {
-						'symbolDictName' : 'RowanSample9_2'
-					}
-				}
 			}
 		}
 	}
