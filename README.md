@@ -171,7 +171,7 @@ RwLoadSpecificationV2 {
 			}
 		}
 	},
-	#comment : ''
+	#comment : 'Two classes, two  packages, plus tests. Primer for Issue 230'
 }
 ```
 ### spec_0006
