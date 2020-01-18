@@ -396,7 +396,7 @@ RwLoadSpecificationV2 {
 			}
 		}
 	},
-	#comment : ''
+	#comment : 'Starting with spec_0011, move extension method to a new extension package; move new extension package \n\t\tto the classes symbol dictionary. This is a legal combination (extension method and class in same symbol\n\t\tdictionary) the V2 classes are handling the symbol dictionary lookup properly, so this combo validates that\n\t\tthe bug (#493) is fixed.'
 }
 ```
 ### spec_0015
