@@ -538,7 +538,7 @@ RwLoadSpecificationV2 {
 			}
 		}
 	},
-	#comment : ''
+	#comment : 'Conditional components test case'
 }
 ```
 
