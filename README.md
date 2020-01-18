@@ -513,7 +513,7 @@ RwLoadSpecificationV2 {
 			}
 		}
 	},
-	#comment : ''
+	#comment : 'Conditional components test case'
 }
 ```
 ### spec_0020
