@@ -296,7 +296,7 @@ RwLoadSpecificationV2 {
 			}
 		}
 	},
-	#comment : ''
+	#comment : 'one symbol dict specified for gemstone, the rest in default --- default sym dict changed from 0009'
 }
 ```
 ### spec_0011
