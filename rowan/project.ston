@@ -2,6 +2,7 @@ RwProjectSpecificationV2 {
 	#specName : 'project',
 	#projectSpecPath : 'rowan',
 	#componentsPath : 'rowan/components',
+	#doitsPath : 'rowan/doits',
 	#packagesPath : 'source',
 	#projectsPath : 'rowan/projects',
 	#specsPath : 'rowan/specs',
