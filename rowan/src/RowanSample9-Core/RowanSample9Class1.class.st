@@ -7,8 +7,28 @@ Class {
 	#instVars : [
 		'ivar1'
 	],
+	#classVars : [
+		'PostLoadDoit',
+		'PretLoadDoit'
+	],
 	#category : 'RowanSample9-Core'
 }
+
+{ #category : 'accessing' }
+RowanSample9Class1 class >> postLoadDoit [ ^PostLoadDoit
+]
+
+{ #category : 'accessing' }
+RowanSample9Class1 class >> postLoadDoit: value [ PostLoadDoit := value
+]
+
+{ #category : 'accessing' }
+RowanSample9Class1 class >> preLoadDoit [ ^PreLoadDoit
+]
+
+{ #category : 'accessing' }
+RowanSample9Class1 class >> pretLoadDoit: value [ PretLoadDoit := value
+]
 
 { #category : 'accessing' }
 RowanSample9Class1 >> foo [ ^1
