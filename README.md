@@ -271,7 +271,7 @@ RwLoadSpecificationV2 {
 			}
 		}
 	},
-	#comment : ''
+	#comment : 'one symbol dict specified for gemstone, the rest in default (unspecified)'
 }
 ```
 ### spec_0010
