@@ -1,0 +1,12 @@
+RwTestProjectLibraryIndexCard {
+	#name : 'index_0021',
+	#title : 'Start with spec_0011, add pre and post load doits plus tests to validate that post load doits had been executed (part 1). Preload doit validation will be in part 2.',
+	#specName : 'spec_0021',
+	#index : 21,
+	#derivedFrom : 'spec_0011',
+	#comment : '',
+	#rowanIssues : [
+		568
+	],
+	#gemstoneIssues : [ ]
+}
