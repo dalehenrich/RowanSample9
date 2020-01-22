@@ -27,7 +27,7 @@ RowanSample9Class1 class >> preLoadDoit [ ^PreLoadDoit
 ]
 
 { #category : 'accessing' }
-RowanSample9Class1 class >> pretLoadDoit: value [ PreLoadDoit := value
+RowanSample9Class1 class >> preLoadDoit: value [ PreLoadDoit := value
 ]
 
 { #category : 'accessing' }
