@@ -9,7 +9,7 @@ Class {
 	],
 	#classVars : [
 		'PostLoadDoit',
-		'PretLoadDoit'
+		'PreLoadDoit'
 	],
 	#category : 'RowanSample9-Core'
 }
@@ -27,7 +27,7 @@ RowanSample9Class1 class >> preLoadDoit [ ^PreLoadDoit
 ]
 
 { #category : 'accessing' }
-RowanSample9Class1 class >> pretLoadDoit: value [ PretLoadDoit := value
+RowanSample9Class1 class >> pretLoadDoit: value [ PreLoadDoit := value
 ]
 
 { #category : 'accessing' }
