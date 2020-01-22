@@ -17,6 +17,7 @@ RowanSample9TestCase >> test2 [  self assert: RowanSample9Class1 bar = 'bar'
 
 { #category : 'tests' }
 RowanSample9TestCase >> testPostLoadDoits [
+	"part 1"
 	self assert: RowanSample9Class1 preLoadDoit = nil.
 	self assert: RowanSample9Class1 postLoadDoit = 'done'.
 
