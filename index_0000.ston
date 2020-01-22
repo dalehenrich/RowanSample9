@@ -6,5 +6,6 @@ RwTestProjectLibraryIndexCard {
 	#derivedFrom : 'master',
 	#comment : '',
 	#rowanIssues : [ ],
-	#gemstoneIssues : [ ]
+	#gemstoneIssues : [ ],
+	#rowanSHA : '31c52f03'
 }
