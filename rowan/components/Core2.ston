@@ -3,6 +3,8 @@ RwSimpleProjectLoadComponentV2 {
 	#comment : 'Second component for loading second package',
 	#condition : 'common',
 	#groupName : 'core',
+	#preloadDoitName : 'doits/preloadDoit_Core2',
+	#postloadDoitName : 'doits/postloadDoit_Core2',
 	#packageNames : [
 		'RowanSample9-Core2'
 	],
