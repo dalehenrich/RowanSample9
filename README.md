@@ -614,6 +614,27 @@ RwLoadSpecificationV2 {
 		}
 	},
 	#comment : 'Start with spec_0011, add a sequence of packages each subclassing off of the the other to be loaded in order. The Core component is a sequenced component.'
+}RwLoadSpecificationV2 {
+	#specName : 'spec_0015',
+	#projectName : 'RowanSample9',
+	#gitUrl : 'https://github.com/dalehenrich/RowanSample9',
+	#revision : 'spec_0015',
+	#projectSpecFile : 'rowan/project.ston',
+	#componentNames : [
+		'Core'
+	],
+	#groupNames : [
+		'core',
+		'tests'
+	],
+	#platformProperties : {
+		'gemstone' : {
+			'allusers' : {
+				#defaultSymbolDictName : #RowanSample9_1
+			}
+		}
+	},
+	#comment : 'Starting with spec_0014, remove the old (now empty) package from the project as triggering a package move\n\tas opposed to a class move seems to trigger the bug, which implies that move package is not quite right. \n\n\tIt seems that assigning a new symbol dictionary to the OLD package ... the package that the class is moved FROM\n\tmay trigger a bogus package move.\n\n\tThe test RwRowanProjectIssuesTestV2 >> testIssue495_move_class_and_extension_method_to_new_symbol_dict\n\tshowed that #493 wasn\'t fixed by the V2 implementation.'
 }
 ```
 
