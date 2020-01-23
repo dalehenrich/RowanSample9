@@ -1,0 +1,11 @@
+RwSimpleProjectLoadComponentV2 {
+	#name : 'Core3',
+	#comment : 'Third component for loading third package',
+	#condition : 'common',
+	#groupName : 'core',
+	#packageNames : [
+		'RowanSample9-Core3'
+	],
+	#componentNames : [ ],
+	#projectNames : [ ]
+}

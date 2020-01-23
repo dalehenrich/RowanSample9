@@ -4,6 +4,9 @@ RwSequencedProjectLoadComponentV2 {
 	#condition : 'common',
 	#groupName : 'core',
 	#componentNames : [
-		'Core1'
+		'Core1',
+		'Core3',
+		'Core4',
+		'Core2'
 	]
 }

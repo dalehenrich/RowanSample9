@@ -1,0 +1,11 @@
+RwSimpleProjectLoadComponentV2 {
+	#name : 'Core2',
+	#comment : 'Second component for loading second package',
+	#condition : 'common',
+	#groupName : 'core',
+	#packageNames : [
+		'RowanSample9-Core2'
+	],
+	#componentNames : [ ],
+	#projectNames : [ ]
+}

@@ -1,0 +1,11 @@
+RwSimpleProjectLoadComponentV2 {
+	#name : 'Core4',
+	#comment : 'Fourth component for loading fourth package',
+	#condition : 'common',
+	#groupName : 'core',
+	#packageNames : [
+		'RowanSample9-Core4'
+	],
+	#componentNames : [ ],
+	#projectNames : [ ]
+}
