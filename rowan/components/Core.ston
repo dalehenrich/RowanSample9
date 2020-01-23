@@ -3,5 +3,7 @@ RwSequencedProjectLoadComponentV2 {
 	#comment : 'master component, that will load 4 simple components in order with each component doing a complete, independent load',
 	#condition : 'common',
 	#groupName : 'core',
-	#componentNames : [ ]
+	#componentNames : [
+		'Core1'
+	]
 }
