@@ -613,7 +613,7 @@ RwLoadSpecificationV2 {
 			}
 		}
 	},
-	#comment : 'Start with spec_0011, add a sequence of packages each subclassing off of the the other to be loaded in order.'
+	#comment : 'Start with spec_0011, add a sequence of packages each subclassing off of the the other to be loaded in order. The Core component is a sequenced component.'
 }
 ```
 
