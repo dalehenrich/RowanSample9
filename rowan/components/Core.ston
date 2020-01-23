@@ -2,6 +2,8 @@ RwProjectLoadComponentV2 {
 	#name : 'Core',
 	#comment : 'Primary component used for loading the core classes.',
 	#conditionalPackageMapSpecs : { },
+	#preloadDoitName : 'doits/preloadDoit',
+	#postloadDoitName : 'doits/postloadDoit',
 	#definedGroupNames : {
 		'tests' : [
 			'core'
