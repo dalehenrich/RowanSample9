@@ -24,6 +24,8 @@ RwLoadSpecificationV2 {
 	},
 	#comment : 'Empty project with no packages'
 }
+
+
 ```
 ### spec_0001
 ```
@@ -48,6 +50,8 @@ RwLoadSpecificationV2 {
 	},
 	#comment : 'Bare bones package structure -Core and -Tests'
 }
+
+
 ```
 ### spec_0002
 ```
@@ -73,6 +77,8 @@ RwLoadSpecificationV2 {
 	},
 	#comment : 'RowanSample4 basic project definition'
 }
+
+
 ```
 ### spec_0003
 ```
@@ -98,6 +104,8 @@ RwLoadSpecificationV2 {
 	},
 	#comment : 'RowanSample4 primer project definition'
 }
+
+
 ```
 ### spec_0004
 ```
@@ -123,6 +131,8 @@ RwLoadSpecificationV2 {
 	},
 	#comment : 'Reconcile inconsistencies for storage of package-specific properties'
 }
+
+
 ```
 ### spec_0004_b
 ```
@@ -148,6 +158,8 @@ RwLoadSpecificationV2 {
 	},
 	#comment : 'Create inconsistency in component definitions ... duplicate package error expected on load'
 }
+
+
 ```
 ### spec_0005
 ```
@@ -173,6 +185,8 @@ RwLoadSpecificationV2 {
 	},
 	#comment : 'Two classes, two  packages, plus tests. Primer for Issue 230'
 }
+
+
 ```
 ### spec_0006
 ```
@@ -198,6 +212,8 @@ RwLoadSpecificationV2 {
 	},
 	#comment : 'spec_0002 with different symbol dict mappings'
 }
+
+
 ```
 ### spec_0007
 ```
@@ -223,6 +239,8 @@ RwLoadSpecificationV2 {
 	},
 	#comment : 'Two classes, two  packages, plus tests. Primer for Issue 230, using ivs instead of instancesInvariant'
 }
+
+
 ```
 ### spec_0008
 ```
@@ -248,6 +266,8 @@ RwLoadSpecificationV2 {
 	},
 	#comment : 'two symbol dicts ... gemstone in one, the rest in another'
 }
+
+
 ```
 ### spec_0009
 ```
@@ -273,6 +293,8 @@ RwLoadSpecificationV2 {
 	},
 	#comment : 'one symbol dict specified for gemstone, the rest in default (unspecified)'
 }
+
+
 ```
 ### spec_0010
 ```
@@ -298,6 +320,8 @@ RwLoadSpecificationV2 {
 	},
 	#comment : 'one symbol dict specified for gemstone, the rest in default --- default sym dict changed from 0009'
 }
+
+
 ```
 ### spec_0011
 ```
@@ -323,6 +347,8 @@ RwLoadSpecificationV2 {
 	},
 	#comment : 'A single class with an extension method in a separate package. All packages loaded into a single symbol dict. Test methods validate classes and symbol dictionary mapping.'
 }
+
+
 ```
 ### spec_0012
 ```
@@ -348,6 +374,8 @@ RwLoadSpecificationV2 {
 	},
 	#comment : 'Starting with spec_0011, move extension method to a new extension package; move class package to a \n\t\tdifferent symbol dict; move new extension package to a third symbol dictionary. This is an illegal combination\n\t\t(extension method and class in different symbol dictionaries) and does cause an error.'
 }
+
+
 ```
 ### spec_0013
 ```
@@ -373,6 +401,8 @@ RwLoadSpecificationV2 {
 	},
 	#comment : 'Starting with spec_0011, move extension method to a new extension package; move class package to a \n\t\tdifferent symbol dict; move new extension package to the first symbol dictionary. This is an illegal combination\n\t\t(extension method and class in different symbol dictionaries) and does cause an error.'
 }
+
+
 ```
 ### spec_0014
 ```
@@ -398,6 +428,8 @@ RwLoadSpecificationV2 {
 	},
 	#comment : 'Starting with spec_0011, move extension method to a new extension package; move new extension package \n\t\tto the classes symbol dictionary. This is a legal combination (extension method and class in same symbol\n\t\tdictionary) the V2 classes are handling the symbol dictionary lookup properly, so this combo validates that\n\t\tthe bug (#493) is fixed.'
 }
+
+
 ```
 ### spec_0015
 ```
@@ -423,6 +455,8 @@ RwLoadSpecificationV2 {
 	},
 	#comment : 'Starting with spec_0014, remove the old (now empty) package from the project as triggering a package move\n\tas opposed to a class move seems to trigger the bug, which implies that move package is not quite right. \n\n\tIt seems that assigning a new symbol dictionary to the OLD package ... the package that the class is moved FROM\n\tmay trigger a bogus package move.\n\n\tThe test RwRowanProjectIssuesTestV2 >> testIssue495_move_class_and_extension_method_to_new_symbol_dict\n\tshowed that #493 wasn\'t fixed by the V2 implementation.'
 }
+
+
 ```
 ### spec_0016
 ```
@@ -448,6 +482,8 @@ RwLoadSpecificationV2 {
 	},
 	#comment : 'Starting with spec_0015, move an extension method from one package to another with no modifications'
 }
+
+
 ```
 ### spec_0017
 ```
@@ -473,6 +509,8 @@ RwLoadSpecificationV2 {
 	},
 	#comment : 'Starting with spec_0015, change symbol dictionary of RowanSample9-Extensions to match symbol dictionary of RowanSample9-Extensions'
 }
+
+
 ```
 ### spec_0018
 ```
@@ -490,6 +528,8 @@ RwLoadSpecificationV2 {
 	],
 	#comment : 'Build a sample vast/gemstone project based on information in https://github.com/dalehenrich/tonel-demos/tree/rowan_553'
 }
+
+
 ```
 ### spec_0019
 ```
@@ -515,6 +555,8 @@ RwLoadSpecificationV2 {
 	},
 	#comment : 'Conditional components test case'
 }
+
+
 ```
 ### spec_0020
 ```
@@ -540,6 +582,8 @@ RwLoadSpecificationV2 {
 	},
 	#comment : 'Conditional components test case'
 }
+
+
 ```
 ### spec_0021
 ```
@@ -565,6 +609,8 @@ RwLoadSpecificationV2 {
 	},
 	#comment : 'Start with spec_0011, add pre and post load doits plus tests to validate that post load doits had been executed (part 1). Preload doit validation will be in part 2.'
 }
+
+
 ```
 ### spec_0022
 ```
@@ -590,6 +636,8 @@ RwLoadSpecificationV2 {
 	},
 	#comment : 'Start with spec_0021, add pre and post load doits adjust tests to validate that pre load doits had been executed (part 2)'
 }
+
+
 ```
 ### spec_0023
 ```
@@ -614,28 +662,21 @@ RwLoadSpecificationV2 {
 		}
 	},
 	#comment : 'Start with spec_0011, add a sequence of packages each subclassing off of the the other to be loaded in order. The Core component is a sequenced component.'
-}RwLoadSpecificationV2 {
-	#specName : 'spec_0015',
-	#projectName : 'RowanSample9',
-	#gitUrl : 'https://github.com/dalehenrich/RowanSample9',
-	#revision : 'spec_0015',
-	#projectSpecFile : 'rowan/project.ston',
-	#componentNames : [
-		'Core'
-	],
-	#groupNames : [
-		'core',
-		'tests'
-	],
-	#platformProperties : {
-		'gemstone' : {
-			'allusers' : {
-				#defaultSymbolDictName : #RowanSample9_1
-			}
-		}
-	},
-	#comment : 'Starting with spec_0014, remove the old (now empty) package from the project as triggering a package move\n\tas opposed to a class move seems to trigger the bug, which implies that move package is not quite right. \n\n\tIt seems that assigning a new symbol dictionary to the OLD package ... the package that the class is moved FROM\n\tmay trigger a bogus package move.\n\n\tThe test RwRowanProjectIssuesTestV2 >> testIssue495_move_class_and_extension_method_to_new_symbol_dict\n\tshowed that #493 wasn\'t fixed by the V2 implementation.'
 }
+RwTestProjectLibraryIndexCard {
+	#name : 'index_0016',
+	#title : 'Starting with spec_0015, move an extension method from one package to another with no modifications',
+	#specName : 'spec_0016',
+	#index : 16,
+	#derivedFrom : 'spec_0015',
+	#comment : 'Move extension method from  RowanSample9-Extensions1 to RowanSample9-Extensions.',
+	#rowanIssues : [
+		557
+	],
+	#gemstoneIssues : [ ],
+	#rowanSHA : '31c52f03'
+}
+
 ```
 
 *This README file is autogenerated, so any direct edits may be lost.*
