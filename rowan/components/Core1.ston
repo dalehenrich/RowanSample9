@@ -1,22 +1,12 @@
-RwProjectLoadComponentV2 {
+RwSimpleProjectLoadComponentV2 {
 	#name : 'Core1',
 	#comment : 'First component for loading first package',
-	#postloadDoitName : 'doits/postloadDoit',
-	#definedGroupNames : {
-		'tests' : [
-			'core'
-		],
-		'core' : [ ]
-	},
-	#conditionalProperties : {
-		[
-			'common'
-		] : {
-			'core' : {
-				#packageNames : [
-					'RowanSample9-Core'
-				]
-			}
-		}
-	}
+	#condition : 'common',
+	#groupName : 'core',
+	#postloadDoitName : 'doits/postloadDoit_Core1',
+	#packageNames : [
+		'RowanSample9-Core'
+	],
+	#componentNames : [ ],
+	#projectNames : [ ]
 }
