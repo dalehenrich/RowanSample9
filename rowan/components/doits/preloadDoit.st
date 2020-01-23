@@ -1,1 +1,0 @@
-(Rowan globalNamed: 'RowanSample9Class1') ifNotNil: [:class | class perform: #preLoadDoit: with: 'done' ]
