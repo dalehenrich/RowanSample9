@@ -24,6 +24,7 @@ RwLoadSpecificationV2 {
 	},
 	#comment : 'Empty project with no packages'
 }
+
 RwTestProjectLibraryIndexCard {
 	#name : 'index_0000',
 	#title : 'Empty project with no packages',
@@ -35,7 +36,6 @@ RwTestProjectLibraryIndexCard {
 	#gemstoneIssues : [ ],
 	#rowanSHA : '31c52f03'
 }
-
 ```
 ### spec_0001
 ```
@@ -60,6 +60,7 @@ RwLoadSpecificationV2 {
 	},
 	#comment : 'Bare bones package structure -Core and -Tests'
 }
+
 RwTestProjectLibraryIndexCard {
 	#name : 'index_0001',
 	#title : 'Bare bones package structure -Core and -Tests',
@@ -73,7 +74,6 @@ RwTestProjectLibraryIndexCard {
 	#gemstoneIssues : [ ],
 	#rowanSHA : '31c52f03'
 }
-
 ```
 ### spec_0002
 ```
@@ -99,6 +99,7 @@ RwLoadSpecificationV2 {
 	},
 	#comment : 'RowanSample4 basic project definition'
 }
+
 RwTestProjectLibraryIndexCard {
 	#name : 'index_0002',
 	#title : 'RowanSample4 basic project definition',
@@ -113,7 +114,6 @@ RwTestProjectLibraryIndexCard {
 	#gemstoneIssues : [ ],
 	#rowanSHA : '31c52f03'
 }
-
 ```
 ### spec_0003
 ```
@@ -139,6 +139,7 @@ RwLoadSpecificationV2 {
 	},
 	#comment : 'RowanSample4 primer project definition'
 }
+
 RwTestProjectLibraryIndexCard {
 	#name : 'index_0003',
 	#title : 'RowanSample4 primer project definition',
@@ -152,7 +153,6 @@ RwTestProjectLibraryIndexCard {
 	#gemstoneIssues : [ ],
 	#rowanSHA : '31c52f03'
 }
-
 ```
 ### spec_0004
 ```
@@ -178,6 +178,7 @@ RwLoadSpecificationV2 {
 	},
 	#comment : 'Reconcile inconsistencies for storage of package-specific properties'
 }
+
 RwTestProjectLibraryIndexCard {
 	#name : 'index_0004',
 	#title : 'Reconcile inconsistencies for storage of package-specific properties',
@@ -192,7 +193,6 @@ RwTestProjectLibraryIndexCard {
 	#gemstoneIssues : [ ],
 	#rowanSHA : '31c52f03'
 }
-
 ```
 ### spec_0004_b
 ```
@@ -218,6 +218,7 @@ RwLoadSpecificationV2 {
 	},
 	#comment : 'Create inconsistency in component definitions ... duplicate package error expected on load'
 }
+
 RwTestProjectLibraryIndexCard {
 	#name : 'index_0004_b',
 	#title : 'Create inconsistency in component definitions ... duplicate package error expected on load',
@@ -231,7 +232,6 @@ RwTestProjectLibraryIndexCard {
 	#gemstoneIssues : [ ],
 	#rowanSHA : '31c52f03'
 }
-
 ```
 ### spec_0005
 ```
@@ -257,6 +257,7 @@ RwLoadSpecificationV2 {
 	},
 	#comment : 'Two classes, two  packages, plus tests. Primer for Issue 230'
 }
+
 RwTestProjectLibraryIndexCard {
 	#name : 'index_0005',
 	#title : 'Two classes, two  packages, plus tests. Primer for Issue 230',
@@ -270,7 +271,6 @@ RwTestProjectLibraryIndexCard {
 	#gemstoneIssues : [ ],
 	#rowanSHA : '31c52f03'
 }
-
 ```
 ### spec_0006
 ```
@@ -296,6 +296,7 @@ RwLoadSpecificationV2 {
 	},
 	#comment : 'spec_0002 with different symbol dict mappings'
 }
+
 RwTestProjectLibraryIndexCard {
 	#name : 'index_0006',
 	#title : 'spec_0002 with different symbol dict mappings',
@@ -309,7 +310,6 @@ RwTestProjectLibraryIndexCard {
 	#gemstoneIssues : [ ],
 	#rowanSHA : '31c52f03'
 }
-
 ```
 ### spec_0007
 ```
@@ -335,6 +335,7 @@ RwLoadSpecificationV2 {
 	},
 	#comment : 'Two classes, two  packages, plus tests. Primer for Issue 230, using ivs instead of instancesInvariant'
 }
+
 RwTestProjectLibraryIndexCard {
 	#name : 'index_0007',
 	#title : 'Two classes, two  packages, plus tests. Primer for Issue 230, using ivs instead of instancesInvariant',
@@ -348,7 +349,6 @@ RwTestProjectLibraryIndexCard {
 	#gemstoneIssues : [ ],
 	#rowanSHA : '31c52f03'
 }
-
 ```
 ### spec_0008
 ```
@@ -374,6 +374,7 @@ RwLoadSpecificationV2 {
 	},
 	#comment : 'two symbol dicts ... gemstone in one, the rest in another'
 }
+
 RwTestProjectLibraryIndexCard {
 	#name : 'index_0008',
 	#title : 'two symbol dicts ... gemstone in one, the rest in another',
@@ -387,7 +388,6 @@ RwTestProjectLibraryIndexCard {
 	#gemstoneIssues : [ ],
 	#rowanSHA : '31c52f03'
 }
-
 ```
 ### spec_0009
 ```
@@ -413,6 +413,7 @@ RwLoadSpecificationV2 {
 	},
 	#comment : 'one symbol dict specified for gemstone, the rest in default (unspecified)'
 }
+
 RwTestProjectLibraryIndexCard {
 	#name : 'index_0009',
 	#title : 'one symbol dict specified for gemstone, the rest in default (unspecified)',
@@ -426,7 +427,6 @@ RwTestProjectLibraryIndexCard {
 	#gemstoneIssues : [ ],
 	#rowanSHA : '31c52f03'
 }
-
 ```
 ### spec_0010
 ```
@@ -452,6 +452,7 @@ RwLoadSpecificationV2 {
 	},
 	#comment : 'one symbol dict specified for gemstone, the rest in default --- default sym dict changed from 0009'
 }
+
 RwTestProjectLibraryIndexCard {
 	#name : 'index_0010',
 	#title : 'one symbol dict specified for gemstone, the rest in default --- default sym dict changed from 0009',
@@ -465,7 +466,6 @@ RwTestProjectLibraryIndexCard {
 	#gemstoneIssues : [ ],
 	#rowanSHA : '31c52f03'
 }
-
 ```
 ### spec_0011
 ```
@@ -491,6 +491,7 @@ RwLoadSpecificationV2 {
 	},
 	#comment : 'A single class with an extension method in a separate package. All packages loaded into a single symbol dict. Test methods validate classes and symbol dictionary mapping.'
 }
+
 RwTestProjectLibraryIndexCard {
 	#name : 'index_0011',
 	#title : 'A single class with an extension method in a separate package. All packages loaded into a single symbol dict. Test methods validate classes and symbol dictionary mapping.',
@@ -504,7 +505,6 @@ RwTestProjectLibraryIndexCard {
 	#gemstoneIssues : [ ],
 	#rowanSHA : '31c52f03'
 }
-
 ```
 ### spec_0012
 ```
@@ -530,6 +530,7 @@ RwLoadSpecificationV2 {
 	},
 	#comment : 'Starting with spec_0011, move extension method to a new extension package; move class package to a \n\t\tdifferent symbol dict; move new extension package to a third symbol dictionary. This is an illegal combination\n\t\t(extension method and class in different symbol dictionaries) and does cause an error.'
 }
+
 RwTestProjectLibraryIndexCard {
 	#name : 'index_0012',
 	#title : 'Starting with spec_0011, move extension method to a new extension package; move class package to a \n\t\tdifferent symbol dict; move new extension package to a third symbol dictionary. This is an illegal combination\n\t\t(extension method and class in different symbol dictionaries) and does cause an error.',
@@ -543,7 +544,6 @@ RwTestProjectLibraryIndexCard {
 	#gemstoneIssues : [ ],
 	#rowanSHA : '31c52f03'
 }
-
 ```
 ### spec_0013
 ```
@@ -569,6 +569,7 @@ RwLoadSpecificationV2 {
 	},
 	#comment : 'Starting with spec_0011, move extension method to a new extension package; move class package to a \n\t\tdifferent symbol dict; move new extension package to the first symbol dictionary. This is an illegal combination\n\t\t(extension method and class in different symbol dictionaries) and does cause an error.'
 }
+
 RwTestProjectLibraryIndexCard {
 	#name : 'index_0013',
 	#title : 'Starting with spec_0011, move extension method to a new extension package; move class package to a \n\t\tdifferent symbol dict; move new extension package to the first symbol dictionary. This is an illegal combination\n\t\t(extension method and class in different symbol dictionaries) and does cause an error.',
@@ -582,7 +583,6 @@ RwTestProjectLibraryIndexCard {
 	#gemstoneIssues : [ ],
 	#rowanSHA : '31c52f03'
 }
-
 ```
 ### spec_0014
 ```
@@ -608,6 +608,7 @@ RwLoadSpecificationV2 {
 	},
 	#comment : 'Starting with spec_0011, move extension method to a new extension package; move new extension package \n\t\tto the classes symbol dictionary. This is a legal combination (extension method and class in same symbol\n\t\tdictionary) the V2 classes are handling the symbol dictionary lookup properly, so this combo validates that\n\t\tthe bug (#493) is fixed.'
 }
+
 RwTestProjectLibraryIndexCard {
 	#name : 'index_0014',
 	#title : 'Starting with spec_0011, move extension method to a new extension package; move new extension package \n\t\tto the classes symbol dictionary. This is a legal combination (extension method and class in same symbol\n\t\tdictionary) the V2 classes are handling the symbol dictionary lookup properly, so this combo validates that\n\t\tthe bug (#493) is fixed.',
@@ -621,7 +622,6 @@ RwTestProjectLibraryIndexCard {
 	#gemstoneIssues : [ ],
 	#rowanSHA : '31c52f03'
 }
-
 ```
 ### spec_0015
 ```
@@ -647,6 +647,7 @@ RwLoadSpecificationV2 {
 	},
 	#comment : 'Starting with spec_0014, remove the old (now empty) package from the project as triggering a package move\n\tas opposed to a class move seems to trigger the bug, which implies that move package is not quite right. \n\n\tIt seems that assigning a new symbol dictionary to the OLD package ... the package that the class is moved FROM\n\tmay trigger a bogus package move.\n\n\tThe test RwRowanProjectIssuesTestV2 >> testIssue495_move_class_and_extension_method_to_new_symbol_dict\n\tshowed that #493 wasn\'t fixed by the V2 implementation.'
 }
+
 RwTestProjectLibraryIndexCard {
 	#name : 'index_0015',
 	#title : 'Starting with spec_0014, remove the old (now empty) package from the project as triggering a package move\n\tas opposed to a class move seems to trigger the bug, which implies that move package is not quite right. \n\n\tIt seems that assigning a new symbol dictionary to the OLD package ... the package that the class is moved FROM\n\tmay trigger a bogus package move.\n\n\tThe test RwRowanProjectIssuesTestV2 >> testIssue495_move_class_and_extension_method_to_new_symbol_dict\n\tshowed that #493 wasn\'t fixed by the V2 implementation.',
@@ -660,7 +661,6 @@ RwTestProjectLibraryIndexCard {
 	#gemstoneIssues : [ ],
 	#rowanSHA : '31c52f03'
 }
-
 ```
 ### spec_0016
 ```
@@ -686,6 +686,7 @@ RwLoadSpecificationV2 {
 	},
 	#comment : 'Starting with spec_0015, move an extension method from one package to another with no modifications'
 }
+
 RwTestProjectLibraryIndexCard {
 	#name : 'index_0016',
 	#title : 'Starting with spec_0015, move an extension method from one package to another with no modifications',
@@ -699,7 +700,6 @@ RwTestProjectLibraryIndexCard {
 	#gemstoneIssues : [ ],
 	#rowanSHA : '31c52f03'
 }
-
 ```
 ### spec_0017
 ```
@@ -725,6 +725,7 @@ RwLoadSpecificationV2 {
 	},
 	#comment : 'Starting with spec_0015, change symbol dictionary of RowanSample9-Extensions to match symbol dictionary of RowanSample9-Extensions'
 }
+
 RwTestProjectLibraryIndexCard {
 	#name : 'index_0017',
 	#title : 'Starting with spec_0015, change symbol dictionary of RowanSample9-Extensions to match symbol dictionary of RowanSample9-Extensions',
@@ -738,7 +739,6 @@ RwTestProjectLibraryIndexCard {
 	#gemstoneIssues : [ ],
 	#rowanSHA : '31c52f03'
 }
-
 ```
 ### spec_0018
 ```
@@ -756,6 +756,7 @@ RwLoadSpecificationV2 {
 	],
 	#comment : 'Build a sample vast/gemstone project based on information in https://github.com/dalehenrich/tonel-demos/tree/rowan_553'
 }
+
 RwTestProjectLibraryIndexCard {
 	#name : 'index_0018',
 	#title : 'Build a sample vast/gemstone project based on information in https://github.com/dalehenrich/tonel-demos/tree/rowan_553',
@@ -770,7 +771,6 @@ RwTestProjectLibraryIndexCard {
 	#gemstoneIssues : [ ],
 	#rowanSHA : '31c52f03'
 }
-
 ```
 ### spec_0019
 ```
@@ -796,6 +796,7 @@ RwLoadSpecificationV2 {
 	},
 	#comment : 'Conditional components test case'
 }
+
 RwTestProjectLibraryIndexCard {
 	#name : 'index_0019',
 	#title : 'Conditional components test case',
@@ -809,7 +810,6 @@ RwTestProjectLibraryIndexCard {
 	#gemstoneIssues : [ ],
 	#rowanSHA : '31c52f03'
 }
-
 ```
 ### spec_0020
 ```
@@ -835,6 +835,7 @@ RwLoadSpecificationV2 {
 	},
 	#comment : 'Conditional components test case'
 }
+
 RwTestProjectLibraryIndexCard {
 	#name : 'index_0020',
 	#title : 'Conditional components test case',
@@ -848,7 +849,6 @@ RwTestProjectLibraryIndexCard {
 	#gemstoneIssues : [ ],
 	#rowanSHA : '31c52f03'
 }
-
 ```
 ### spec_0021
 ```
@@ -874,6 +874,7 @@ RwLoadSpecificationV2 {
 	},
 	#comment : 'Start with spec_0011, add pre and post load doits plus tests to validate that post load doits had been executed (part 1). Preload doit validation will be in part 2.'
 }
+
 RwTestProjectLibraryIndexCard {
 	#name : 'index_0021',
 	#title : 'Start with spec_0011, add pre and post load doits plus tests to validate that post load doits had been executed (part 1). Preload doit validation will be in part 2.',
@@ -887,7 +888,6 @@ RwTestProjectLibraryIndexCard {
 	#gemstoneIssues : [ ],
 	#rowanSHA : '31c52f03'
 }
-
 ```
 ### spec_0022
 ```
@@ -913,6 +913,7 @@ RwLoadSpecificationV2 {
 	},
 	#comment : 'Start with spec_0021, add pre and post load doits adjust tests to validate that pre load doits had been executed (part 2)'
 }
+
 RwTestProjectLibraryIndexCard {
 	#name : 'index_0022',
 	#title : 'Start with spec_0021, add pre and post load doits adjust tests to validate that pre load doits had been executed (part 2)',
@@ -926,7 +927,6 @@ RwTestProjectLibraryIndexCard {
 	#gemstoneIssues : [ ],
 	#rowanSHA : '31c52f03'
 }
-
 ```
 ### spec_0023
 ```
@@ -952,6 +952,7 @@ RwLoadSpecificationV2 {
 	},
 	#comment : 'Start with spec_0011, add a sequence of packages each subclassing off of the the other to be loaded in order. The Core component is a sequenced component.'
 }
+
 RwTestProjectLibraryIndexCard {
 	#name : 'index_0023',
 	#title : 'Start with spec_0011, add a sequence of packages each subclassing off of the the other to be loaded in order. The Core component is a sequenced component.',
@@ -965,7 +966,6 @@ RwTestProjectLibraryIndexCard {
 	#gemstoneIssues : [ ],
 	#rowanSHA : '4250fa53'
 }
-
 ```
 
 *This README file is autogenerated, so any direct edits may be lost.*
