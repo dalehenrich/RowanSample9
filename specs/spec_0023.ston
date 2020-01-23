@@ -1,0 +1,22 @@
+RwLoadSpecificationV2 {
+	#specName : 'spec_0023',
+	#projectName : 'RowanSample9',
+	#gitUrl : 'https://github.com/dalehenrich/RowanSample9',
+	#revision : 'spec_0023',
+	#projectSpecFile : 'rowan/project.ston',
+	#componentNames : [
+		'Core'
+	],
+	#groupNames : [
+		'core',
+		'tests'
+	],
+	#platformProperties : {
+		'gemstone' : {
+			'allusers' : {
+				#defaultSymbolDictName : #RowanSample9_1
+			}
+		}
+	},
+	#comment : 'Start with spec_0011, add a sequence of packages each subclassing off of the the other to be loaded in order.'
+}
