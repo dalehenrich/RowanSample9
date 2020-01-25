@@ -1,12 +1,14 @@
-RwSequencedProjectLoadComponentV2 {
+RwSimpleProjectLoadComponentV2 {
 	#name : 'Core',
 	#comment : 'master component, that will load 4 simple components in order with each component doing a complete, independent load',
 	#condition : 'common',
 	#groupName : 'core',
+	#packageNames : [ ],
 	#componentNames : [
 		'Core1',
 		'Core2',
 		'Core3',
 		'Core4'
-	]
+	],
+	#projectNames : [ ]
 }
