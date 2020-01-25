@@ -941,7 +941,8 @@ RwLoadSpecificationV2 {
 	],
 	#groupNames : [
 		'core',
-		'tests'
+		'tests',
+		'core'
 	],
 	#platformProperties : {
 		'gemstone' : {
@@ -964,7 +965,7 @@ RwTestProjectLibraryIndexCard {
 		568
 	],
 	#gemstoneIssues : [ ],
-	#rowanSHA : '4250fa53'
+	#rowanSHA : '1ae90905'
 }
 ```
 
