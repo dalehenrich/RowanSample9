@@ -6,7 +6,8 @@ RwSimpleProjectLoadComponentV2 {
 	#preloadDoitName : 'doits/preloadDoit_Core2',
 	#postloadDoitName : 'doits/postloadDoit_Core2',
 	#packageNames : [
-		'RowanSample9-Core2'
+		'RowanSample9-Core2',
+		'RowanSample9-Tests2'
 	],
 	#componentNames : [ ],
 	#projectNames : [ ]
