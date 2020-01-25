@@ -12,10 +12,6 @@ RowanSample9TestCase >> test [  self assert: RowanSample9Class1 new foo = 1
 ]
 
 { #category : 'tests' }
-RowanSample9TestCase >> test2 [  self assert: RowanSample9Class1 bar = 'bar'
-]
-
-{ #category : 'tests' }
 RowanSample9TestCase >> testPostLoadDoits [
 	self assert: RowanSample9Class1 postLoadDoit = 1.
 
