@@ -1,6 +1,5 @@
 # RowanSample9 - spec_0011
 A single class with an extension method in a separate package. All packages loaded into a single symbol dict. Test methods validate classes and symbol dictionary mapping.
-### spec_0011
 ```
 RwLoadSpecificationV2 {
 	#specName : 'spec_0011',
