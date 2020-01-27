@@ -1,6 +1,5 @@
 # RowanSample9 - spec_0001
 Bare bones package structure -Core and -Tests
-### spec_0001
 ```
 RwLoadSpecificationV2 {
 	#specName : 'spec_0001',
