@@ -4,7 +4,9 @@ RwSimpleNestedProjectLoadComponentV2 {
 	#condition : 'vast',
 	#groupName : 'tests',
 	#packageNames : [ ],
-	#componentNames : [ ],
+	#componentNames : [
+		'VAST_IMAGE/Sunit'
+	],
 	#projectNames : [ ],
 	#conditionalPackageMapSpecs : { }
 }
