@@ -1,6 +1,5 @@
 # RowanSample9 - spec_0020
 Conditional components test case
-### spec_0020
 ```
 RwLoadSpecificationV2 {
 	#specName : 'spec_0020',
