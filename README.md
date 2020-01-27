@@ -1,6 +1,5 @@
 # RowanSample9 - spec_0006
 spec_0002 with different symbol dict mappings
-### spec_0006
 ```
 RwLoadSpecificationV2 {
 	#specName : 'spec_0006',
