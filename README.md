@@ -1,6 +1,5 @@
 # RowanSample9 - spec_0004
 Reconcile inconsistencies for storage of package-specific properties
-### spec_0004
 ```
 RwLoadSpecificationV2 {
 	#specName : 'spec_0004',
