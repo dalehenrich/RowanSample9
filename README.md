@@ -1,6 +1,5 @@
 # RowanSample9 - spec_0000
 Empty project with no packages
-### spec_0000
 ```
 RwLoadSpecificationV2 {
 	#specName : 'spec_0000',
