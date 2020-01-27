@@ -1,6 +1,5 @@
 # RowanSample9 - spec_0022
 Start with spec_0021, add pre and post load doits adjust tests to validate that pre load doits had been executed (part 2)
-### spec_0022
 ```
 RwLoadSpecificationV2 {
 	#specName : 'spec_0022',
