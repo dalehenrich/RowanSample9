@@ -1,0 +1,9 @@
+RwEnvySubApplicationProjectLoadComponentV2 {
+	#name : 'envy/platform/Extensions-Pharo',
+	#comment : 'Subapplication for loading pharo-specific packages',
+	#packageNames : [
+		'RowanSample9-Export-Pharo'
+	],
+	#condition : 'pharo',
+	#subApplicationNames : [ ]
+}

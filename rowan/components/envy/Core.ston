@@ -1,0 +1,16 @@
+RwEnvyApplicationProjectLoadComponentV2 {
+	#name : 'envy/Core',
+	#comment : 'Top-level application for loading the application core. NOTE: boty envy/Core and envy/Tests are recursive',
+	#packageNames : [
+		'RowanSample9-Core',
+		'RowanSample9-Extensions'
+	],
+	#condition : 'common',
+	#subApplicationNames : [ ],
+	#applicationNames : [
+		'envy/platform/Extensions-GemStone',
+		'envy/platform/Extensions-Pharo',
+		'envy/platform/Extensions-VAST',
+		'envy/Tests'
+	]
+}
