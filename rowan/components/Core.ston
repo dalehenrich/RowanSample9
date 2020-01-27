@@ -29,12 +29,12 @@ RwProjectLoadComponentV2 {
 			'common'
 		] : {
 			'core' : {
+				#componentNames : [ ],
 				#packageNames : [
 					'RowanSample9-Core',
 					'RowanSample9-Extensions',
 					'RowanSample9-Extensions1'
-				],
-				#componentNames : [ ]
+				]
 			},
 			'tests' : {
 				#packageNames : [
