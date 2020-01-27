@@ -1,0 +1,13 @@
+RwTestProjectLibraryIndexCard {
+	#name : 'index_0024',
+	#title : 'Start with  spec_0011, add pharo, gemstone, and vast conditional packages using\n\t\tRwSimpleProjectLoadComponentV2, intended to form the basis for working out the\n\t\tdetails necessary to enable pharo, gemstone and vast to share common code.',
+	#specName : 'spec_0024',
+	#index : 24,
+	#derivedFrom : 'spec_0011',
+	#comment : '',
+	#rowanIssues : [
+		553
+	],
+	#gemstoneIssues : [ ],
+	#rowanSHA : '226fad37'
+}

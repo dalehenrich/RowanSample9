@@ -1,11 +1,13 @@
-# RowanSample9 - spec_0011
-A single class with an extension method in a separate package. All packages loaded into a single symbol dict. Test methods validate classes and symbol dictionary mapping.
+# RowanSample9 - spec_0024
+Start with  spec_0011, add pharo, gemstone, and vast conditional packages using
+		RwSimpleProjectLoadComponentV2, intended to form the basis for working out the
+		details necessary to enable pharo, gemstone and vast to share common code.
 ```
 RwLoadSpecificationV2 {
-	#specName : 'spec_0011',
+	#specName : 'spec_0024',
 	#projectName : 'RowanSample9',
 	#gitUrl : 'https://github.com/dalehenrich/RowanSample9',
-	#revision : 'spec_0001',
+	#revision : 'spec_0011',
 	#projectSpecFile : 'rowan/project.ston',
 	#componentNames : [
 		'Core'
@@ -21,21 +23,21 @@ RwLoadSpecificationV2 {
 			}
 		}
 	},
-	#comment : 'A single class with an extension method in a separate package. All packages loaded into a single symbol dict. Test methods validate classes and symbol dictionary mapping.'
+	#comment : 'Start with  spec_0011, add pharo, gemstone, and vast conditional packages using\n\t\tRwSimpleProjectLoadComponentV2, intended to form the basis for working out the\n\t\tdetails necessary to enable pharo, gemstone and vast to share common code.'
 }
 
 RwTestProjectLibraryIndexCard {
-	#name : 'index_0011',
-	#title : 'A single class with an extension method in a separate package. All packages loaded into a single symbol dict. Test methods validate classes and symbol dictionary mapping.',
-	#specName : 'spec_0011',
-	#index : 11,
-	#derivedFrom : 'spec_0001',
-	#comment : 'RowanSample9-Core, RowanSample9-Extensions, and RowanSample9-Tests packages in default symbol dictionary.',
+	#name : 'index_0024',
+	#title : 'Start with  spec_0011, add pharo, gemstone, and vast conditional packages using\n\t\tRwSimpleProjectLoadComponentV2, intended to form the basis for working out the\n\t\tdetails necessary to enable pharo, gemstone and vast to share common code.',
+	#specName : 'spec_0024',
+	#index : 24,
+	#derivedFrom : 'spec_0011',
+	#comment : '',
 	#rowanIssues : [
-		495
+		553
 	],
 	#gemstoneIssues : [ ],
-	#rowanSHA : '56d80a91'
+	#rowanSHA : '226fad37'
 }
 ```
 

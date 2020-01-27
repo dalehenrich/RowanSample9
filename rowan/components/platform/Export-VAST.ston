@@ -1,0 +1,12 @@
+RwSimpleNestedProjectLoadComponentV2 {
+	#name : 'platform/Export-VAST',
+	#comment : 'Component for loading vast-specific packages',
+	#condition : 'vast',
+	#groupName : 'core',
+	#packageNames : [
+		'RowanSample9-VAST-Extensions'
+	],
+	#componentNames : [ ],
+	#projectNames : [ ],
+	#conditionalPackageMapSpecs : { }
+}

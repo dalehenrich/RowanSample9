@@ -1,0 +1,14 @@
+RwSimpleProjectLoadComponentV2 {
+	#name : 'Tests',
+	#comment : 'Top-level component for the application tests',
+	#condition : 'common',
+	#groupName : 'tests',
+	#packageNames : [
+		'RowanSample9-Tests'
+	],
+	#componentNames : [
+		'Core'
+	],
+	#projectNames : [ ],
+	#conditionalPackageMapSpecs : { }
+}

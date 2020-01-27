@@ -1,28 +1,18 @@
-RwProjectLoadComponentV2 {
+RwSimpleProjectLoadComponentV2 {
 	#name : 'Core',
-	#comment : 'Primary component used for loading the core classes.',
-	#conditionalPackageMapSpecs : { },
-	#definedGroupNames : {
-		'tests' : [
-			'core'
-		],
-		'core' : [ ]
-	},
-	#conditionalProperties : {
-		[
-			'common'
-		] : {
-			'core' : {
-				#packageNames : [
-					'RowanSample9-Core',
-					'RowanSample9-Extensions'
-				]
-			},
-			'tests' : {
-				#packageNames : [
-					'RowanSample9-Tests'
-				]
-			}
-		}
-	}
+	#comment : 'Top-level component for loading the application',
+	#condition : 'common',
+	#groupName : 'core',
+	#packageNames : [
+		'RowanSample9-Core',
+		'RowanSample9-Extensions'
+	],
+	#componentNames : [
+		'platform/Export-GemStone',
+		'platform/Export-Pharo',
+		'platform/Export-VAST',
+		'Tests'
+	],
+	#projectNames : [ ],
+	#conditionalPackageMapSpecs : { }
 }

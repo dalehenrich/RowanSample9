@@ -1,0 +1,12 @@
+RwSimpleNestedProjectLoadComponentV2 {
+	#name : 'platform/Export-Pharo',
+	#comment : 'Component for loading pharo-specific packages',
+	#condition : 'pharo',
+	#groupName : 'core',
+	#packageNames : [
+		'RowanSample9-Pharo-Extensions'
+	],
+	#componentNames : [ ],
+	#projectNames : [ ],
+	#conditionalPackageMapSpecs : { }
+}
