@@ -1,6 +1,6 @@
 RwSimpleNestedProjectLoadComponentV2 {
 	#name : 'platform/Extensions-VAST',
-	#comment : 'Component for loading vast-specific packages',
+	#comment : 'Component for loading vast-specific test packages and components. \n\t\tThe component named VAST_IMAGE/STON is a pseudo-component that refers to \n\t\tapplications expected to reside in the VAST image',
 	#condition : 'vast',
 	#groupName : 'core',
 	#packageNames : [

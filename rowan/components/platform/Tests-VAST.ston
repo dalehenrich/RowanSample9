@@ -1,0 +1,10 @@
+RwSimpleNestedProjectLoadComponentV2 {
+	#name : 'platform/Tests-VAST',
+	#comment : 'Component for loading vast-specific test packages and components. \n\t\tThe component named VAST_IMAGE/SUnit is a pseudo-component that refers to \n\t\tapplications expected to reside in the VAST image',
+	#condition : 'vast',
+	#groupName : 'tests',
+	#packageNames : [ ],
+	#componentNames : [ ],
+	#projectNames : [ ],
+	#conditionalPackageMapSpecs : { }
+}
