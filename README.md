@@ -7,7 +7,6 @@ Starting with spec_0014, remove the old (now empty) package from the project as 
 
 	The test RwRowanProjectIssuesTestV2 >> testIssue495_move_class_and_extension_method_to_new_symbol_dict
 	showed that #493 wasn't fixed by the V2 implementation.
-### spec_0015
 ```
 RwLoadSpecificationV2 {
 	#specName : 'spec_0015',
