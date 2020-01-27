@@ -1,6 +1,5 @@
 # RowanSample9 - spec_0005
 Two classes, two  packages, plus tests. Primer for Issue 230
-### spec_0005
 ```
 RwLoadSpecificationV2 {
 	#specName : 'spec_0005',
