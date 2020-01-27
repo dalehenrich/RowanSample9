@@ -1,10 +1,10 @@
 RwSimpleNestedProjectLoadComponentV2 {
-	#name : 'platform/Export-GemStone',
+	#name : 'platform/Extensions-GemStone',
 	#comment : 'Component for loading gemstone-specific packages',
 	#condition : 'gemstone',
 	#groupName : 'core',
 	#packageNames : [
-		'RowanSample9-GemStone-Extensions'
+		'RowanSample9-Export-GemStone'
 	],
 	#componentNames : [ ],
 	#projectNames : [ ],

@@ -8,9 +8,9 @@ RwSimpleProjectLoadComponentV2 {
 		'RowanSample9-Extensions'
 	],
 	#componentNames : [
-		'platform/Export-GemStone',
-		'platform/Export-Pharo',
-		'platform/Export-VAST',
+		'platform/Extensions-GemStone',
+		'platform/Extensions-Pharo',
+		'platform/Extensions-VAST',
 		'Tests'
 	],
 	#projectNames : [ ],
