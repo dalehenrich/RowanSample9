@@ -4,7 +4,8 @@ RwSimpleNestedProjectLoadComponentV2 {
 	#condition : 'vast',
 	#groupName : 'core',
 	#packageNames : [
-		'RowanSample9-Export-VAST'
+		'RowanSample9-Export-VAST',
+		'RowanSample9-VAST-Application'
 	],
 	#componentNames : [
 		'VAST_IMAGE/STON'
