@@ -1,6 +1,5 @@
 # RowanSample9 - spec_0009
 one symbol dict specified for gemstone, the rest in default (unspecified)
-### spec_0009
 ```
 RwLoadSpecificationV2 {
 	#specName : 'spec_0009',
