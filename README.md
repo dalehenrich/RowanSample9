@@ -1,6 +1,5 @@
 # RowanSample9 - spec_0018
 Build a sample vast/gemstone project based on information in https://github.com/dalehenrich/tonel-demos/tree/rowan_553
-### spec_0018
 ```
 RwLoadSpecificationV2 {
 	#specName : 'spec_0018',
