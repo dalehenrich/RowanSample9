@@ -1,6 +1,5 @@
 # RowanSample9 - spec_0016
 Starting with spec_0015, move an extension method from one package to another with no modifications
-### spec_0016
 ```
 RwLoadSpecificationV2 {
 	#specName : 'spec_0016',
