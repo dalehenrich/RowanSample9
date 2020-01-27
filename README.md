@@ -2,7 +2,6 @@
 Starting with spec_0011, move extension method to a new extension package; move class package to a 
 		different symbol dict; move new extension package to a third symbol dictionary. This is an illegal combination
 		(extension method and class in different symbol dictionaries) and does cause an error.
-### spec_0012
 ```
 RwLoadSpecificationV2 {
 	#specName : 'spec_0012',
