@@ -1,6 +1,5 @@
 # RowanSample9 - spec_0008
 two symbol dicts ... gemstone in one, the rest in another
-### spec_0008
 ```
 RwLoadSpecificationV2 {
 	#specName : 'spec_0008',
