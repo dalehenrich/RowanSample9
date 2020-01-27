@@ -1,6 +1,5 @@
 # RowanSample9 - spec_0010
 one symbol dict specified for gemstone, the rest in default --- default sym dict changed from 0009
-### spec_0010
 ```
 RwLoadSpecificationV2 {
 	#specName : 'spec_0010',
