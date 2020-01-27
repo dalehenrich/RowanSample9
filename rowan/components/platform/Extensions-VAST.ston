@@ -6,7 +6,9 @@ RwSimpleNestedProjectLoadComponentV2 {
 	#packageNames : [
 		'RowanSample9-Export-VAST'
 	],
-	#componentNames : [ ],
+	#componentNames : [
+		'VAST_IMAGE/STON'
+	],
 	#projectNames : [ ],
 	#conditionalPackageMapSpecs : { }
 }
