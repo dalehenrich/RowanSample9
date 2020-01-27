@@ -9,7 +9,10 @@ RwLoadSpecificationV2 {
 	],
 	#groupNames : [
 		'core',
-		'tests'
+		'tests',
+		'core',
+		'core',
+		'core'
 	],
 	#platformProperties : {
 		'gemstone' : {
