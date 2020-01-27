@@ -3,7 +3,6 @@ Starting with spec_0011, move extension method to a new extension package; move 
 		to the classes symbol dictionary. This is a legal combination (extension method and class in same symbol
 		dictionary) the V2 classes are handling the symbol dictionary lookup properly, so this combo validates that
 		the bug (#493) is fixed.
-### spec_0014
 ```
 RwLoadSpecificationV2 {
 	#specName : 'spec_0014',
