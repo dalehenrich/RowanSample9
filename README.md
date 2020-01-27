@@ -1,6 +1,5 @@
 # RowanSample9 - spec_0007
 Two classes, two  packages, plus tests. Primer for Issue 230, using ivs instead of instancesInvariant
-### spec_0007
 ```
 RwLoadSpecificationV2 {
 	#specName : 'spec_0007',
