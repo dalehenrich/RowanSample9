@@ -1,6 +1,5 @@
 # RowanSample9 - spec_0002
 RowanSample4 basic project definition
-### spec_0002
 ```
 RwLoadSpecificationV2 {
 	#specName : 'spec_0002',
