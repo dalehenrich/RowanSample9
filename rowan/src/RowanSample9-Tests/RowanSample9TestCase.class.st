@@ -19,7 +19,7 @@ RowanSample9TestCase >> test2 [  self assert: RowanSample9Class1 bar = 'bar'
 RowanSample9TestCase >> testExport [
 	"exexute without error"
 	| filePath object |
-	filePath := FileReference newTempFilePrefix: 'RowanSample9'_export suffix: 'ston'.
+	filePath := FileReference newTempFilePrefix: 'RowanSample9_export' suffix: 'ston'.
 	object := RowanSample9Class1 new ivar1: filePath.
 	object exportTo: filePath
 ]
