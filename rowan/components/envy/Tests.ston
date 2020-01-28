@@ -8,6 +8,6 @@ RwEnvyApplicationProjectLoadComponentV2 {
 	#subApplicationNames : [ ],
 	#applicationNames : [
 		'envy/Core',
-		'envy/platform/Tests-VAST'
+		'envy/Tests-VAST'
 	]
 }

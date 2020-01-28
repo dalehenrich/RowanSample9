@@ -1,5 +1,5 @@
 RwEnvyApplicationProjectLoadComponentV2 {
-	#name : 'envy/platform/Extensions-VAST',
+	#name : 'envy/Extensions-VAST',
 	#comment : 'Subapplication for loading vast-specific test packages and components. \n\t\tThe component named STON is a pseudo-component that refers to \n\t\tapplications expected to reside in the VAST image.\n\n\t\tNOTE: I want this application to be be a subapplication --- it is not a COMPLETE application.\n\t\tIt MUST be created in order to reference the VAST specific STON application.',
 	#packageNames : [
 		'RowanSample9-Export-VAST',

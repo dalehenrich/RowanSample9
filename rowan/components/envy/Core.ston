@@ -8,9 +8,9 @@ RwEnvyApplicationProjectLoadComponentV2 {
 	#condition : 'common',
 	#subApplicationNames : [ ],
 	#applicationNames : [
+		'envy/Extensions-VAST',
 		'envy/platform/Extensions-GemStone',
 		'envy/platform/Extensions-Pharo',
-		'envy/platform/Extensions-VAST',
 		'envy/Tests'
 	]
 }
