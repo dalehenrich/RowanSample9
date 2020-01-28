@@ -1,6 +1,6 @@
 RwSimpleNestedProjectLoadComponentV2 {
 	#name : 'platform/Extensions-VAST',
-	#comment : 'Component for loading vast-specific test packages and components. \n\t\tThe component named VAST_IMAGE/STON is a pseudo-component that refers to \n\t\tapplications expected to reside in the VAST image',
+	#comment : 'Component for loading vast-specific test packages and components. \n\t\tThe component named VAST_IMAGE/STON is a pseudo-component that refers to \n\t\tapplications expected to reside in the VAST image.\n\n\t\tThe package named RowanSample9-VAST-Application, which contains the Envy \n\t\tApplication class is also included in this component.',
 	#condition : 'vast',
 	#groupName : 'core',
 	#packageNames : [
