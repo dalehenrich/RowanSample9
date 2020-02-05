@@ -1,18 +1,17 @@
 RwSimpleProjectLoadComponentV2 {
 	#name : 'Core',
-	#comment : 'Top-level component for loading the application',
 	#condition : 'common',
 	#groupName : 'core',
-	#packageNames : [
-		'RowanSample9-Core',
-		'RowanSample9-Extensions'
-	],
+	#projectNames : [ ],
 	#componentNames : [
 		'platform/Extensions-GemStone',
 		'platform/Extensions-Pharo',
 		'platform/Extensions-VAST',
 		'Tests'
 	],
-	#projectNames : [ ],
-	#conditionalPackageMapSpecs : { }
+	#packageNames : [
+		'RowanSample9-Core',
+		'RowanSample9-Extensions'
+	],
+	#comment : 'Top-level component for loading the application'
 }
