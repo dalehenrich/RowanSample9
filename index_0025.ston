@@ -1,0 +1,13 @@
+RwTestProjectLibraryIndexCard {
+	#name : 'index_0025',
+	#title : 'Start with  spec_0001, add 3 embedded projects',
+	#specName : 'spec_0025',
+	#index : 25,
+	#derivedFrom : 'spec_0001',
+	#comment : '',
+	#rowanIssues : [
+		571
+	],
+	#gemstoneIssues : [ ],
+	#rowanSHA : '70e3598e'
+}
