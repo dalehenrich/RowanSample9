@@ -1,7 +1,6 @@
 RwProjectLoadComponentV2 {
 	#name : 'Core',
 	#comment : 'Primary component used for loading the core classes.',
-	#conditionalPackageMapSpecs : { },
 	#definedGroupNames : {
 		'tests' : [
 			'core'
