@@ -1,14 +1,14 @@
 RwSimpleProjectLoadComponentV2 {
 	#name : 'Core3',
-	#comment : 'Third component for loading third package',
 	#condition : 'common',
 	#groupName : 'core',
 	#preloadDoitName : 'doits/preloadDoit_Core3',
 	#postloadDoitName : 'doits/postloadDoit_Core3',
+	#projectNames : [ ],
+	#componentNames : [ ],
 	#packageNames : [
 		'RowanSample9-Core3',
 		'RowanSample9-Tests3'
 	],
-	#componentNames : [ ],
-	#projectNames : [ ]
+	#comment : 'Third component for loading third package'
 }

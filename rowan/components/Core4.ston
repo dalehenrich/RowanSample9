@@ -1,14 +1,14 @@
 RwSimpleProjectLoadComponentV2 {
 	#name : 'Core4',
-	#comment : 'Fourth component for loading fourth package',
 	#condition : 'common',
 	#groupName : 'core',
 	#preloadDoitName : 'doits/preloadDoit_Core4',
 	#postloadDoitName : 'doits/postloadDoit_Core4',
+	#projectNames : [ ],
+	#componentNames : [ ],
 	#packageNames : [
 		'RowanSample9-Core4',
 		'RowanSample9-Tests4'
 	],
-	#componentNames : [ ],
-	#projectNames : [ ]
+	#comment : 'Fourth component for loading fourth package'
 }
