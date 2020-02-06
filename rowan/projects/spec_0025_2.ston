@@ -1,0 +1,22 @@
+RwLoadSpecificationV2 {
+	#specName : 'spec_0025_2',
+	#projectName : 'RowanSample9_2',
+	#projectAlias : 'RowanSample9',
+	#gitUrl : 'https://github.com/dalehenrich/RowanSample9',
+	#revision : 'spec_0025',
+	#projectSpecFile : '/home/dhenrich/rogue/_homes/rogue/_home/server/stones/rowan_dev_350/logs/rowan_2/RowanSample9.ston',
+	#componentNames : [
+		'Core'
+	],
+	#groupNames : [
+		'core'
+	],
+	#platformProperties : {
+		'gemstone' : {
+			'allusers' : {
+				#defaultSymbolDictName : #RowanSample9_1
+			}
+		}
+	},
+	#comment : 'Start with  spec_0001, add 3 embedded projects'
+}
