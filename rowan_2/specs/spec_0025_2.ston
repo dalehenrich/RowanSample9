@@ -8,9 +8,7 @@ RwEmbeddedLoadSpecificationV2 {
 	#componentNames : [
 		'Core'
 	],
-	#groupNames : [
-		'core'
-	],
+	#groupNames : [ ],
 	#platformProperties : {
 		'gemstone' : {
 			'allusers' : {
