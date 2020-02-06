@@ -1040,11 +1040,7 @@ RwLoadSpecificationV2 {
 	#componentNames : [
 		'Core'
 	],
-	#groupNames : [
-		'core',
-		'tests',
-		'core'
-	],
+	#groupNames : [ ],
 	#platformProperties : {
 		'gemstone' : {
 			'allusers' : {
