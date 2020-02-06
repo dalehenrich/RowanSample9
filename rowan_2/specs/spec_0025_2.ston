@@ -1,4 +1,4 @@
-RwLoadSpecificationV2 {
+RwEmbeddedLoadSpecificationV2 {
 	#specName : 'spec_0025_2',
 	#projectName : 'RowanSample9_2',
 	#projectAlias : 'RowanSample9',
