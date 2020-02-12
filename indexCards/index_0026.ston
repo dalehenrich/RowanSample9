@@ -1,0 +1,13 @@
+RwTestProjectLibraryIndexCard {
+	#name : 'index_0026',
+	#title : 'Start with  spec_0000, create a project using the new component creation API --- which will evolve as I go:)',
+	#specName : 'spec_0026',
+	#index : 26,
+	#derivedFrom : 'spec_0000',
+	#comment : '',
+	#rowanIssues : [
+		573
+	],
+	#gemstoneIssues : [ ],
+	#rowanSHA : '1f4a96af'
+}
