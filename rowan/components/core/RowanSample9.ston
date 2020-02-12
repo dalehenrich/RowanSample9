@@ -1,5 +1,5 @@
 RwSimpleProjectLoadComponentV2 {
-	#name : 'core/Core',
+	#name : 'core/RowanSample9',
 	#condition : 'core',
 	#projectNames : [ ],
 	#componentNames : [ ],
