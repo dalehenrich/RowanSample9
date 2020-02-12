@@ -1076,11 +1076,7 @@ RwLoadSpecificationV2 {
 	#componentNames : [
 		'RowanSample9'
 	],
-	#groupNames : [
-		'core',
-		'tests',
-		'core'
-	],
+	#groupNames : [ ],
 	#platformProperties : {
 		'gemstone' : {
 			'allusers' : {
