@@ -1,17 +1,18 @@
-# RowanSample9 - spec_0000
-Empty project with no packages
+# RowanSample9 - spec_0026
+Start with  spec_0000, create a project using the new component creation API --- which will evolve as I go:)
 ```
 RwLoadSpecificationV2 {
-	#specName : 'spec_0000',
+	#specName : 'spec_0026',
 	#projectName : 'RowanSample9',
 	#gitUrl : 'https://github.com/dalehenrich/RowanSample9',
-	#revision : 'master',
+	#revision : 'spec_0000',
 	#projectSpecFile : 'rowan/project.ston',
 	#componentNames : [
 		'Core'
 	],
 	#groupNames : [
-		'core'
+		'core',
+		'tests'
 	],
 	#platformProperties : {
 		'gemstone' : {
@@ -20,19 +21,21 @@ RwLoadSpecificationV2 {
 			}
 		}
 	},
-	#comment : 'Empty project with no packages'
+	#comment : 'Start with  spec_0000, create a project using the new component creation API --- which will evolve as I go:)'
 }
 
 RwTestProjectLibraryIndexCard {
-	#name : 'index_0000',
-	#title : 'Empty project with no packages',
-	#specName : 'spec_0000',
-	#index : 0,
-	#derivedFrom : 'master',
+	#name : 'index_0026',
+	#title : 'Start with  spec_0000, create a project using the new component creation API --- which will evolve as I go:)',
+	#specName : 'spec_0026',
+	#index : 26,
+	#derivedFrom : 'spec_0000',
 	#comment : '',
-	#rowanIssues : [ ],
+	#rowanIssues : [
+		573
+	],
 	#gemstoneIssues : [ ],
-	#rowanSHA : '70e3598e'
+	#rowanSHA : '1f4a96af'
 }
 ```
 

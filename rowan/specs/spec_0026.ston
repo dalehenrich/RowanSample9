@@ -1,13 +1,15 @@
 RwLoadSpecificationV2 {
-	#specName : 'spec_0000',
+	#specName : 'spec_0026',
 	#projectName : 'RowanSample9',
 	#gitUrl : 'https://github.com/dalehenrich/RowanSample9',
-	#revision : 'spec_0000',
+	#revision : 'spec_0026',
 	#projectSpecFile : 'rowan/project.ston',
 	#componentNames : [
 		'Core'
 	],
 	#groupNames : [
+		'core',
+		'tests',
 		'core'
 	],
 	#platformProperties : {
@@ -17,5 +19,5 @@ RwLoadSpecificationV2 {
 			}
 		}
 	},
-	#comment : 'Empty project with no packages'
+	#comment : 'Start with  spec_0000, create a project using the new component creation API --- which will evolve as I go:)'
 }
