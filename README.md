@@ -1150,7 +1150,6 @@ RwLoadSpecificationV2 {
 	],
 	#groupNames : [ ],
 	#customConditionalAttributes : [
-		'core',
 		'tests'
 	],
 	#platformProperties : {
@@ -1169,7 +1168,7 @@ RwTestProjectLibraryIndexCard {
 	#specName : 'spec_0028',
 	#index : 28,
 	#derivedFrom : 'spec_0027',
-	#comment : 'add Core and Tests components and move the packages accordingly',
+	#comment : 'add conditional Tests component',
 	#rowanIssues : [
 		573
 	],

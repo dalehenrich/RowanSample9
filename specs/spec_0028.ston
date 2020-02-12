@@ -9,7 +9,6 @@ RwLoadSpecificationV2 {
 	],
 	#groupNames : [ ],
 	#customConditionalAttributes : [
-		'core',
 		'tests'
 	],
 	#platformProperties : {
