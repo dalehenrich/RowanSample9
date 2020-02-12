@@ -1,5 +1,5 @@
 # RowanSample9 - spec_0026
-Start with  spec_0000, create a project using the new component creation API --- which will evolve as I go:)
+Start with  spec_0000, create a project using the new component creation API --- starting with a single package project
 ```
 RwLoadSpecificationV2 {
 	#specName : 'spec_0026',
@@ -21,12 +21,12 @@ RwLoadSpecificationV2 {
 			}
 		}
 	},
-	#comment : 'Start with  spec_0000, create a project using the new component creation API --- which will evolve as I go:)'
+	#comment : 'Start with  spec_0000, create a project using the new component creation API --- starting with a single package project'
 }
 
 RwTestProjectLibraryIndexCard {
 	#name : 'index_0026',
-	#title : 'Start with  spec_0000, create a project using the new component creation API --- which will evolve as I go:)',
+	#title : 'Start with  spec_0000, create a project using the new component creation API --- starting with a single package project',
 	#specName : 'spec_0026',
 	#index : 26,
 	#derivedFrom : 'spec_0000',

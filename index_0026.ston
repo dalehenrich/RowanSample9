@@ -1,6 +1,6 @@
 RwTestProjectLibraryIndexCard {
 	#name : 'index_0026',
-	#title : 'Start with  spec_0000, create a project using the new component creation API --- which will evolve as I go:)',
+	#title : 'Start with  spec_0000, create a project using the new component creation API --- starting with a single package project',
 	#specName : 'spec_0026',
 	#index : 26,
 	#derivedFrom : 'spec_0000',
