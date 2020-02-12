@@ -15,5 +15,5 @@ RwLoadSpecificationV2 {
 			}
 		}
 	},
-	#comment : 'Start with  spec_0000, create a project using the new component creation API --- starting with a single package project'
+	#comment : 'Start with  spec_0000, create a project using the new component creation API --- first in a series, starting with a single package project'
 }
