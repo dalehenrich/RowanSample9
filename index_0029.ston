@@ -1,0 +1,13 @@
+RwTestProjectLibraryIndexCard {
+	#name : 'index_0029',
+	#title : 'Start with  spec_0026, update the project structure using the new component creation API --- spec_0026 thru ?? represents the evolution of a project.',
+	#specName : 'spec_0029',
+	#index : 29,
+	#derivedFrom : 'spec_0028',
+	#comment : 'add 2 more classes, tests and packages (one class/package) and create category components: Core, Definitions, Specs, Tests',
+	#rowanIssues : [
+		573
+	],
+	#gemstoneIssues : [ ],
+	#rowanSHA : '743a2bdd'
+}
