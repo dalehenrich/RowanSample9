@@ -1,8 +1,8 @@
 RwLoadSpecificationV2 {
-	#specName : 'spec_0026',
+	#specName : 'spec_0027',
 	#projectName : 'RowanSample9',
 	#gitUrl : 'https://github.com/dalehenrich/RowanSample9',
-	#revision : 'spec_0026',
+	#revision : 'spec_0027',
 	#projectSpecFile : 'rowan/project.ston',
 	#componentNames : [
 		'RowanSample9'
@@ -15,5 +15,5 @@ RwLoadSpecificationV2 {
 			}
 		}
 	},
-	#comment : 'Start with  spec_0000, create a project using the new component creation API --- spec_0026 thru ?? represents the evolution of a project.'
+	#comment : 'Start with  spec_0026, update the project structure using the new component creation API --- spec_0026 thru ?? represents the evolution of a project.'
 }

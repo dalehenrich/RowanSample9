@@ -4,7 +4,8 @@ RwSimpleProjectLoadComponentV2 {
 	#projectNames : [ ],
 	#componentNames : [ ],
 	#packageNames : [
-		'RowanSample9-Core'
+		'RowanSample9-Core',
+		'RowanSample9-Tests'
 	],
 	#comment : ''
 }

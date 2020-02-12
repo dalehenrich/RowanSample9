@@ -1,19 +1,16 @@
-# RowanSample9 - spec_0026
-Start with  spec_0000, create a project using the new component creation API --- spec_0026 thru ?? represents the evolution of a project.
+# RowanSample9 - spec_0027
+Start with  spec_0026, update the project structure using the new component creation API --- spec_0026 thru ?? represents the evolution of a project.
 ```
 RwLoadSpecificationV2 {
-	#specName : 'spec_0026',
+	#specName : 'spec_0027',
 	#projectName : 'RowanSample9',
 	#gitUrl : 'https://github.com/dalehenrich/RowanSample9',
-	#revision : 'spec_0000',
+	#revision : 'spec_0026',
 	#projectSpecFile : 'rowan/project.ston',
 	#componentNames : [
-		'Core'
+		'RowanSample9'
 	],
-	#groupNames : [
-		'core',
-		'tests'
-	],
+	#groupNames : [ ],
 	#platformProperties : {
 		'gemstone' : {
 			'allusers' : {
@@ -21,16 +18,16 @@ RwLoadSpecificationV2 {
 			}
 		}
 	},
-	#comment : 'Start with  spec_0000, create a project using the new component creation API --- spec_0026 thru ?? represents the evolution of a project.'
+	#comment : 'Start with  spec_0026, update the project structure using the new component creation API --- spec_0026 thru ?? represents the evolution of a project.'
 }
 
 RwTestProjectLibraryIndexCard {
-	#name : 'index_0026',
-	#title : 'Start with  spec_0000, create a project using the new component creation API --- spec_0026 thru ?? represents the evolution of a project.',
-	#specName : 'spec_0026',
-	#index : 26,
-	#derivedFrom : 'spec_0000',
-	#comment : 'start with a single component, single package project.',
+	#name : 'index_0027',
+	#title : 'Start with  spec_0026, update the project structure using the new component creation API --- spec_0026 thru ?? represents the evolution of a project.',
+	#specName : 'spec_0027',
+	#index : 27,
+	#derivedFrom : 'spec_0026',
+	#comment : 'split pacakges into core and tests and use move class api to move class definitions from package to package',
 	#rowanIssues : [
 		573
 	],
