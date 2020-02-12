@@ -1074,7 +1074,7 @@ RwLoadSpecificationV2 {
 	#revision : 'spec_0026',
 	#projectSpecFile : 'rowan/project.ston',
 	#componentNames : [
-		'Core'
+		'RowanSample9'
 	],
 	#groupNames : [
 		'core',
