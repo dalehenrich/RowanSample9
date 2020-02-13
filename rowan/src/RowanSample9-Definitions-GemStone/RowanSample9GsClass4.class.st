@@ -7,7 +7,7 @@ Class {
 	#instVars : [
 		'ivar1'
 	],
-	#category : 'RowanSample9-Specs-Tests'
+	#category : 'RowanSample9-Definitions-GemStone'
 }
 
 { #category : 'accessing' }

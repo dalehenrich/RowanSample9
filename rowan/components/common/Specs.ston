@@ -2,7 +2,10 @@ RwSimpleNestedProjectLoadComponentV2 {
 	#name : 'common/Specs',
 	#condition : 'common',
 	#projectNames : [ ],
-	#componentNames : [ ],
+	#componentNames : [
+		'common/pharo/Specs',
+		'common/tests/Specs'
+	],
 	#packageNames : [
 		'RowanSample9-Specs'
 	],
