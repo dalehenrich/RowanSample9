@@ -1,5 +1,5 @@
-RwSimpleProjectLoadComponentV2 {
-	#name : 'tests/Tests',
+RwSimpleNestedProjectLoadComponentV2 {
+	#name : 'common/tests/Tests',
 	#condition : 'tests',
 	#projectNames : [ ],
 	#componentNames : [ ],

@@ -1,4 +1,4 @@
-RwSimpleProjectLoadComponentV2 {
+RwSimpleNestedProjectLoadComponentV2 {
 	#name : 'common/Specs',
 	#condition : 'common',
 	#projectNames : [ ],
