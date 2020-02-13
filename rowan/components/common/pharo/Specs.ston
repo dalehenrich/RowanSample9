@@ -4,7 +4,7 @@ RwSimpleNestedProjectLoadComponentV2 {
 	#projectNames : [ ],
 	#componentNames : [ ],
 	#packageNames : [
-		'RowanSample9-Specs-Pharo'
+		'RowanSample9-Definitions-Pharo'
 	],
 	#comment : ''
 }
