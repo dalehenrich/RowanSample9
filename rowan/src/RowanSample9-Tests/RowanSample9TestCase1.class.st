@@ -12,9 +12,9 @@ RowanSample9TestCase1 >> test [  self assert: RowanSample9Class1 new foo = 1
 ]
 
 { #category : 'tests' }
-RowanSample9TestCase1 >> testBar [ | inst | inst := RowanSample9Class1 new. self assert: inst foo = (inst bar at: 1)
+RowanSample9TestCase1 >> testBar [ | inst | inst := RowanSample9Class1 new. self assert: (inst bar at: inst foo) = 1
 ]
 
 { #category : 'tests' }
-RowanSample9TestCase1 >> testBarClass [ | inst | inst := RowanSample9Class1 new. self assert: inst bar class = self _dictionaryClass
+RowanSample9TestCase1 >> testBarClass [ | inst | inst := RowanSample9Class1 new. self assert: inst bar class == self _dictionaryClass
 ]
