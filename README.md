@@ -11,6 +11,9 @@ RwLoadSpecificationV2 {
 		'RowanSample9'
 	],
 	#groupNames : [ ],
+	#customConditionalAttributes : [
+		'tests'
+	],
 	#platformProperties : {
 		'gemstone' : {
 			'allusers' : {
