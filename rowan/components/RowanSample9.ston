@@ -5,7 +5,6 @@ RwSimpleProjectLoadComponentV2 {
 	#componentNames : [
 		'common/Core',
 		'common/Definitions',
-		'common/RowanSample9',
 		'common/Specs',
 		'common/Tests'
 	],
