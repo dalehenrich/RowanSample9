@@ -1,10 +1,10 @@
 RwSimpleNestedProjectLoadComponentV2 {
-	#name : 'common/tests/pharo/Specs',
+	#name : 'common/pharo/Definitions',
 	#condition : 'pharo',
 	#projectNames : [ ],
 	#componentNames : [ ],
 	#packageNames : [
-		'RowanSample9-Definitions-Pharo-Tests'
+		'RowanSample9-Definitions-Pharo'
 	],
 	#comment : ''
 }
