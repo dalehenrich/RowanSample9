@@ -3,7 +3,7 @@ RwSimpleProjectLoadComponentV2 {
 	#condition : 'common',
 	#projectNames : [ ],
 	#componentNames : [
-		'common/tests/RowanSample9'
+		'common/RowanSample9'
 	],
 	#packageNames : [
 		'RowanSample9-Core'
