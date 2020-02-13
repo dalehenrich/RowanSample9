@@ -11,5 +11,9 @@ Class {
 }
 
 { #category : 'accessing' }
+RowanSample9Class1 >> bar [ ^ (self _dictionaryClass new) at: self foo put: 1; yourself
+]
+
+{ #category : 'accessing' }
 RowanSample9Class1 >> foo [ ^1
 ]
