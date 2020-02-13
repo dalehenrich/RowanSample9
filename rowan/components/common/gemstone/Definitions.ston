@@ -1,0 +1,10 @@
+RwSimpleNestedProjectLoadComponentV2 {
+	#name : 'common/gemstone/Definitions',
+	#condition : 'gemstone',
+	#projectNames : [ ],
+	#componentNames : [ ],
+	#packageNames : [
+		'RowanSample9-DefinitionsGemStone'
+	],
+	#comment : ''
+}
