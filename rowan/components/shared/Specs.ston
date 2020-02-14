@@ -3,6 +3,8 @@ RwSimpleNestedProjectLoadComponentV2 {
 	#condition : 'common',
 	#projectNames : [ ],
 	#componentNames : [ ],
-	#packageNames : [ ],
+	#packageNames : [
+		'RowanSample9-Specs-Shared'
+	],
 	#comment : 'This component is intended for sharing common code and should not be loaded independently'
 }
