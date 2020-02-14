@@ -1,10 +1,10 @@
 RwPlatformNestedProjectLoadComponentV2 {
-	#name : 'common/tests/_pharo/Definitions',
+	#name : 'common/pharo/Definitions',
 	#condition : [
 		'pharo'
 	],
 	#packageNames : [
-		'RowanSample9-Definitions-Pharo-Tests'
+		'RowanSample9-Definitions-Pharo'
 	],
 	#comment : ''
 }

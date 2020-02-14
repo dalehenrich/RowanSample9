@@ -1,7 +1,8 @@
 RwPlatformNestedProjectLoadComponentV2 {
-	#name : 'common/tests/_gemstone/Definitions',
+	#name : 'common/tests/gemstone_glass/Definitions',
 	#condition : [
-		'gemstone'
+		'gemstone',
+		'glass'
 	],
 	#packageNames : [
 		'RowanSample9-Definitions-GemStone-Tests'

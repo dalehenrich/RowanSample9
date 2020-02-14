@@ -3,8 +3,8 @@ RwSimpleNestedProjectLoadComponentV2 {
 	#condition : 'tests',
 	#projectNames : [ ],
 	#componentNames : [
-		'common/tests/_gemstone/Definitions',
-		'common/tests/_pharo/Definitions'
+		'common/tests/gemstone_glass/Definitions',
+		'common/tests/pharo/Definitions'
 	],
 	#packageNames : [ ],
 	#comment : ''

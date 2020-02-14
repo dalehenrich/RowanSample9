@@ -3,9 +3,9 @@ RwSimpleNestedProjectLoadComponentV2 {
 	#condition : 'common',
 	#projectNames : [ ],
 	#componentNames : [
-		'common/tests/Definitions',
-		'common/_gemstone/Definitions',
-		'common/_pharo/Definitions'
+		'common/gemstone_glass/Definitions',
+		'common/pharo/Definitions',
+		'common/tests/Definitions'
 	],
 	#packageNames : [
 		'RowanSample9-Definitions'
