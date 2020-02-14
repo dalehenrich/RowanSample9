@@ -1306,7 +1306,9 @@ RwLoadSpecificationV2 {
 	],
 	#groupNames : [ ],
 	#customConditionalAttributes : [
-		'tests'
+		'tests',
+		'v1',
+		'v2'
 	],
 	#platformProperties : {
 		'gemstone' : {
@@ -1324,7 +1326,7 @@ RwTestProjectLibraryIndexCard {
 	#specName : 'spec_0032',
 	#index : 32,
 	#derivedFrom : 'spec_0031',
-	#comment : 'Explore the use of shared directory for sharing code between two conditions, like v1 and v2 ... first create v1 and v2 packages (that can be independently loaded in GemStone and use the class in shared component for code that is common to both -- not controlled by attributes.',
+	#comment : 'Explore the use of shared directory for sharing code between two conditions, like v1 and v2 ... first create v1 and v2 packages (that can be independently loaded or loaded together in GemStone and use the class in shared component for code that is common to both -- not controlled by attributes.',
 	#rowanIssues : [
 		573
 	],
