@@ -1,0 +1,12 @@
+RwSimpleNestedProjectLoadComponentV2 {
+	#name : 'common/tests/v2/Specs',
+	#condition : 'v2',
+	#projectNames : [ ],
+	#componentNames : [
+		'shared/Specs'
+	],
+	#packageNames : [
+		'RowanSample9-Specs-V2-Tests'
+	],
+	#comment : ''
+}
