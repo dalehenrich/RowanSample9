@@ -4,7 +4,7 @@ RwTestProjectLibraryIndexCard {
 	#specName : 'spec_0031',
 	#index : 31,
 	#derivedFrom : 'spec_0029',
-	#comment : 'Add platform conditional extension methods and classes plus tests - pharo, gemstone and gs3.[5-]. Use platform components with alias.',
+	#comment : 'Add platform conditional extension methods and classes plus tests - pharo, gemstone and gs3.[5-]. Use platform components with alias. Use leading _ character when using alias, to distiguish from attribute (and path) using the same name.',
 	#rowanIssues : [
 		573
 	],
