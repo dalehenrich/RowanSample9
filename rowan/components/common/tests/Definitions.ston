@@ -1,0 +1,11 @@
+RwSimpleNestedProjectLoadComponentV2 {
+	#name : 'common/tests/Definitions',
+	#condition : 'tests',
+	#projectNames : [ ],
+	#componentNames : [
+		'common/tests/_gemstone/Definitions',
+		'common/tests/_pharo/Definitions'
+	],
+	#packageNames : [ ],
+	#comment : ''
+}

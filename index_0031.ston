@@ -1,0 +1,13 @@
+RwTestProjectLibraryIndexCard {
+	#name : 'index_0031',
+	#title : 'Start with  spec_0029, update the project structure using the new component creation API --- spec_0026 thru ?? represents the evolution of a project.',
+	#specName : 'spec_0031',
+	#index : 31,
+	#derivedFrom : 'spec_0029',
+	#comment : 'Add platform conditional extension methods and classes plus tests - pharo, gemstone and gs3.[5-]. Use platform components with alias.',
+	#rowanIssues : [
+		573
+	],
+	#gemstoneIssues : [ ],
+	#rowanSHA : '0d604adb'
+}
