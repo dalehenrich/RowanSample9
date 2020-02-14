@@ -1,8 +1,8 @@
-RwSimpleProjectLoadComponentV2 {
+RwSimpleNestedProjectLoadComponentV2 {
 	#name : 'shared/Specs',
 	#condition : 'common',
 	#projectNames : [ ],
 	#componentNames : [ ],
 	#packageNames : [ ],
-	#comment : ''
+	#comment : 'This component is intended for sharing common code and should not be loaded independently'
 }
