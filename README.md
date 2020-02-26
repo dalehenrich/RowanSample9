@@ -10,9 +10,6 @@ RwLoadSpecificationV2 {
 	#componentNames : [
 		'Core'
 	],
-	#customConditionalAttributes : [
-		'tests'
-	],
 	#comment : 'Build a sample vast/gemstone project based on information in https://github.com/dalehenrich/tonel-demos/tree/rowan_553'
 }
 
