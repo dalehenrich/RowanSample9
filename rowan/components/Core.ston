@@ -1,26 +1,11 @@
-RwProjectLoadComponentV2 {
+RwSimpleProjectLoadComponentV2 {
 	#name : 'Core',
-	#comment : 'Primary component used for loading the core classes.',
-	#definedGroupNames : {
-		'tests' : [
-			'core'
-		],
-		'core' : [ ]
-	},
-	#conditionalProperties : {
-		[
-			'common'
-		] : {
-			'core' : {
-				#packageNames : [
-					'RowanSample9-Core'
-				]
-			},
-			'tests' : {
-				#packageNames : [
-					'RowanSample9-Tests'
-				]
-			}
-		}
-	}
+	#condition : 'common',
+	#projectNames : [ ],
+	#componentNames : [ ],
+	#packageNames : [
+		'RowanSample9-Core',
+		'RowanSample9-Tests'
+	],
+	#comment : 'Primary component used for loading the core classes.'
 }

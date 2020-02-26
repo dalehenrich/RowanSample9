@@ -7,9 +7,6 @@ RwLoadSpecificationV2 {
 	#componentNames : [
 		'Core'
 	],
-	#groupNames : [
-		'core'
-	],
 	#platformProperties : {
 		'gemstone' : {
 			'allusers' : {
