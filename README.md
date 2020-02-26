@@ -10,8 +10,7 @@ RwLoadSpecificationV2 {
 	#componentNames : [
 		'Core'
 	],
-	#groupNames : [
-		'core',
+	#customConditionalAttributes : [
 		'tests'
 	],
 	#comment : 'Build a sample vast/gemstone project based on information in https://github.com/dalehenrich/tonel-demos/tree/rowan_553'
@@ -29,7 +28,7 @@ RwTestProjectLibraryIndexCard {
 		555
 	],
 	#gemstoneIssues : [ ],
-	#rowanSHA : '70e3598e'
+	#rowanSHA : '5f0d3a60'
 }
 ```
 

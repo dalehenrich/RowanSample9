@@ -1,0 +1,10 @@
+RwSimpleNestedProjectLoadComponentV2 {
+	#name : 'vast/Core',
+	#condition : 'vast',
+	#projectNames : [ ],
+	#componentNames : [ ],
+	#packageNames : [
+		'RowanSample9-Vast-Application'
+	],
+	#comment : 'manage vast packages'
+}
