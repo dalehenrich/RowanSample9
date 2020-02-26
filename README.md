@@ -10,9 +10,6 @@ RwLoadSpecificationV2 {
 	#componentNames : [
 		'Core'
 	],
-	#groupNames : [
-		'core'
-	],
 	#platformProperties : {
 		'gemstone' : {
 			'allusers' : {
@@ -32,7 +29,7 @@ RwTestProjectLibraryIndexCard {
 	#comment : '',
 	#rowanIssues : [ ],
 	#gemstoneIssues : [ ],
-	#rowanSHA : '70e3598e'
+	#rowanSHA : '5f0d3a60'
 }
 ```
 
