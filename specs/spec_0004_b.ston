@@ -7,8 +7,7 @@ RwLoadSpecificationV2 {
 	#componentNames : [
 		'Core3'
 	],
-	#groupNames : [
-		'core',
+	#customConditionalAttributes : [
 		'tests'
 	],
 	#platformProperties : {
