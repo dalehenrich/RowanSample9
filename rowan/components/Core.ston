@@ -6,8 +6,7 @@ RwSimpleProjectLoadComponentV2 {
 		'tests/Tests'
 	],
 	#packageNames : [
-		'RowanSample9-Core',
-		'RowanSample9-Tests'
+		'RowanSample9-Core'
 	],
 	#comment : 'Primary component used for loading the core classes.'
 }
