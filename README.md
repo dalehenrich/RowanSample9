@@ -13,8 +13,7 @@ RwLoadSpecificationV2 {
 	#componentNames : [
 		'Core'
 	],
-	#groupNames : [
-		'core',
+	#customConditionalAttributes : [
 		'tests'
 	],
 	#platformProperties : {
@@ -38,7 +37,7 @@ RwTestProjectLibraryIndexCard {
 		493
 	],
 	#gemstoneIssues : [ ],
-	#rowanSHA : '70e3598e'
+	#rowanSHA : '5f0d3a60'
 }
 ```
 
