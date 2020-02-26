@@ -1,6 +1,13 @@
-RwProjectLoadComponentV2 {
+RwSimpleProjectLoadComponentV2 {
 	#name : 'Core2',
-	#comment : 'contains RowanSample9-Core2 package',
+	#condition : 'common',
+	#projectNames : [ ],
+	#componentNames : [
+		'Core1'
+	],
+	#packageNames : [
+		'RowanSample9-Core2'
+	],
 	#conditionalPackageMapSpecs : {
 		'gemstone' : {
 			'allusers' : {
@@ -12,24 +19,5 @@ RwProjectLoadComponentV2 {
 			}
 		}
 	},
-	#definedGroupNames : {
-		'tests' : [
-			'core'
-		],
-		'core' : [ ]
-	},
-	#conditionalProperties : {
-		[
-			'common'
-		] : {
-			'core' : {
-				#componentNames : [
-					'Core1'
-				],
-				#packageNames : [
-					'RowanSample9-Core2'
-				]
-			}
-		}
-	}
+	#comment : 'contains RowanSample9-Core2 package'
 }
