@@ -1,6 +1,14 @@
-RwProjectLoadComponentV2 {
+RwSimpleProjectLoadComponentV2 {
 	#name : 'Core',
-	#comment : 'Primary component used for loading the core classes.',
+	#condition : 'common',
+	#projectNames : [ ],
+	#componentNames : [
+		'tests/Tests'
+	],
+	#packageNames : [
+		'RowanSample9-Core1',
+		'RowanSample9-Core2'
+	],
 	#conditionalPackageMapSpecs : {
 		'gemstone' : {
 			'allusers' : {
@@ -15,27 +23,5 @@ RwProjectLoadComponentV2 {
 			}
 		}
 	},
-	#definedGroupNames : {
-		'tests' : [
-			'core'
-		],
-		'core' : [ ]
-	},
-	#conditionalProperties : {
-		[
-			'common'
-		] : {
-			'core' : {
-				#packageNames : [
-					'RowanSample9-Core1',
-					'RowanSample9-Core2'
-				]
-			},
-			'tests' : {
-				#packageNames : [
-					'RowanSample9-Tests'
-				]
-			}
-		}
-	}
+	#comment : 'Primary component used for loading the core classes.'
 }
