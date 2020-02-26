@@ -1,7 +1,6 @@
 RwSimpleProjectLoadComponentV2 {
 	#name : 'Core3',
 	#condition : 'common',
-	#groupName : 'core',
 	#preloadDoitName : 'doits/preloadDoit_Core3',
 	#postloadDoitName : 'doits/postloadDoit_Core3',
 	#projectNames : [ ],
