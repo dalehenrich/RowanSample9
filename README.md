@@ -10,7 +10,9 @@ RwLoadSpecificationV2 {
 	#componentNames : [
 		'RowanSample9'
 	],
-	#groupNames : [ ],
+	#customConditionalAttributes : [
+		'tests'
+	],
 	#platformProperties : {
 		'gemstone' : {
 			'allusers' : {
@@ -32,7 +34,7 @@ RwTestProjectLibraryIndexCard {
 		573
 	],
 	#gemstoneIssues : [ ],
-	#rowanSHA : '4f13d63d'
+	#rowanSHA : '515656af'
 }
 ```
 
