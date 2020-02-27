@@ -7,7 +7,9 @@ RwLoadSpecificationV2 {
 	#componentNames : [
 		'RowanSample9'
 	],
-	#groupNames : [ ],
+	#customConditionalAttributes : [
+		'tests'
+	],
 	#platformProperties : {
 		'gemstone' : {
 			'allusers' : {
