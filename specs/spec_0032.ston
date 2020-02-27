@@ -7,7 +7,6 @@ RwLoadSpecificationV2 {
 	#componentNames : [
 		'RowanSample9'
 	],
-	#groupNames : [ ],
 	#customConditionalAttributes : [
 		'tests',
 		'v1',
