@@ -1143,7 +1143,6 @@ RwLoadSpecificationV2 {
 	#componentNames : [
 		'RowanSample9'
 	],
-	#groupNames : [ ],
 	#customConditionalAttributes : [
 		'tests'
 	],
@@ -1168,7 +1167,7 @@ RwTestProjectLibraryIndexCard {
 		573
 	],
 	#gemstoneIssues : [ ],
-	#rowanSHA : '377c6d34'
+	#rowanSHA : '515656af'
 }
 ```
 ### spec_0030
