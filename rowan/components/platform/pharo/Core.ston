@@ -1,0 +1,10 @@
+RwPlatformNestedProjectLoadComponentV2 {
+	#name : 'platform/pharo/Core',
+	#condition : [
+		'pharo'
+	],
+	#packageNames : [
+		'RowanSample9-Export-Pharo'
+	],
+	#comment : ''
+}

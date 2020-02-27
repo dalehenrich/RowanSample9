@@ -1,0 +1,11 @@
+RwPlatformNestedProjectLoadComponentV2 {
+	#name : 'platform/vast/Core',
+	#condition : [
+		'vast'
+	],
+	#packageNames : [
+		'RowanSample9-Export-VAST',
+		'RowanSample9-VAST-Application'
+	],
+	#comment : ''
+}

@@ -1,0 +1,12 @@
+RwSimpleNestedProjectLoadComponentV2 {
+	#name : 'platform/Core',
+	#condition : 'common',
+	#projectNames : [ ],
+	#componentNames : [
+		'platform/gemstone/Core',
+		'platform/pharo/Core',
+		'platform/vast/Core'
+	],
+	#packageNames : [ ],
+	#comment : ''
+}

@@ -1,0 +1,10 @@
+RwPlatformNestedProjectLoadComponentV2 {
+	#name : 'tests/platform/vast/Tests',
+	#condition : [
+		'vast'
+	],
+	#packageNames : [
+		'RowanSample9-VAST-Test-Application'
+	],
+	#comment : ''
+}

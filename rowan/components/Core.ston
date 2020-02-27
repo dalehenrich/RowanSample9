@@ -1,13 +1,10 @@
 RwSimpleProjectLoadComponentV2 {
 	#name : 'Core',
 	#condition : 'common',
-	#groupName : 'core',
 	#projectNames : [ ],
 	#componentNames : [
-		'platform/Extensions-GemStone',
-		'platform/Extensions-Pharo',
-		'platform/Extensions-VAST',
-		'Tests'
+		'platform/Core',
+		'tests/Tests'
 	],
 	#packageNames : [
 		'RowanSample9-Core',

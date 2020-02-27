@@ -1,0 +1,10 @@
+RwPlatformNestedProjectLoadComponentV2 {
+	#name : 'platform/gemstone/Core',
+	#condition : [
+		'gemstone'
+	],
+	#packageNames : [
+		'RowanSample9-Export-GemStone'
+	],
+	#comment : ''
+}
