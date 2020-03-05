@@ -1,9 +1,0 @@
-RwEnvySubApplicationProjectLoadComponentV2 {
-	#name : 'envy/platform/Extensions-GemStone',
-	#comment : 'Subapplication for loading gemstone-specific packages',
-	#packageNames : [
-		'RowanSample9-Export-GemStone'
-	],
-	#condition : 'gemstone',
-	#subApplicationNames : [ ]
-}
