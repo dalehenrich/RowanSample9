@@ -1370,9 +1370,7 @@ RwLoadSpecificationV2 {
 	#componentNames : [
 		'Core'
 	],
-	#customConditionalAttributes : [
-		'tests'
-	],
+	#customConditionalAttributes : [ ],
 	#platformProperties : {
 		'gemstone' : {
 			'allusers' : {
