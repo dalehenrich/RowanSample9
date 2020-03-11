@@ -15,5 +15,5 @@ RwLoadSpecificationV2 {
 			}
 		}
 	},
-	#comment : 'Start with spec_0034, add instance variables and methods. _migration_1..'
+	#comment : 'Start with spec_0034, add class hierarchy with instance variables and methods. _migration_1.'
 }

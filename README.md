@@ -1,5 +1,5 @@
 # RowanSample9 - spec_0035
-Start with spec_0034, add instance variables and methods. _migration_1..
+Start with spec_0034, add class hierarchy with instance variables and methods. _migration_1.
 ```
 RwLoadSpecificationV2 {
 	#specName : 'spec_0035',
@@ -18,12 +18,12 @@ RwLoadSpecificationV2 {
 			}
 		}
 	},
-	#comment : 'Start with spec_0034, add instance variables and methods. _migration_1..'
+	#comment : 'Start with spec_0034, add class hierarchy with instance variables and methods. _migration_1.'
 }
 
 RwTestProjectLibraryIndexCard {
 	#name : 'index_0035',
-	#title : 'Start with spec_0034, add instance variables and methods. _migration_1..',
+	#title : 'Start with spec_0034, add class hierarchy with instance variables and methods. _migration_1.',
 	#specName : 'spec_0035',
 	#index : 35,
 	#derivedFrom : 'spec_0034',
