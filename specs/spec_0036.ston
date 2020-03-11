@@ -1,0 +1,19 @@
+RwLoadSpecificationV2 {
+	#specName : 'spec_0036',
+	#projectName : 'RowanSample9',
+	#gitUrl : 'https://github.com/dalehenrich/RowanSample9',
+	#revision : 'spec_0036',
+	#projectSpecFile : 'rowan/project.ston',
+	#componentNames : [
+		'Core'
+	],
+	#customConditionalAttributes : [ ],
+	#platformProperties : {
+		'gemstone' : {
+			'allusers' : {
+				#defaultSymbolDictName : #RowanSample9_1
+			}
+		}
+	},
+	#comment : 'Start with spec_0035, add 2 more instance variables and methods. _migration_2.'
+}
