@@ -5,7 +5,7 @@ RwLoadSpecificationV2 {
 	#specName : 'spec_0010',
 	#projectName : 'RowanSample9',
 	#gitUrl : 'https://github.com/dalehenrich/RowanSample9',
-	#revision : 'spec_0009',
+	#revision : 'spec_0010',
 	#projectSpecFile : 'rowan/project.ston',
 	#componentNames : [
 		'Core'
@@ -16,7 +16,7 @@ RwLoadSpecificationV2 {
 	#platformProperties : {
 		'gemstone' : {
 			'allusers' : {
-				#defaultSymbolDictName : #RowanSample9_1
+				#defaultSymbolDictName : #RowanSample9_4
 			}
 		}
 	},
@@ -34,7 +34,7 @@ RwTestProjectLibraryIndexCard {
 		493
 	],
 	#gemstoneIssues : [ ],
-	#rowanSHA : '3af3ae28'
+	#rowanSHA : '0ed14d4c'
 }
 ```
 
