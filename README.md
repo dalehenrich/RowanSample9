@@ -1,5 +1,5 @@
 # RowanSample9 - spec_0034
-Start with spec_0001, remove the instance variables. Foundation for instance migration testing.
+Start with spec_0001, remove the instance variables. Foundation for instance migration testing - _migration_0.
 ```
 RwLoadSpecificationV2 {
 	#specName : 'spec_0034',
@@ -20,12 +20,12 @@ RwLoadSpecificationV2 {
 			}
 		}
 	},
-	#comment : 'Start with spec_0001, remove the instance variables. Foundation for instance migration testing.'
+	#comment : 'Start with spec_0001, remove the instance variables. Foundation for instance migration testing - _migration_0.'
 }
 
 RwTestProjectLibraryIndexCard {
 	#name : 'index_0034',
-	#title : 'Start with spec_0001, remove the instance variables. Foundation for instance migration testing.',
+	#title : 'Start with spec_0001, remove the instance variables. Foundation for instance migration testing - _migration_0.',
 	#specName : 'spec_0034',
 	#index : 34,
 	#derivedFrom : 'spec_0001',
