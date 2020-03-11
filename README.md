@@ -1344,12 +1344,12 @@ RwLoadSpecificationV2 {
 			}
 		}
 	},
-	#comment : 'Start with spec_0001, remove the instance variables. Foundation for instance migration testing - _migration_0.'
+	#comment : 'Start with spec_0001, remove the class. Foundation for instance migration testing - _migration_0.'
 }
 
 RwTestProjectLibraryIndexCard {
 	#name : 'index_0034',
-	#title : 'Start with spec_0001, remove the instance variables. Foundation for instance migration testing - _migration_0.',
+	#title : 'Start with spec_0001, remove the class. Foundation for instance migration testing - _migration_0.',
 	#specName : 'spec_0034',
 	#index : 34,
 	#derivedFrom : 'spec_0001',
