@@ -1,18 +1,16 @@
-# RowanSample9 - spec_0001
-Bare bones package structure -Core and -Tests
+# RowanSample9 - spec_0034
+Start with spec_0001, remove the test case and remove the instance variables and methods. Foundation for instance migration testing.
 ```
 RwLoadSpecificationV2 {
-	#specName : 'spec_0001',
+	#specName : 'spec_0034',
 	#projectName : 'RowanSample9',
 	#gitUrl : 'https://github.com/dalehenrich/RowanSample9',
-	#revision : 'spec_0000',
+	#revision : 'spec_0001',
 	#projectSpecFile : 'rowan/project.ston',
 	#componentNames : [
 		'Core'
 	],
-	#customConditionalAttributes : [
-		'tests'
-	],
+	#customConditionalAttributes : [ ],
 	#platformProperties : {
 		'gemstone' : {
 			'allusers' : {
@@ -20,21 +18,19 @@ RwLoadSpecificationV2 {
 			}
 		}
 	},
-	#comment : 'Bare bones package structure -Core and -Tests'
+	#comment : 'Start with spec_0001, remove the test case and remove the instance variables and methods. Foundation for instance migration testing.'
 }
 
 RwTestProjectLibraryIndexCard {
-	#name : 'index_0001',
-	#title : 'Bare bones package structure -Core and -Tests',
-	#specName : 'spec_0001',
-	#index : 1,
-	#derivedFrom : 'spec_0000',
-	#comment : 'One class per package: RowanSample9-Core and RowanSample9-Tests packages',
-	#rowanIssues : [
-		527
-	],
+	#name : 'index_0034',
+	#title : 'Start with spec_0001, remove the test case and remove the instance variables and methods. Foundation for instance migration testing.',
+	#specName : 'spec_0034',
+	#index : 34,
+	#derivedFrom : 'spec_0001',
+	#comment : '',
+	#rowanIssues : [ ],
 	#gemstoneIssues : [ ],
-	#rowanSHA : '3af3ae28'
+	#rowanSHA : '0ed14d4c'
 }
 ```
 
