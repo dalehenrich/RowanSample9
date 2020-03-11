@@ -1,8 +1,8 @@
 RwLoadSpecificationV2 {
-	#specName : 'spec_0034',
+	#specName : 'spec_0035',
 	#projectName : 'RowanSample9',
 	#gitUrl : 'https://github.com/dalehenrich/RowanSample9',
-	#revision : 'spec_0034',
+	#revision : 'spec_0035',
 	#projectSpecFile : 'rowan/project.ston',
 	#componentNames : [
 		'Core'
@@ -17,5 +17,5 @@ RwLoadSpecificationV2 {
 			}
 		}
 	},
-	#comment : 'Start with spec_0001, remove the instance variables. Foundation for instance migration testing - _migration_0.'
+	#comment : 'Start with spec_0034, add instance variables and methods. _migration_1..'
 }

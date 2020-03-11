@@ -1,11 +1,11 @@
-# RowanSample9 - spec_0034
-Start with spec_0001, remove the instance variables. Foundation for instance migration testing - _migration_0.
+# RowanSample9 - spec_0035
+Start with spec_0034, add instance variables and methods. _migration_1..
 ```
 RwLoadSpecificationV2 {
-	#specName : 'spec_0034',
+	#specName : 'spec_0035',
 	#projectName : 'RowanSample9',
 	#gitUrl : 'https://github.com/dalehenrich/RowanSample9',
-	#revision : 'spec_0034',
+	#revision : 'spec_0035',
 	#projectSpecFile : 'rowan/project.ston',
 	#componentNames : [
 		'Core'
@@ -20,15 +20,15 @@ RwLoadSpecificationV2 {
 			}
 		}
 	},
-	#comment : 'Start with spec_0001, remove the instance variables. Foundation for instance migration testing - _migration_0.'
+	#comment : 'Start with spec_0034, add instance variables and methods. _migration_1..'
 }
 
 RwTestProjectLibraryIndexCard {
-	#name : 'index_0034',
-	#title : 'Start with spec_0001, remove the instance variables. Foundation for instance migration testing - _migration_0.',
-	#specName : 'spec_0034',
-	#index : 34,
-	#derivedFrom : 'spec_0001',
+	#name : 'index_0035',
+	#title : 'Start with spec_0034, add instance variables and methods. _migration_1..',
+	#specName : 'spec_0035',
+	#index : 35,
+	#derivedFrom : 'spec_0034',
 	#comment : '',
 	#rowanIssues : [ ],
 	#gemstoneIssues : [ ],
