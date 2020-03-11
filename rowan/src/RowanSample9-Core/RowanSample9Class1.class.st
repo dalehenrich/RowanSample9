@@ -15,9 +15,9 @@ RowanSample9Class1 >> foo [ ^1
 ]
 
 { #category : 'accessing' }
-RowanSample9Class1 >> ivar: obj [ ivar0 := obj
+RowanSample9Class1 >> ivar0 [ ^ ivar0
 ]
 
 { #category : 'accessing' }
-RowanSample9Class1 >> ivar0 [ ^ ivar0
+RowanSample9Class1 >> ivar0: obj [ ivar0 := obj
 ]
