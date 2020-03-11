@@ -1412,12 +1412,12 @@ RwLoadSpecificationV2 {
 			}
 		}
 	},
-	#comment : 'Start with spec_0035, add 2 more instance variables and methods. _migration_2.'
+	#comment : 'Start with spec_0035, move ivs ivar1 and ivar2 up to the top of the hierarcy; methods should be okay. _migration_2.'
 }
 
 RwTestProjectLibraryIndexCard {
 	#name : 'index_0036',
-	#title : 'Start with spec_0035, add 2 more instance variables and methods. _migration_2.',
+	#title : 'Start with spec_0035, move ivs ivar1 and ivar2 up to the top of the hierarcy; methods should be okay. _migration_2.',
 	#specName : 'spec_0036',
 	#index : 36,
 	#derivedFrom : 'spec_0035',
