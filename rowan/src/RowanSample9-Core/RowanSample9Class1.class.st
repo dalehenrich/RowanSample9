@@ -6,3 +6,7 @@ Class {
 	#superclass : 'Object',
 	#category : 'RowanSample9-Core'
 }
+
+{ #category : 'accessing' }
+RowanSample9Class1 >> foo [ ^1
+]
