@@ -5,7 +5,7 @@ RwLoadSpecificationV2 {
 	#specName : 'spec_0029',
 	#projectName : 'RowanSample9',
 	#gitUrl : 'https://github.com/dalehenrich/RowanSample9',
-	#revision : 'spec_0028',
+	#revision : 'spec_0029',
 	#projectSpecFile : 'rowan/project.ston',
 	#componentNames : [
 		'RowanSample9'
@@ -34,7 +34,7 @@ RwTestProjectLibraryIndexCard {
 		573
 	],
 	#gemstoneIssues : [ ],
-	#rowanSHA : '3af3ae28'
+	#rowanSHA : '0ed14d4c'
 }
 ```
 
