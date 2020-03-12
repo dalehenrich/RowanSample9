@@ -4,7 +4,7 @@ Bare bones package structure -Core and -Tests
 RwLoadSpecificationV2 {
 	#specName : 'spec_0001',
 	#projectName : 'RowanSample9',
-	#gitUrl : 'https://github.com/dalehenrich/RowanSample9',
+	#gitUrl : 'git@github.com:dalehenrich/RowanSample9.git',
 	#revision : 'spec_0001',
 	#projectSpecFile : 'rowan/project.ston',
 	#componentNames : [
@@ -34,7 +34,7 @@ RwTestProjectLibraryIndexCard {
 		527
 	],
 	#gemstoneIssues : [ ],
-	#rowanSHA : '0ed14d4c'
+	#rowanSHA : 'dee7ce80'
 }
 ```
 
