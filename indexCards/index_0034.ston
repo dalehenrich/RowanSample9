@@ -1,11 +1,11 @@
 RwTestProjectLibraryIndexCard {
 	#name : 'index_0034',
-	#title : 'Start with spec_0001, remove the class. Foundation for instance migration testing - _migration_0.',
+	#title : 'Start with spec_0001, remove the instance variable. Foundation for instance migration testing - _migration_0.',
 	#specName : 'spec_0034',
 	#index : 34,
 	#derivedFrom : 'spec_0001',
 	#comment : '',
 	#rowanIssues : [ ],
 	#gemstoneIssues : [ ],
-	#rowanSHA : '0ed14d4c'
+	#rowanSHA : 'dee7ce80'
 }
