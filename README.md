@@ -11,7 +11,7 @@ Starting with spec_0014, remove the old (now empty) package from the project as 
 RwLoadSpecificationV2 {
 	#specName : 'spec_0015',
 	#projectName : 'RowanSample9',
-	#gitUrl : 'https://github.com/dalehenrich/RowanSample9',
+	#gitUrl : 'git@github.com:dalehenrich/RowanSample9.git',
 	#revision : 'spec_0015',
 	#projectSpecFile : 'rowan/project.ston',
 	#componentNames : [
@@ -41,7 +41,7 @@ RwTestProjectLibraryIndexCard {
 		495
 	],
 	#gemstoneIssues : [ ],
-	#rowanSHA : '0ed14d4c'
+	#rowanSHA : 'dee7ce80'
 }
 ```
 
