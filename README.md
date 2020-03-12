@@ -6,7 +6,7 @@ Sample project that is being used to develop the **final** version of the V2.0 p
 RwLoadSpecificationV2 {
 	#specName : 'spec_0000',
 	#projectName : 'RowanSample9',
-	#gitUrl : 'https://github.com/dalehenrich/RowanSample9',
+	#gitUrl : 'git@github.com:dalehenrich/RowanSample9.git',
 	#revision : 'spec_0000',
 	#projectSpecFile : 'rowan/project.ston',
 	#componentNames : [
@@ -34,7 +34,7 @@ RwTestProjectLibraryIndexCard {
 	#comment : '',
 	#rowanIssues : [ ],
 	#gemstoneIssues : [ ],
-	#rowanSHA : '0ed14d4c'
+	#rowanSHA : 'dee7ce80'
 }
 ```
 ### spec_0001
