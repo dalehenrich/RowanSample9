@@ -4,7 +4,7 @@ Start with  spec_0031, update the project structure using the new component crea
 RwLoadSpecificationV2 {
 	#specName : 'spec_0032',
 	#projectName : 'RowanSample9',
-	#gitUrl : 'https://github.com/dalehenrich/RowanSample9',
+	#gitUrl : 'git@github.com:dalehenrich/RowanSample9.git',
 	#revision : 'spec_0032',
 	#projectSpecFile : 'rowan/project.ston',
 	#componentNames : [
@@ -36,7 +36,7 @@ RwTestProjectLibraryIndexCard {
 		573
 	],
 	#gemstoneIssues : [ ],
-	#rowanSHA : '0ed14d4c'
+	#rowanSHA : 'dee7ce80'
 }
 ```
 
