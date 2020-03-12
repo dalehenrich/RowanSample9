@@ -4,7 +4,7 @@ Build a sample vast/gemstone project based on information in https://github.com/
 RwLoadSpecificationV2 {
 	#specName : 'spec_0018',
 	#projectName : 'RowanSample9',
-	#gitUrl : 'https://github.com/dalehenrich/RowanSample9',
+	#gitUrl : 'git@github.com:dalehenrich/RowanSample9.git',
 	#revision : 'spec_0018',
 	#projectSpecFile : 'rowan/project.ston',
 	#componentNames : [
@@ -25,7 +25,7 @@ RwTestProjectLibraryIndexCard {
 		555
 	],
 	#gemstoneIssues : [ ],
-	#rowanSHA : '0ed14d4c'
+	#rowanSHA : 'dee7ce80'
 }
 ```
 
