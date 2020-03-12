@@ -4,7 +4,7 @@ Empty project with no packages
 RwLoadSpecificationV2 {
 	#specName : 'spec_0000',
 	#projectName : 'RowanSample9',
-	#gitUrl : 'https://github.com/dalehenrich/RowanSample9',
+	#gitUrl : 'git@github.com:dalehenrich/RowanSample9.git',
 	#revision : 'spec_0000',
 	#projectSpecFile : 'rowan/project.ston',
 	#componentNames : [
@@ -32,7 +32,7 @@ RwTestProjectLibraryIndexCard {
 	#comment : '',
 	#rowanIssues : [ ],
 	#gemstoneIssues : [ ],
-	#rowanSHA : '0ed14d4c'
+	#rowanSHA : 'dee7ce80'
 }
 ```
 
