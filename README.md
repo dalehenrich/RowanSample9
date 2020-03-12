@@ -4,7 +4,7 @@ one symbol dict specified for gemstone, the rest in default --- default sym dict
 RwLoadSpecificationV2 {
 	#specName : 'spec_0010',
 	#projectName : 'RowanSample9',
-	#gitUrl : 'https://github.com/dalehenrich/RowanSample9',
+	#gitUrl : 'git@github.com:dalehenrich/RowanSample9.git',
 	#revision : 'spec_0010',
 	#projectSpecFile : 'rowan/project.ston',
 	#componentNames : [
@@ -34,7 +34,7 @@ RwTestProjectLibraryIndexCard {
 		493
 	],
 	#gemstoneIssues : [ ],
-	#rowanSHA : '0ed14d4c'
+	#rowanSHA : 'dee7ce80'
 }
 ```
 
