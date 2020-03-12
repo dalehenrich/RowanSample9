@@ -2,7 +2,7 @@ Class {
 	#name : 'RowanSample9ClassB',
 	#superclass : 'RowanSample9Class',
 	#instVars : [
-		#b
+		'b'
 	],
 	#category : 'RowanSample9-Core'
 }
