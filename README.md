@@ -310,7 +310,7 @@ RwTestProjectLibraryIndexCard {
 RwLoadSpecificationV2 {
 	#specName : 'spec_0007',
 	#projectName : 'RowanSample9',
-	#gitUrl : 'https://github.com/dalehenrich/RowanSample9',
+	#gitUrl : 'git@github.com:dalehenrich/RowanSample9.git',
 	#revision : 'spec_0007',
 	#projectSpecFile : 'rowan/project.ston',
 	#componentNames : [
@@ -340,7 +340,7 @@ RwTestProjectLibraryIndexCard {
 		504
 	],
 	#gemstoneIssues : [ ],
-	#rowanSHA : '0ed14d4c'
+	#rowanSHA : 'dee7ce80'
 }
 ```
 ### spec_0008
