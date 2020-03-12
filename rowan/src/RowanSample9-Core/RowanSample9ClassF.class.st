@@ -16,9 +16,5 @@ RowanSample9ClassF >> f: obj [ f := obj
 ]
 
 { #category : 'accessing' }
-RowanSample9ClassF >> ivar2 [ ^ ivar2
-]
-
-{ #category : 'accessing' }
 RowanSample9ClassF >> ivar2: obj [ ivar2 := obj
 ]
