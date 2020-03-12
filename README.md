@@ -4,7 +4,7 @@ Start with  spec_0000, create a project using the new component creation API ---
 RwLoadSpecificationV2 {
 	#specName : 'spec_0026',
 	#projectName : 'RowanSample9',
-	#gitUrl : 'https://github.com/dalehenrich/RowanSample9',
+	#gitUrl : 'git@github.com:dalehenrich/RowanSample9.git',
 	#revision : 'spec_0026',
 	#projectSpecFile : 'rowan/project.ston',
 	#componentNames : [
@@ -34,7 +34,7 @@ RwTestProjectLibraryIndexCard {
 		573
 	],
 	#gemstoneIssues : [ ],
-	#rowanSHA : '0ed14d4c'
+	#rowanSHA : 'dee7ce80'
 }
 ```
 
