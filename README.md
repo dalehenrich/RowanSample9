@@ -4,7 +4,7 @@ Starting with spec_0015, move an extension method from one package to another wi
 RwLoadSpecificationV2 {
 	#specName : 'spec_0016',
 	#projectName : 'RowanSample9',
-	#gitUrl : 'https://github.com/dalehenrich/RowanSample9',
+	#gitUrl : 'git@github.com:dalehenrich/RowanSample9.git',
 	#revision : 'spec_0016',
 	#projectSpecFile : 'rowan/project.ston',
 	#componentNames : [
@@ -34,7 +34,7 @@ RwTestProjectLibraryIndexCard {
 		557
 	],
 	#gemstoneIssues : [ ],
-	#rowanSHA : '0ed14d4c'
+	#rowanSHA : 'dee7ce80'
 }
 ```
 
