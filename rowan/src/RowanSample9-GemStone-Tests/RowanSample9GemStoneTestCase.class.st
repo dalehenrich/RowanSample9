@@ -14,3 +14,9 @@ RowanSample9GemStoneTestCase >> test1 [  self assert: RowanSample9IdentityKeyVal
 { #category : 'tests' }
 RowanSample9GemStoneTestCase >> test2 [  self assert: RowanSample9IdentityKeyValueDictionary bar = 'bar'
 ]
+
+{ #category : 'tests' }
+RowanSample9GemStoneTestCase >> testConstraints [
+	self assert: (x := RowanSample9IdentityKeyValueDictionary _varyingConstraint) = String.
+
+]
