@@ -1307,12 +1307,12 @@ RwLoadSpecificationV2 {
 			}
 		}
 	},
-	#comment : 'Start with  spec_0011, update class definition to match RowanSample1 branch issue_345 - porting RwRowanSample1Test>>testIssue345 and RwRowanSample1Test>>testIssue514 to v2.'
+	#comment : 'Start with  spec_0011, update class definition to match RowanSample1 branch issue_345, i.e., add constraints to a class - porting RwRowanSample1Test>>testIssue345 and RwRowanSample1Test>>testIssue514 to v2'
 }
 
 RwTestProjectLibraryIndexCard {
 	#name : 'index_0033',
-	#title : 'Start with  spec_0011, update class definition to match RowanSample1 branch issue_345 - porting RwRowanSample1Test>>testIssue345 and RwRowanSample1Test>>testIssue514 to v2.',
+	#title : 'Start with  spec_0011, update class definition to match RowanSample1 branch issue_345, i.e., add constraints to a class - porting RwRowanSample1Test>>testIssue345 and RwRowanSample1Test>>testIssue514 to v2',
 	#specName : 'spec_0033',
 	#index : 33,
 	#derivedFrom : 'spec_0011',
@@ -1322,7 +1322,7 @@ RwTestProjectLibraryIndexCard {
 		514
 	],
 	#gemstoneIssues : [ ],
-	#rowanSHA : 'dee7ce80'
+	#rowanSHA : 'e65a78d3'
 }
 ```
 ### spec_0034
