@@ -17,5 +17,5 @@ RwLoadSpecificationV2 {
 			}
 		}
 	},
-	#comment : 'Start with spec_0038, add class var to NewRowanSample9Class'
+	#comment : 'Start with spec_0038, add class var to NewRowanSample9Class (issue_185_7)'
 }

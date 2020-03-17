@@ -1524,12 +1524,12 @@ RwLoadSpecificationV2 {
 			}
 		}
 	},
-	#comment : 'Start with spec_0038, add class var to NewRowanSample9Class'
+	#comment : 'Start with spec_0038, add class var to NewRowanSample9Class (issue_185_7)'
 }
 
 RwTestProjectLibraryIndexCard {
 	#name : 'index_0039',
-	#title : 'Start with spec_0038, add class var to NewRowanSample9Class',
+	#title : 'Start with spec_0038, add class var to NewRowanSample9Class (issue_185_7)',
 	#specName : 'spec_0039',
 	#index : 39,
 	#derivedFrom : 'spec_0038',
@@ -1538,7 +1538,7 @@ RwTestProjectLibraryIndexCard {
 		185
 	],
 	#gemstoneIssues : [ ],
-	#rowanSHA : 'e61f7be6'
+	#rowanSHA : 'd57c31fc'
 }
 ```
 ### spec_0040
