@@ -16,6 +16,13 @@ RowanSample9TestCase >> test2 [  self assert: RowanSample9Class1 bar = 'bar'
 ]
 
 { #category : 'tests' }
+RowanSample9TestCase >> testClassVars_NewRowanSample9Class [
+	| x |
+	self assert: (x := NewRowanSample9Class cVar) = 1.
+
+]
+
+{ #category : 'tests' }
 RowanSample9TestCase >> testNewRowanSample9Class [
 	| x |
 	self assert: (x := NewRowanSample9Class new foo) = 5.
