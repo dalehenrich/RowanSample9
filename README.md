@@ -1,5 +1,5 @@
 # RowanSample9 - spec_0040
-Start with spec_0038, add inst var to NewRowanSample9Class (create new class version)
+Start with spec_0038, rename package to RowanSample9-RenamedPackage
 ```
 RwLoadSpecificationV2 {
 	#specName : 'spec_0040',
@@ -20,12 +20,12 @@ RwLoadSpecificationV2 {
 			}
 		}
 	},
-	#comment : 'Start with spec_0038, add inst var to NewRowanSample9Class (create new class version)'
+	#comment : 'Start with spec_0038, rename package to RowanSample9-RenamedPackage'
 }
 
 RwTestProjectLibraryIndexCard {
 	#name : 'index_0040',
-	#title : 'Start with spec_0038, add inst var to NewRowanSample9Class (create new class version)',
+	#title : 'Start with spec_0038, rename package to RowanSample9-RenamedPackage',
 	#specName : 'spec_0040',
 	#index : 40,
 	#derivedFrom : 'spec_0038',

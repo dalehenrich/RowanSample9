@@ -9,7 +9,7 @@ RwSimpleProjectLoadComponentV2 {
 		'RowanSample9-Core',
 		'RowanSample9-Extensions',
 		'RowanSample9-GemStone',
-		'RowanSample9-NewPackage'
+		'RowanSample9-RenamedPackage'
 	],
 	#comment : 'Primary component used for loading the core classes.'
 }
