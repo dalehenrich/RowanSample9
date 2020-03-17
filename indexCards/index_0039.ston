@@ -1,0 +1,13 @@
+RwTestProjectLibraryIndexCard {
+	#name : 'index_0039',
+	#title : 'Start with spec_0038, add class var to NewRowanSample9Class',
+	#specName : 'spec_0039',
+	#index : 39,
+	#derivedFrom : 'spec_0038',
+	#comment : '',
+	#rowanIssues : [
+		185
+	],
+	#gemstoneIssues : [ ],
+	#rowanSHA : 'e61f7be6'
+}
