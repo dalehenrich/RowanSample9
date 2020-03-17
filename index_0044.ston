@@ -1,0 +1,13 @@
+RwTestProjectLibraryIndexCard {
+	#name : 'index_0044',
+	#title : 'Start with spec_0038, rename package to RowanSample9-RenamedPackage (issue_185_4)',
+	#specName : 'spec_0044',
+	#index : 44,
+	#derivedFrom : 'spec_0038',
+	#comment : '',
+	#rowanIssues : [
+		185
+	],
+	#gemstoneIssues : [ ],
+	#rowanSHA : 'd57c31fc'
+}
