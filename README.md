@@ -1,5 +1,5 @@
 # RowanSample9 - spec_0041
-Start with spec_0038, rename package to RowanSample9-RenamedPackage
+Start with spec_0038, rename package to RowanSample9-RenamedPackage (issue_185_2)
 ```
 RwLoadSpecificationV2 {
 	#specName : 'spec_0041',
@@ -20,12 +20,12 @@ RwLoadSpecificationV2 {
 			}
 		}
 	},
-	#comment : 'Start with spec_0038, rename package to RowanSample9-RenamedPackage'
+	#comment : 'Start with spec_0038, rename package to RowanSample9-RenamedPackage (issue_185_2)'
 }
 
 RwTestProjectLibraryIndexCard {
 	#name : 'index_0041',
-	#title : 'Start with spec_0038, rename package to RowanSample9-RenamedPackage',
+	#title : 'Start with spec_0038, rename package to RowanSample9-RenamedPackage (issue_185_2)',
 	#specName : 'spec_0041',
 	#index : 41,
 	#derivedFrom : 'spec_0038',
@@ -34,7 +34,7 @@ RwTestProjectLibraryIndexCard {
 		185
 	],
 	#gemstoneIssues : [ ],
-	#rowanSHA : 'e61f7be6'
+	#rowanSHA : 'd57c31fc'
 }
 ```
 
