@@ -1,5 +1,5 @@
 # RowanSample9 - spec_0038
-Start with spec_0002, add new class in new package. spec_0002 = issue_185_0, spec_0038 = issue_185_1, spec_0039 = issue_185_3
+Start with spec_0002, add new class in new package. spec_0002 = issue_185_0, spec_0038 = issue_185_1
 ```
 RwLoadSpecificationV2 {
 	#specName : 'spec_0038',
@@ -20,12 +20,12 @@ RwLoadSpecificationV2 {
 			}
 		}
 	},
-	#comment : 'Start with spec_0002, add new class in new package. spec_0002 = issue_185_0, spec_0038 = issue_185_1, spec_0039 = issue_185_3'
+	#comment : 'Start with spec_0002, add new class in new package. spec_0002 = issue_185_0, spec_0038 = issue_185_1'
 }
 
 RwTestProjectLibraryIndexCard {
 	#name : 'index_0038',
-	#title : 'Start with spec_0002, add new class in new package. spec_0002 = issue_185_0, spec_0038 = issue_185_1, spec_0039 = issue_185_3',
+	#title : 'Start with spec_0002, add new class in new package. spec_0002 = issue_185_0, spec_0038 = issue_185_1',
 	#specName : 'spec_0038',
 	#index : 38,
 	#derivedFrom : 'spec_0002',
