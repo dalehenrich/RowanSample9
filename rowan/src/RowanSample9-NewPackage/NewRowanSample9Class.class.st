@@ -11,7 +11,7 @@ Class {
 }
 
 { #category : 'instance creation' }
-NewRowanSample9Class class >> new [ ^ self basicNew; initialize; yourself
+NewRowanSample9Class class >> new [ ^ (self basicNew) initialize; yourself
 ]
 
 { #category : 'accessing' }
