@@ -1,11 +1,11 @@
-# RowanSample9 - spec_0040
-Start with spec_0038, add inst var to NewRowanSample9Class (create new class version)(issue_185_5)
+# RowanSample9 - spec_0043
+Start with spec_0040, rename package to RowanSample9-RenamedPackage (issue_185_6)
 ```
 RwLoadSpecificationV2 {
-	#specName : 'spec_0040',
+	#specName : 'spec_0043',
 	#projectName : 'RowanSample9',
 	#gitUrl : 'git@github.com:dalehenrich/RowanSample9.git',
-	#revision : 'spec_0040',
+	#revision : 'spec_0043',
 	#projectSpecFile : 'rowan/project.ston',
 	#componentNames : [
 		'Core'
@@ -20,15 +20,15 @@ RwLoadSpecificationV2 {
 			}
 		}
 	},
-	#comment : 'Start with spec_0038, add inst var to NewRowanSample9Class (create new class version)(issue_185_5)'
+	#comment : 'Start with spec_0040, rename package to RowanSample9-RenamedPackage (issue_185_6)'
 }
 
 RwTestProjectLibraryIndexCard {
-	#name : 'index_0040',
-	#title : 'Start with spec_0038, add inst var to NewRowanSample9Class (create new class version)(issue_185_5)',
-	#specName : 'spec_0040',
-	#index : 40,
-	#derivedFrom : 'spec_0038',
+	#name : 'index_0043',
+	#title : 'Start with spec_0040, rename package to RowanSample9-RenamedPackage (issue_185_6)',
+	#specName : 'spec_0043',
+	#index : 42,
+	#derivedFrom : 'spec_0040',
 	#comment : '',
 	#rowanIssues : [
 		185
