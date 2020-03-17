@@ -1,8 +1,8 @@
 RwLoadSpecificationV2 {
-	#specName : 'spec_0039',
+	#specName : 'spec_0042',
 	#projectName : 'RowanSample9',
 	#gitUrl : 'git@github.com:dalehenrich/RowanSample9.git',
-	#revision : 'spec_0039',
+	#revision : 'spec_0042',
 	#projectSpecFile : 'rowan/project.ston',
 	#componentNames : [
 		'Core'
@@ -17,5 +17,5 @@ RwLoadSpecificationV2 {
 			}
 		}
 	},
-	#comment : 'Start with spec_0038, add class var to NewRowanSample9Class (issue_185_7)'
+	#comment : 'Start with spec_0039, rename package to RowanSample9-RenamedPackage (issue_185_8)'
 }
