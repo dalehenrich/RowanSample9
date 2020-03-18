@@ -11,6 +11,10 @@ Class {
 	#category : 'RowanSample9-RenamedPackage'
 }
 
+{ #category : 'instance creation' }
+NewRowanSample9Class class >> new [ ^ (self basicNew) initialize; yourself
+]
+
 { #category : 'accessing' }
 NewRowanSample9Class >> foo [ ^5
 ]
