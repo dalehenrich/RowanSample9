@@ -11,5 +11,5 @@ RwSimpleProjectLoadComponentV2 {
 		'RowanSample9-GemStone',
 		'RowanSample9-NewPackage'
 	],
-	#comment : 'Primary component used for loading the core classes.'
+	#comment : 'https://github.com/dalehenrich/Rowan/issues/284 ... benign commit, loaded commit id should be updated'
 }

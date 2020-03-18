@@ -1,11 +1,11 @@
-# RowanSample9 - spec_0038
-Start with spec_0002, add new class in new package. spec_0002 = issue_185_0, spec_0038 = issue_185_1
+# RowanSample9 - spec_0045
+Start with spec_0038, change a comment in the component (benign commit)
 ```
 RwLoadSpecificationV2 {
-	#specName : 'spec_0038',
+	#specName : 'spec_0045',
 	#projectName : 'RowanSample9',
 	#gitUrl : 'git@github.com:dalehenrich/RowanSample9.git',
-	#revision : 'spec_0038',
+	#revision : 'spec_0045',
 	#projectSpecFile : 'rowan/project.ston',
 	#componentNames : [
 		'Core'
@@ -20,21 +20,21 @@ RwLoadSpecificationV2 {
 			}
 		}
 	},
-	#comment : 'Start with spec_0002, add new class in new package. spec_0002 = issue_185_0, spec_0038 = issue_185_1'
+	#comment : 'Start with spec_0038, change a comment in the component (benign commit)'
 }
 
 RwTestProjectLibraryIndexCard {
-	#name : 'index_0038',
-	#title : 'Start with spec_0002, add new class in new package. spec_0002 = issue_185_0, spec_0038 = issue_185_1',
-	#specName : 'spec_0038',
-	#index : 38,
-	#derivedFrom : 'spec_0002',
+	#name : 'index_0045',
+	#title : 'Start with spec_0038, change a comment in the component (benign commit)',
+	#specName : 'spec_0045',
+	#index : 45,
+	#derivedFrom : 'spec_0038',
 	#comment : '',
 	#rowanIssues : [
-		185
+		284
 	],
 	#gemstoneIssues : [ ],
-	#rowanSHA : 'e61f7be6'
+	#rowanSHA : 'a91cc56a'
 }
 ```
 

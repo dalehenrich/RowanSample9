@@ -1,0 +1,13 @@
+RwTestProjectLibraryIndexCard {
+	#name : 'index_0045',
+	#title : 'Start with spec_0038, change a comment in the component (benign commit)',
+	#specName : 'spec_0045',
+	#index : 45,
+	#derivedFrom : 'spec_0038',
+	#comment : '',
+	#rowanIssues : [
+		284
+	],
+	#gemstoneIssues : [ ],
+	#rowanSHA : 'a91cc56a'
+}
