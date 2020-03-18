@@ -4,7 +4,7 @@ I test the GemStone class
 Class {
 	#name : 'RowanSample9GemStoneTestCase',
 	#superclass : 'TestCase',
-	#category : 'RowanSample9-GemStone-Tests'
+	#category : 'RowanSample9-GemStone-Tests_295'
 }
 
 { #category : 'tests' }

@@ -1,11 +1,11 @@
-# RowanSample9 - spec_0041
-Start with spec_0038, rename package to RowanSample9-RenamedPackage (issue_185_2)
+# RowanSample9 - spec_0046
+Start with spec_0041, add inst vars to NewRowanSample9Class and rename the rest of the packages (add _295) to package name (issue_295_2)
 ```
 RwLoadSpecificationV2 {
-	#specName : 'spec_0041',
+	#specName : 'spec_0046',
 	#projectName : 'RowanSample9',
 	#gitUrl : 'git@github.com:dalehenrich/RowanSample9.git',
-	#revision : 'spec_0041',
+	#revision : 'spec_0046',
 	#projectSpecFile : 'rowan/project.ston',
 	#componentNames : [
 		'Core'
@@ -20,21 +20,21 @@ RwLoadSpecificationV2 {
 			}
 		}
 	},
-	#comment : 'Start with spec_0038, rename package to RowanSample9-RenamedPackage (issue_185_2)'
+	#comment : 'Start with spec_0041, add inst vars to NewRowanSample9Class and rename the rest of the packages (add _295) to package name (issue_295_2)'
 }
 
 RwTestProjectLibraryIndexCard {
-	#name : 'index_0041',
-	#title : 'Start with spec_0038, rename package to RowanSample9-RenamedPackage (issue_185_2)',
-	#specName : 'spec_0041',
-	#index : 41,
-	#derivedFrom : 'spec_0038',
+	#name : 'index_0046',
+	#title : 'Start with spec_0041, add inst vars to NewRowanSample9Class and rename the rest of the packages (add _295) to package name (issue_295_2)',
+	#specName : 'spec_0046',
+	#index : 45,
+	#derivedFrom : 'spec_0041',
 	#comment : '',
 	#rowanIssues : [
-		185
+		295
 	],
 	#gemstoneIssues : [ ],
-	#rowanSHA : 'd57c31fc'
+	#rowanSHA : '86300e85'
 }
 ```
 

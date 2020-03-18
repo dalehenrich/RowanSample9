@@ -4,8 +4,8 @@ RwSimpleNestedProjectLoadComponentV2 {
 	#projectNames : [ ],
 	#componentNames : [ ],
 	#packageNames : [
-		'RowanSample9-GemStone-Tests',
-		'RowanSample9-Tests'
+		'RowanSample9-GemStone-Tests_295',
+		'RowanSample9-Tests_295'
 	],
 	#comment : 'Primary component used for loading the test classes.'
 }
