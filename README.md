@@ -1,18 +1,17 @@
-# RowanSample9 - spec_0048
-Start with spec_0046; add subclass of NewRowanSample9Class in Renamed package (issue_295_5); for issue #304, make Renamed package conditional on renamed attribute
+# RowanSample9 - spec_0049
+Start with spec_0048; create an additional load spec without the renamed atribute
 ```
 RwLoadSpecificationV2 {
-	#specName : 'spec_0048',
+	#specName : 'spec_0049',
 	#projectName : 'RowanSample9',
 	#gitUrl : 'git@github.com:dalehenrich/RowanSample9.git',
-	#revision : 'spec_0048',
+	#revision : 'spec_0049',
 	#projectSpecFile : 'rowan/project.ston',
 	#componentNames : [
 		'Core'
 	],
 	#customConditionalAttributes : [
 		'tests',
-		'renamed',
 		'renamed'
 	],
 	#platformProperties : {
@@ -22,18 +21,17 @@ RwLoadSpecificationV2 {
 			}
 		}
 	},
-	#comment : 'Start with spec_0046; add subclass of NewRowanSample9Class in Renamed package (issue_295_5); for issue #304, make Renamed package conditional on renamed attribute'
+	#comment : 'Start with spec_0048; create an additional load spec without the renamed atribute'
 }
 
 RwTestProjectLibraryIndexCard {
-	#name : 'index_0048',
-	#title : 'Start with spec_0046; add subclass of NewRowanSample9Class in Renamed package (issue_295_5); for issue #304, make Renamed package conditional on renamed attribute',
-	#specName : 'spec_0048',
-	#index : 48,
-	#derivedFrom : 'spec_0046',
+	#name : 'index_0049',
+	#title : 'Start with spec_0048; create an additional load spec without the renamed atribute',
+	#specName : 'spec_0049',
+	#index : 49,
+	#derivedFrom : 'spec_0048',
 	#comment : '',
 	#rowanIssues : [
-		295,
 		304
 	],
 	#gemstoneIssues : [ ],
