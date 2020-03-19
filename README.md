@@ -1797,14 +1797,14 @@ RwTestProjectLibraryIndexCard {
 	#name : 'index_0046',
 	#title : 'Start with spec_0041, add inst vars to NewRowanSample9Class and rename the rest of the packages (add _295) to package name (issue_295_2)',
 	#specName : 'spec_0046',
-	#index : 45,
+	#index : 46,
 	#derivedFrom : 'spec_0041',
 	#comment : '',
 	#rowanIssues : [
 		295
 	],
 	#gemstoneIssues : [ ],
-	#rowanSHA : '86300e85'
+	#rowanSHA : 'b87b7cf9'
 }
 ```
 
