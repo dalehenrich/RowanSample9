@@ -1,0 +1,13 @@
+RwTestProjectLibraryIndexCard {
+	#name : 'index_0049',
+	#title : 'Start with spec_0048; create an additional load spec without the renamed atribute',
+	#specName : 'spec_0049',
+	#index : 49,
+	#derivedFrom : 'spec_0048',
+	#comment : '',
+	#rowanIssues : [
+		304
+	],
+	#gemstoneIssues : [ ],
+	#rowanSHA : 'b87b7cf9'
+}
