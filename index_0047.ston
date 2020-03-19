@@ -1,0 +1,13 @@
+RwTestProjectLibraryIndexCard {
+	#name : 'index_0047',
+	#title : 'Start with spec_0040, move RowanSample9IdentityKeyValueDictionary to -Core package; add subclass of NewRowanSample9Class in New package (issue_295_4)',
+	#specName : 'spec_0047',
+	#index : 47,
+	#derivedFrom : 'spec_0040',
+	#comment : '',
+	#rowanIssues : [
+		295
+	],
+	#gemstoneIssues : [ ],
+	#rowanSHA : 'b87b7cf9'
+}
