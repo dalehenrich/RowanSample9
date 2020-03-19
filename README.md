@@ -1,5 +1,5 @@
 # RowanSample9 - spec_0048
-Start with spec_0046; add subclass of NewRowanSample9Class in Renamed package (issue_295_5)
+Start with spec_0046; add subclass of NewRowanSample9Class in Renamed package (issue_295_5); for issue #304, make Renamed package conditional on renamed attribute
 ```
 RwLoadSpecificationV2 {
 	#specName : 'spec_0048',
@@ -11,7 +11,10 @@ RwLoadSpecificationV2 {
 		'Core'
 	],
 	#customConditionalAttributes : [
-		'tests'
+		'tests',
+		'renamed',
+		'tests',
+		'renamed'
 	],
 	#platformProperties : {
 		'gemstone' : {
@@ -20,18 +23,19 @@ RwLoadSpecificationV2 {
 			}
 		}
 	},
-	#comment : 'Start with spec_0046; add subclass of NewRowanSample9Class in Renamed package (issue_295_5)'
+	#comment : 'Start with spec_0046; add subclass of NewRowanSample9Class in Renamed package (issue_295_5); for issue #304, make Renamed package conditional on renamed attribute'
 }
 
 RwTestProjectLibraryIndexCard {
 	#name : 'index_0048',
-	#title : 'Start with spec_0046; add subclass of NewRowanSample9Class in Renamed package (issue_295_5)',
+	#title : 'Start with spec_0046; add subclass of NewRowanSample9Class in Renamed package (issue_295_5); for issue #304, make Renamed package conditional on renamed attribute',
 	#specName : 'spec_0048',
 	#index : 48,
 	#derivedFrom : 'spec_0046',
 	#comment : '',
 	#rowanIssues : [
-		295
+		295,
+		304
 	],
 	#gemstoneIssues : [ ],
 	#rowanSHA : 'b87b7cf9'

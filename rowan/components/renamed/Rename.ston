@@ -1,0 +1,10 @@
+RwSimpleNestedProjectLoadComponentV2 {
+	#name : 'renamed/Rename',
+	#condition : 'renamed',
+	#projectNames : [ ],
+	#componentNames : [ ],
+	#packageNames : [
+		'RowanSample9-RenamedPackage'
+	],
+	#comment : ''
+}

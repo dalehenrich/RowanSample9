@@ -8,7 +8,10 @@ RwLoadSpecificationV2 {
 		'Core'
 	],
 	#customConditionalAttributes : [
-		'tests'
+		'tests',
+		'renamed',
+		'tests',
+		'renamed'
 	],
 	#platformProperties : {
 		'gemstone' : {
@@ -17,5 +20,5 @@ RwLoadSpecificationV2 {
 			}
 		}
 	},
-	#comment : 'Start with spec_0046; add subclass of NewRowanSample9Class in Renamed package (issue_295_5)'
+	#comment : 'Start with spec_0046; add subclass of NewRowanSample9Class in Renamed package (issue_295_5); for issue #304, make Renamed package conditional on renamed attribute'
 }
