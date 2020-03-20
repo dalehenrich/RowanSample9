@@ -1,11 +1,11 @@
-# RowanSample9 - spec_0002
-RowanSample4 basic project definition
+# RowanSample9 - spec_0051
+Start with spec_0002; add a component that includes tests as part of core attributes (issue_493)
 ```
 RwLoadSpecificationV2 {
-	#specName : 'spec_0002',
+	#specName : 'spec_0051',
 	#projectName : 'RowanSample9',
 	#gitUrl : 'git@github.com:dalehenrich/RowanSample9.git',
-	#revision : 'spec_0002',
+	#revision : 'spec_0051',
 	#projectSpecFile : 'rowan/project.ston',
 	#componentNames : [
 		'Core'
@@ -20,22 +20,21 @@ RwLoadSpecificationV2 {
 			}
 		}
 	},
-	#comment : 'RowanSample4 basic project definition'
+	#comment : 'Start with spec_0002; add a component that includes tests as part of core attributes (issue_493)'
 }
 
 RwTestProjectLibraryIndexCard {
-	#name : 'index_0002',
-	#title : 'RowanSample4 basic project definition',
-	#specName : 'spec_0002',
-	#index : 2,
-	#derivedFrom : 'spec_0000',
-	#comment : 'RowanSampe9Class1 has extension methods',
+	#name : 'index_0051',
+	#title : 'Start with spec_0002; add a component that includes tests as part of core attributes (issue_493)',
+	#specName : 'spec_0051',
+	#index : 51,
+	#derivedFrom : 'spec_0002',
+	#comment : '',
 	#rowanIssues : [
-		254,
-		504
+		493
 	],
 	#gemstoneIssues : [ ],
-	#rowanSHA : 'dee7ce80'
+	#rowanSHA : '0adfc304'
 }
 ```
 
