@@ -8,7 +8,7 @@ RwLoadSpecificationV2 {
 	#revision : 'spec_0051',
 	#projectSpecFile : 'rowan/project.ston',
 	#componentNames : [
-		'Core'
+		'Issue_493'
 	],
 	#customConditionalAttributes : [
 		'tests'
