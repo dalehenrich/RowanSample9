@@ -1,17 +1,18 @@
-# RowanSample9 - spec_0047
-Start with spec_0040, move RowanSample9IdentityKeyValueDictionary to -Core package; add subclass of NewRowanSample9Class in New package (issue_295_4)
+# RowanSample9 - spec_0050
+Start with spec_0047; move RowanSample9IdentityKeyValueDictionary to RowanSample9-GemStone (issue_295_6)
 ```
 RwLoadSpecificationV2 {
-	#specName : 'spec_0047',
+	#specName : 'spec_0050',
 	#projectName : 'RowanSample9',
 	#gitUrl : 'git@github.com:dalehenrich/RowanSample9.git',
-	#revision : 'spec_0047',
+	#revision : 'spec_0050',
 	#projectSpecFile : 'rowan/project.ston',
 	#componentNames : [
 		'Core'
 	],
 	#customConditionalAttributes : [
-		'tests'
+		'tests',
+		'renamed'
 	],
 	#platformProperties : {
 		'gemstone' : {
@@ -20,21 +21,21 @@ RwLoadSpecificationV2 {
 			}
 		}
 	},
-	#comment : 'Start with spec_0040, move RowanSample9IdentityKeyValueDictionary to -Core package; add subclass of NewRowanSample9Class in New package (issue_295_4)'
+	#comment : 'Start with spec_0047; move RowanSample9IdentityKeyValueDictionary to RowanSample9-GemStone (issue_295_6)'
 }
 
 RwTestProjectLibraryIndexCard {
-	#name : 'index_0047',
-	#title : 'Start with spec_0040, move RowanSample9IdentityKeyValueDictionary to -Core package; add subclass of NewRowanSample9Class in New package (issue_295_4)',
-	#specName : 'spec_0047',
-	#index : 47,
-	#derivedFrom : 'spec_0040',
+	#name : 'index_0050',
+	#title : 'Start with spec_0047; move RowanSample9IdentityKeyValueDictionary to RowanSample9-GemStone (issue_295_6)',
+	#specName : 'spec_0050',
+	#index : 50,
+	#derivedFrom : 'spec_0047',
 	#comment : '',
 	#rowanIssues : [
-		295
+		460
 	],
 	#gemstoneIssues : [ ],
-	#rowanSHA : 'b87b7cf9'
+	#rowanSHA : '1e88356b'
 }
 ```
 
