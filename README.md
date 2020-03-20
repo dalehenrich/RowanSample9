@@ -1937,8 +1937,7 @@ RwLoadSpecificationV2 {
 		'Core'
 	],
 	#customConditionalAttributes : [
-		'tests',
-		'renamed'
+		'tests'
 	],
 	#platformProperties : {
 		'gemstone' : {
