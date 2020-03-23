@@ -12,7 +12,6 @@ RwLoadSpecificationV2 {
 	],
 	#customConditionalAttributes : [
 		'tests',
-		'renamed',
 		'renamed'
 	],
 	#platformProperties : {
@@ -37,7 +36,7 @@ RwTestProjectLibraryIndexCard {
 		304
 	],
 	#gemstoneIssues : [ ],
-	#rowanSHA : 'b87b7cf9'
+	#rowanSHA : '6179c1b8'
 }
 ```
 

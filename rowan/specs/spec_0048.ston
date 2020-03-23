@@ -9,7 +9,6 @@ RwLoadSpecificationV2 {
 	],
 	#customConditionalAttributes : [
 		'tests',
-		'renamed',
 		'renamed'
 	],
 	#platformProperties : {
