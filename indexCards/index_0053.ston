@@ -1,0 +1,13 @@
+RwTestProjectLibraryIndexCard {
+	#name : 'index_0053',
+	#title : 'Start with spec_0052; add instance side method #ivar1 referencing inherited ivar to class in primary project',
+	#specName : 'spec_0053',
+	#index : 53,
+	#derivedFrom : 'spec_0052',
+	#comment : '',
+	#rowanIssues : [
+		591
+	],
+	#gemstoneIssues : [ ],
+	#rowanSHA : '028bc685'
+}
