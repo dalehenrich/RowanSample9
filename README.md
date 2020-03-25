@@ -2033,10 +2033,11 @@ RwTestProjectLibraryIndexCard {
 	#derivedFrom : 'spec_0001',
 	#comment : '',
 	#rowanIssues : [
-		591
+		591,
+		571
 	],
 	#gemstoneIssues : [ ],
-	#rowanSHA : '3fc7a14a'
+	#rowanSHA : '028bc685'
 }
 ```
 
