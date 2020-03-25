@@ -3,7 +3,7 @@ I am an example class
 "
 Class {
 	#name : 'RowanSample9Class1',
-	#superclass : 'Object',
+	#superclass : 'RowanSample9_embedded_1Class1',
 	#instVars : [
 		'ivar1'
 	],
