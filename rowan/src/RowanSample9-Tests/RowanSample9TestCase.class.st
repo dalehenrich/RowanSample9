@@ -10,3 +10,10 @@ Class {
 { #category : 'tests' }
 RowanSample9TestCase >> test [  self assert: RowanSample9Class1 new foo = 1
 ]
+
+{ #category : '*rowansample9-tests' }
+RowanSample9TestCase >> testInstVars_RowanSample9Class1 [
+	| x |
+	self assert: (x := RowanSample9Class1 new ivar1) isNil.
+
+]
