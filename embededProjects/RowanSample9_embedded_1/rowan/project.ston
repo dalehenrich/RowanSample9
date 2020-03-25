@@ -1,0 +1,10 @@
+RwProjectSpecificationV2 {
+	#specName : 'project',
+	#projectSpecPath : 'embededProjects/RowanSample9_embedded_1/rowan',
+	#componentsPath : 'embededProjects/RowanSample9_embedded_1/rowan/components',
+	#packagesPath : 'embededProjects/RowanSample9_embedded_1/rowan/src',
+	#projectsPath : 'embededProjects/RowanSample9_embedded_1/rowan/projects',
+	#specsPath : 'embededProjects/RowanSample9_embedded_1/rowan/specs',
+	#packageFormat : 'tonel',
+	#comment : ''
+}
