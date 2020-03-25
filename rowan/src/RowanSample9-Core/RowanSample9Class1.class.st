@@ -10,3 +10,7 @@ Class {
 { #category : 'accessing' }
 RowanSample9Class1 >> foo [ ^1
 ]
+
+{ #category : 'accessing' }
+RowanSample9Class1 >> ivar1 [ ^ ivar1
+]
