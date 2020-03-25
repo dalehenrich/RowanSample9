@@ -1,0 +1,13 @@
+RwTestProjectLibraryIndexCard {
+	#name : 'index_0052',
+	#title : 'Start with spec_0001; add an embedded project that is basically a copy of spec_001; and adjust class in primary project be a subclass of class in embedded project',
+	#specName : 'spec_0052',
+	#index : 52,
+	#derivedFrom : 'spec_0001',
+	#comment : '',
+	#rowanIssues : [
+		591
+	],
+	#gemstoneIssues : [ ],
+	#rowanSHA : '3fc7a14a'
+}
