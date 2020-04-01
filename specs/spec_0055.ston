@@ -1,0 +1,21 @@
+RwLoadSpecificationV2 {
+	#specName : 'spec_0055',
+	#projectName : 'RowanSample9',
+	#gitUrl : 'git@github.com:dalehenrich/RowanSample9.git',
+	#revision : 'spec_0055',
+	#projectSpecFile : 'rowan/project.ston',
+	#componentNames : [
+		'Core'
+	],
+	#customConditionalAttributes : [
+		'tests'
+	],
+	#platformProperties : {
+		'gemstone' : {
+			'allusers' : {
+				#defaultSymbolDictName : #RowanSample9_1
+			}
+		}
+	},
+	#comment : 'Start with spec_0052; add platform conditional packages (GemStone version 2.4.0) to the embedded project and the primary project.'
+}
