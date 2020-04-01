@@ -1,10 +1,10 @@
-RwSimpleNestedProjectLoadComponentV2 {
+RwPlatformNestedProjectLoadComponentV2 {
 	#name : 'gnu/Core',
-	#condition : 'gnu',
-	#projectNames : [ ],
-	#componentNames : [ ],
+	#condition : [
+		'gnu'
+	],
 	#packageNames : [
-		'RowanSample9_embedded_1-Gnu-Core'
+		'RowanSample9_embedded_1-gnu-Core'
 	],
 	#comment : ''
 }
