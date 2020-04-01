@@ -2099,12 +2099,12 @@ RwLoadSpecificationV2 {
 			}
 		}
 	},
-	#comment : 'Start with spec_0052; add platform conditional packages to the embedded project'
+	#comment : 'Start with spec_0052; add platform conditional packages to the embedded project and the primary project.'
 }
 
 RwTestProjectLibraryIndexCard {
 	#name : 'index_0054',
-	#title : 'Start with spec_0052; add platform conditional packages to the embedded project',
+	#title : 'Start with spec_0052; add platform conditional packages to the embedded project and the primary project.',
 	#specName : 'spec_0054',
 	#index : 54,
 	#derivedFrom : 'spec_0052',
@@ -2113,7 +2113,7 @@ RwTestProjectLibraryIndexCard {
 		594
 	],
 	#gemstoneIssues : [ ],
-	#rowanSHA : 'b0a8f135'
+	#rowanSHA : '63347301'
 }
 ```
 
