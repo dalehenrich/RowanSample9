@@ -4,6 +4,7 @@ RwSimpleProjectLoadComponentV2 {
 	#projectNames : [ ],
 	#componentNames : [
 		'GemStone24x/Core',
+		'GemStone3x/Core',
 		'tests/Tests'
 	],
 	#packageNames : [

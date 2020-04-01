@@ -1,0 +1,10 @@
+RwPlatformNestedProjectLoadComponentV2 {
+	#name : 'tests/GemStone3x/Tests',
+	#condition : [
+		'gs3.[2-]'
+	],
+	#packageNames : [
+		'RowanSample9_embedded_1-GemStone3x-Tests'
+	],
+	#comment : ''
+}
