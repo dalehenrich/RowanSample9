@@ -3,7 +3,7 @@ RwSimpleProjectLoadComponentV2 {
 	#condition : 'common',
 	#projectNames : [ ],
 	#componentNames : [
-		'2.[4-]/Core',
+		'GemStone24x/Core',
 		'tests/Tests'
 	],
 	#packageNames : [

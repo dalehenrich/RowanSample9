@@ -3,7 +3,7 @@ RwSimpleNestedProjectLoadComponentV2 {
 	#condition : 'tests',
 	#projectNames : [ ],
 	#componentNames : [
-		'tests/2.[4-]/Tests'
+		'tests/GemStone24x/Tests'
 	],
 	#packageNames : [
 		'RowanSample9-Tests'
