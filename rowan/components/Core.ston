@@ -5,7 +5,7 @@ RwSimpleProjectLoadComponentV2 {
 		'RowanSample9_embedded_1'
 	],
 	#componentNames : [
-		'gnu/Core',
+		'2.[4-]/Core',
 		'tests/Tests'
 	],
 	#packageNames : [

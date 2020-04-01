@@ -3,7 +3,7 @@ RwSimpleNestedProjectLoadComponentV2 {
 	#condition : 'tests',
 	#projectNames : [ ],
 	#componentNames : [
-		'tests/gnu/Tests'
+		'tests/2.[4-]/Tests'
 	],
 	#packageNames : [
 		'RowanSample9-Tests'

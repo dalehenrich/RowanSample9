@@ -1,10 +1,10 @@
 RwSimpleNestedProjectLoadComponentV2 {
-	#name : 'gnu/Core',
-	#condition : 'gnu',
+	#name : '2.[4-]/Core',
+	#condition : '2.[4-]',
 	#projectNames : [ ],
 	#componentNames : [ ],
 	#packageNames : [
-		'RowanSample9_embedded_1-Gnu-Core'
+		'RowanSample9_embedded_1-GemStone24x-Core'
 	],
 	#comment : ''
 }
