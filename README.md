@@ -1,11 +1,11 @@
-# RowanSample9 - spec_0052
-Start with spec_0001; add an embedded project that is basically a copy of spec_001; and adjust class in primary project be a subclass of class in embedded project
+# RowanSample9 - spec_0055
+Start with spec_0052; add platform conditional packages (GemStone version 2.4.0) to the embedded project and the primary project.
 ```
 RwLoadSpecificationV2 {
-	#specName : 'spec_0052',
+	#specName : 'spec_0055',
 	#projectName : 'RowanSample9',
 	#gitUrl : 'git@github.com:dalehenrich/RowanSample9.git',
-	#revision : 'spec_0052',
+	#revision : 'spec_0055',
 	#projectSpecFile : 'rowan/project.ston',
 	#componentNames : [
 		'Core'
@@ -20,22 +20,21 @@ RwLoadSpecificationV2 {
 			}
 		}
 	},
-	#comment : 'Start with spec_0001; add an embedded project that is basically a copy of spec_001; and adjust class in primary project be a subclass of class in embedded project'
+	#comment : 'Start with spec_0052; add platform conditional packages (GemStone version 2.4.0) to the embedded project and the primary project.'
 }
 
 RwTestProjectLibraryIndexCard {
-	#name : 'index_0052',
-	#title : 'Start with spec_0001; add an embedded project that is basically a copy of spec_001; and adjust class in primary project be a subclass of class in embedded project',
-	#specName : 'spec_0052',
-	#index : 52,
-	#derivedFrom : 'spec_0001',
+	#name : 'index_0055',
+	#title : 'Start with spec_0052; add platform conditional packages (GemStone version 2.4.0) to the embedded project and the primary project.',
+	#specName : 'spec_0055',
+	#index : 55,
+	#derivedFrom : 'spec_0052',
 	#comment : '',
 	#rowanIssues : [
-		591,
-		571
+		594
 	],
 	#gemstoneIssues : [ ],
-	#rowanSHA : '028bc685'
+	#rowanSHA : '8ba79743'
 }
 ```
 
