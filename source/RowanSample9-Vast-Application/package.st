@@ -6,9 +6,9 @@ Package {
 		'TonelWriterModel'
 	],
 	#vaSubApplications : {
+		#condition : true,
 		#'#subapps' : [
 			'TonelExampleSubApp'
-		],
-		#condition : true
+		]
 	}
 }
