@@ -9,6 +9,8 @@ RwSimpleProjectLoadComponentV2 {
 	#componentNames : [
 		'tests/Tests'
 	],
-	#packageNames : [ ],
+	#packageNames : [
+		'RowanSample9-Core'
+	],
 	#comment : 'the component'
 }
