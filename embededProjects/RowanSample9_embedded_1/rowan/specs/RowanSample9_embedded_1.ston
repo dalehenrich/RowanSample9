@@ -1,4 +1,5 @@
 RwEmbeddedLoadSpecificationV2 {
+	#specName : 'RowanSample9_embedded_1',
 	#projectName : 'RowanSample9_embedded_1',
 	#projectAlias : 'RowanSample9',
 	#gitUrl : 'git@github.com:dalehenrich/RowanSample9.git',
