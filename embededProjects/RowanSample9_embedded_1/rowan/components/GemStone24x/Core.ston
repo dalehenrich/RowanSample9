@@ -4,7 +4,7 @@ RwPlatformNestedProjectLoadComponentV2 {
 		'gs2.[4-]'
 	],
 	#packageNames : [
-		'RowanSample9_embedded_1-GemStone24x-Core'
+		'RowanSample9-GemStone24x-Core'
 	],
 	#comment : ''
 }
