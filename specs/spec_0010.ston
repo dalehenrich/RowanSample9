@@ -13,7 +13,7 @@ RwLoadSpecificationV2 {
 	#platformProperties : {
 		'gemstone' : {
 			'allusers' : {
-				#defaultSymbolDictName : #RowanSample9_4
+				#defaultSymbolDictName : 'RowanSample9_4'
 			}
 		}
 	},
