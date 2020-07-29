@@ -1,0 +1,11 @@
+RwTestProjectLibraryIndexCard {
+	#name : 'index_0058',
+	#title : 'Start with spec_0057 and set class category to nil and empty string (https://github.com/GemTalk/Rowan/issues/169)',
+	#specName : 'spec_0058',
+	#index : 3,
+	#derivedFrom : 'spec_0057',
+	#comment : '',
+	#rowanIssues : [ ],
+	#gemstoneIssues : [ ],
+	#rowanSHA : '3c75c5c4'
+}
