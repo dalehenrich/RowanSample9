@@ -1,11 +1,11 @@
-# RowanSample9 - spec_0057
-Start with spec_0000, use Rowan packageConvention; simple project with extension methods
+# RowanSample9 - spec_0058
+Start with spec_0057 and set class category to nil and empty string (https://github.com/GemTalk/Rowan/issues/169)
 ```
 RwLoadSpecificationV2 {
-	#specName : 'spec_0057',
+	#specName : 'spec_0058',
 	#projectName : 'RowanSample9',
 	#gitUrl : 'git@github.com:dalehenrich/RowanSample9.git',
-	#revision : 'spec_0057',
+	#revision : 'spec_0058',
 	#projectSpecFile : 'rowan/project.ston',
 	#componentNames : [
 		'Core'
@@ -20,19 +20,19 @@ RwLoadSpecificationV2 {
 			}
 		}
 	},
-	#comment : 'Start with spec_0000, use Rowan packageConvention; simple project with extension methods'
+	#comment : 'Start with spec_0057 and set class category to nil and empty string (https://github.com/GemTalk/Rowan/issues/169)'
 }
 
 RwTestProjectLibraryIndexCard {
-	#name : 'index_0057',
-	#title : 'Start with spec_0000, use Rowan packageConvention; simple project with extension methods',
-	#specName : 'spec_0057',
+	#name : 'index_0058',
+	#title : 'Start with spec_0057 and set class category to nil and empty string (https://github.com/GemTalk/Rowan/issues/169)',
+	#specName : 'spec_0058',
 	#index : 3,
-	#derivedFrom : 'spec_0000',
+	#derivedFrom : 'spec_0057',
 	#comment : '',
 	#rowanIssues : [ ],
 	#gemstoneIssues : [ ],
-	#rowanSHA : 'beab7f2e'
+	#rowanSHA : '3c75c5c4'
 }
 ```
 
