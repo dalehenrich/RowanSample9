@@ -3,7 +3,7 @@ RwSimpleProjectLoadComponentV2 {
 	#condition : 'common',
 	#projectNames : [ ],
 	#componentNames : [
-		'conditions/Core',
+		'conditions/conditions/alt1/Core',
 		'tests/Tests'
 	],
 	#packageNames : [
