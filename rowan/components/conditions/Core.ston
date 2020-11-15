@@ -1,7 +1,7 @@
 RwSimpleNestedProjectLoadComponentV2 {
 	#name : 'conditions/Core',
 	#condition : [
-		'alt1'
+		'common'
 	],
 	#projectNames : [ ],
 	#componentNames : [
