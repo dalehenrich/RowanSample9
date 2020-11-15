@@ -1,8 +1,0 @@
-RwSimpleNestedProjectLoadComponentV2 {
-	#name : 'alt1/Core',
-	#condition : 'alt1',
-	#projectNames : [ ],
-	#componentNames : [ ],
-	#packageNames : [ ],
-	#comment : ''
-}
