@@ -1,0 +1,8 @@
+RwPlatformNestedProjectLoadComponentV2 {
+	#name : 'conditions/alt1/Core',
+	#condition : [
+		'alt1'
+	],
+	#packageNames : [ ],
+	#comment : ''
+}
