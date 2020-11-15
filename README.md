@@ -1,11 +1,11 @@
-# RowanSample9 - spec_0001
-Bare bones package structure -Core and -Tests
+# RowanSample9 - spec_0059
+Component api revamp. Start with spec_0001; add 3 conditions: alt1, alt2, alt3; one extension method and test case per condition (see https://github.com/GemTalk/Rowan/issues/653)
 ```
 RwLoadSpecificationV2 {
-	#specName : 'spec_0001',
+	#specName : 'spec_0059',
 	#projectName : 'RowanSample9',
 	#gitUrl : 'git@github.com:dalehenrich/RowanSample9.git',
-	#revision : 'spec_0001',
+	#revision : 'spec_0059',
 	#projectSpecFile : 'rowan/project.ston',
 	#componentNames : [
 		'Core'
@@ -20,21 +20,19 @@ RwLoadSpecificationV2 {
 			}
 		}
 	},
-	#comment : 'Bare bones package structure -Core and -Tests'
+	#comment : 'Component api revamp. Start with spec_0001; add 3 conditions: alt1, alt2, alt3; one extension method and test case per condition (see https://github.com/GemTalk/Rowan/issues/653)'
 }
 
 RwTestProjectLibraryIndexCard {
-	#name : 'index_0001',
-	#title : 'Bare bones package structure -Core and -Tests',
-	#specName : 'spec_0001',
-	#index : 1,
-	#derivedFrom : 'spec_0000',
-	#comment : 'One class per package: RowanSample9-Core and RowanSample9-Tests packages',
-	#rowanIssues : [
-		527
-	],
+	#name : 'index_0059',
+	#title : 'Component api revamp. Start with spec_0001; add 3 conditions: alt1, alt2, alt3; one extension method and test case per condition (see https://github.com/GemTalk/Rowan/issues/653)',
+	#specName : 'spec_0059',
+	#index : 3,
+	#derivedFrom : 'spec_0001',
+	#comment : '',
+	#rowanIssues : [ ],
 	#gemstoneIssues : [ ],
-	#rowanSHA : '440eab25'
+	#rowanSHA : '5121fcd1'
 }
 ```
 
