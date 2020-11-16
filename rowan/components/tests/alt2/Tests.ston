@@ -1,0 +1,8 @@
+RwPlatformNestedProjectLoadComponentV2 {
+	#name : 'tests/alt2/Tests',
+	#condition : [
+		'alt2'
+	],
+	#packageNames : [ ],
+	#comment : ''
+}
