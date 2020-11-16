@@ -4,7 +4,7 @@ RwPlatformNestedProjectLoadComponentV2 {
 		'alt1'
 	],
 	#packageNames : [
-		'RowanSample9-Tests-A'
+		'RowanSample9-Tests-Alt1'
 	],
 	#comment : ''
 }
