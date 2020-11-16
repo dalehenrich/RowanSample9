@@ -2,7 +2,9 @@ RwSimpleNestedProjectLoadComponentV2 {
 	#name : 'conditions/alt1/Core',
 	#condition : 'alt1',
 	#projectNames : [ ],
-	#componentNames : [ ],
+	#componentNames : [
+		'conditions/alt1/platform/Core'
+	],
 	#packageNames : [
 		'RowanSample9-Core-Alt1'
 	],

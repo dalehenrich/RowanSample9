@@ -1,0 +1,12 @@
+RwSimpleNestedProjectLoadComponentV2 {
+	#name : 'conditions/alt1/platform/Core',
+	#condition : 'commom',
+	#projectNames : [ ],
+	#componentNames : [
+		'conditions/alt1/platform/platformA/Core',
+		'conditions/alt1/platform/platformAorB/Core',
+		'conditions/alt1/platform/platformB/Core'
+	],
+	#packageNames : [ ],
+	#comment : ''
+}

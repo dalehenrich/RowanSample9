@@ -1,0 +1,13 @@
+RwSimpleNestedProjectLoadComponentV2 {
+	#name : 'conditions/alt1/platform/platformAorB/Core',
+	#condition : [
+		'platformA',
+		'platformB'
+	],
+	#projectNames : [ ],
+	#componentNames : [ ],
+	#packageNames : [
+		'RowanSample9-Core-PlatformAorB'
+	],
+	#comment : ''
+}
