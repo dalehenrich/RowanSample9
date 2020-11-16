@@ -1,6 +1,6 @@
 RwSimpleNestedProjectLoadComponentV2 {
 	#name : 'tests/alt1/platform/Tests',
-	#condition : 'commom',
+	#condition : 'common',
 	#projectNames : [ ],
 	#componentNames : [
 		'tests/alt1/platform/platformA/Tests',
