@@ -11,10 +11,7 @@ RwLoadSpecificationV2 {
 		'Core'
 	],
 	#customConditionalAttributes : [
-		'tests',
-		'av1',
-		'av2',
-		'av3'
+		'tests'
 	],
 	#platformProperties : {
 		'gemstone' : {
