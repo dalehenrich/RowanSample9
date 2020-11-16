@@ -1,0 +1,12 @@
+RwSimpleNestedProjectLoadComponentV2 {
+	#name : 'tests/alt1/platform/platformC/Tests',
+	#condition : [
+		'platformC'
+	],
+	#projectNames : [ ],
+	#componentNames : [ ],
+	#packageNames : [
+		'RowanSample9-Tests-PlatformC'
+	],
+	#comment : ''
+}
