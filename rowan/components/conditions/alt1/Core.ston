@@ -1,5 +1,5 @@
 RwPlatformNestedProjectLoadComponentV2 {
-	#name : 'conditions/alt1/conditions/alt1/Core',
+	#name : 'conditions/alt1/Core',
 	#condition : [
 		'alt1'
 	],
