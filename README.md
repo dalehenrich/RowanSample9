@@ -2285,12 +2285,12 @@ RwLoadSpecificationV2 {
 			}
 		}
 	},
-	#comment : 'Component api revamp. Start with spec_0001; add 3 conditions: alt1, alt2, alt3; one extension method and test case per condition (see https://github.com/GemTalk/Rowan/issues/653)'
+	#comment : 'Component api revamp. Start with spec_0001; add 3 conditions: alt1, alt2, alt3; one extension method and test case per condition (see https://github.com/GemTalk/Rowan/issues/653 and https://github.com/GemTalk/Rowan/issues/660)'
 }
 
 RwTestProjectLibraryIndexCard {
 	#name : 'index_0059',
-	#title : 'Component api revamp. Start with spec_0001; add 3 conditions: alt1, alt2, alt3; one extension method and test case per condition (see https://github.com/GemTalk/Rowan/issues/653)',
+	#title : 'Component api revamp. Start with spec_0001; add 3 conditions: alt1, alt2, alt3; one extension method and test case per condition (see https://github.com/GemTalk/Rowan/issues/653 and https://github.com/GemTalk/Rowan/issues/660)',
 	#specName : 'spec_0059',
 	#index : 3,
 	#derivedFrom : 'spec_0001',
