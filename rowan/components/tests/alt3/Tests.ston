@@ -3,6 +3,8 @@ RwPlatformNestedProjectLoadComponentV2 {
 	#condition : [
 		'alt3'
 	],
-	#packageNames : [ ],
+	#packageNames : [
+		'RowanSample9-Tests-ALT3'
+	],
 	#comment : ''
 }
