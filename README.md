@@ -12,9 +12,9 @@ RwLoadSpecificationV2 {
 	],
 	#customConditionalAttributes : [
 		'tests',
-		'alt1',
-		'alt2',
-		'alt3'
+		'av1',
+		'av2',
+		'av3'
 	],
 	#platformProperties : {
 		'gemstone' : {
