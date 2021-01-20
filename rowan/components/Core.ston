@@ -1,4 +1,4 @@
-RwComponent {
+RwLoadComponent {
 	#name : 'Core',
 	#projectNames : [ ],
 	#componentNames : [
