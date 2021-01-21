@@ -2331,14 +2331,14 @@ RwTestProjectLibraryIndexCard {
 	#name : 'index_0060',
 	#title : 'Start with spec_0001; add RowanSample10 as an external project ... based on genSpec_0052',
 	#specName : 'spec_0060',
-	#index : 52,
+	#index : 60,
 	#derivedFrom : 'spec_0001',
 	#comment : '',
 	#rowanIssues : [
 		668
 	],
 	#gemstoneIssues : [ ],
-	#rowanSHA : '39e5010f'
+	#rowanSHA : 'f67631ca'
 }
 ```
 
