@@ -989,6 +989,7 @@ RwLoadSpecificationV2 {
 	#revision : 'spec_0025',
 	#projectSpecFile : 'rowan/project.ston',
 	#componentNames : [
+		'Core',
 		'Core'
 	],
 	#customConditionalAttributes : [
@@ -1015,7 +1016,7 @@ RwTestProjectLibraryIndexCard {
 		571
 	],
 	#gemstoneIssues : [ ],
-	#rowanSHA : '440eab25'
+	#rowanSHA : '71a42ab7'
 }
 ```
 ### spec_0026
