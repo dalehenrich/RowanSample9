@@ -977,7 +977,7 @@ RwTestProjectLibraryIndexCard {
 		553
 	],
 	#gemstoneIssues : [ ],
-	#rowanSHA : '440eab25'
+	#rowanSHA : '71a42ab7'
 }
 ```
 ### spec_0025
