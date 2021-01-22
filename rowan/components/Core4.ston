@@ -1,5 +1,5 @@
-RwSimpleNestedProjectLoadComponentV2 {
-	#name : 'common/Core4',
+RwSimpleProjectLoadComponentV2 {
+	#name : 'Core4',
 	#condition : 'common',
 	#preloadDoitName : 'doits/preloadDoit_Core4',
 	#postloadDoitName : 'doits/postloadDoit_Core4',

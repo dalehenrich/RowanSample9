@@ -1,5 +1,5 @@
-RwSimpleNestedProjectLoadComponentV2 {
-	#name : 'common/Core3',
+RwSimpleProjectLoadComponentV2 {
+	#name : 'Core3',
 	#condition : 'common',
 	#preloadDoitName : 'doits/preloadDoit_Core3',
 	#postloadDoitName : 'doits/postloadDoit_Core3',
