@@ -913,6 +913,7 @@ RwLoadSpecificationV2 {
 	#revision : 'spec_0023',
 	#projectSpecFile : 'rowan/project.ston',
 	#componentNames : [
+		'Core',
 		'Core'
 	],
 	#customConditionalAttributes : [
