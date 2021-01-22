@@ -8,5 +8,5 @@ RwSimpleNestedProjectLoadComponentV2 {
 		'platform/vast/Core'
 	],
 	#packageNames : [ ],
-	#comment : ''
+	#comment : 'Component for loading gemstone-specific packages'
 }

@@ -6,5 +6,5 @@ RwPlatformNestedProjectLoadComponentV2 {
 	#packageNames : [
 		'RowanSample9-Export-Pharo'
 	],
-	#comment : ''
+	#comment : 'Component for loading pharo-specific packages'
 }
