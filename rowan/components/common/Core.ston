@@ -1,11 +1,11 @@
 RwSubcomponent {
-	#name : 'conditions/Core',
+	#name : 'common/Core',
 	#condition : 'common',
 	#projectNames : [ ],
 	#componentNames : [
-		'conditions/alt1/Core',
-		'conditions/alt2/Core',
-		'conditions/alt3/Core'
+		'common/alt1/Core',
+		'common/alt2/Core',
+		'common/alt3/Core'
 	],
 	#packageNames : [ ],
 	#comment : ''

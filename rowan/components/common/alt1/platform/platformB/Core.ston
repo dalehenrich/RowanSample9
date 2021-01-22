@@ -1,13 +1,12 @@
 RwPlatformSubcomponent {
-	#name : 'conditions/alt1/platform/platformAorB/Core',
+	#name : 'common/alt1/platform/platformB/Core',
 	#condition : [
-		'platformA',
 		'platformB'
 	],
 	#projectNames : [ ],
 	#componentNames : [ ],
 	#packageNames : [
-		'RowanSample9-Core-PlatformAorB'
+		'RowanSample9-Core-PlatformB'
 	],
 	#comment : ''
 }

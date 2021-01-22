@@ -1,9 +1,9 @@
 RwSubcomponent {
-	#name : 'conditions/alt1/Core',
+	#name : 'common/alt1/Core',
 	#condition : 'alt1',
 	#projectNames : [ ],
 	#componentNames : [
-		'conditions/alt1/platform/Core'
+		'common/alt1/platform/Core'
 	],
 	#packageNames : [
 		'RowanSample9-Core-Alt1'

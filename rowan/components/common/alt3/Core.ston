@@ -1,5 +1,5 @@
 RwSubcomponent {
-	#name : 'conditions/alt3/Core',
+	#name : 'common/alt3/Core',
 	#condition : 'alt3',
 	#projectNames : [ ],
 	#componentNames : [ ],
