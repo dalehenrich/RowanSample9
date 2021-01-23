@@ -5,7 +5,7 @@ RwLoadComponent {
 		'common/Core',
 		'common/Examples',
 		'common/Tests',
-		'groups/Core'
+		'groups/RowanSample9'
 	],
 	#packageNames : [ ],
 	#comment : 'Primary component used for loading the project.'
