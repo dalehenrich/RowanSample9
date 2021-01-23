@@ -5,7 +5,10 @@ RwSubcomponent {
 	#componentNames : [ ],
 	#packageNames : [
 		'RowanSample9-Core',
-		'RowanSample9-Public'
+		'RowanSample9-Core-Definitions',
+		'RowanSample9-Core-Loader',
+		'RowanSample9-Core-Projects',
+		'RowanSample9-Core-Tools'
 	],
 	#comment : ''
 }
