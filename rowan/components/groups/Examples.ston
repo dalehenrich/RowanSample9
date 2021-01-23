@@ -1,8 +1,8 @@
 RwPackageGroup {
-	#name : 'RowanSample9/Tests',
+	#name : 'groups/Examples',
 	#condition : 'common',
 	#projectNames : [ ],
 	#componentNames : [ ],
 	#packageNames : [ ],
-	#comment : 'package group for Tests'
+	#comment : 'package group for Examples'
 }
