@@ -5,7 +5,12 @@ RwLoadComponent {
 		'common/Core',
 		'common/Examples',
 		'common/Tests',
-		'groups/Groups'
+		'groups/Definitions',
+		'groups/Examples',
+		'groups/Loader',
+		'groups/Projects',
+		'groups/Tests',
+		'groups/Tools'
 	],
 	#packageNames : [ ],
 	#comment : 'Primary component used for loading the project.'
