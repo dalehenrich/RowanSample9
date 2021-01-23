@@ -1,5 +1,5 @@
 # RowanSample9 - spec_0061
-Start with master; create a collection of classes and packages to populate the following categoryGroups: Public, Examples, Tests, Packages; where Packages is a synthetic category group
+Start with master; create a collection of classes and packages to populate the following packageGroups: Projects, Definitions, Tools, Loader, Examples, Tests, Packages; where Packages is a synthetic package group
 ```
 RwLoadSpecificationV2 {
 	#specName : 'spec_0061',
@@ -21,12 +21,12 @@ RwLoadSpecificationV2 {
 			}
 		}
 	},
-	#comment : 'Start with master; create a collection of classes and packages to populate the following categoryGroups: Public, Examples, Tests, Packages; where Packages is a synthetic category group'
+	#comment : 'Start with master; create a collection of classes and packages to populate the following packageGroups: Projects, Definitions, Tools, Loader, Examples, Tests, Packages; where Packages is a synthetic package group'
 }
 
 RwTestProjectLibraryIndexCard {
 	#name : 'index_0061',
-	#title : 'Start with master; create a collection of classes and packages to populate the following categoryGroups: Public, Examples, Tests, Packages; where Packages is a synthetic category group',
+	#title : 'Start with master; create a collection of classes and packages to populate the following packageGroups: Projects, Definitions, Tools, Loader, Examples, Tests, Packages; where Packages is a synthetic package group',
 	#specName : 'spec_0061',
 	#index : 61,
 	#derivedFrom : 'master',

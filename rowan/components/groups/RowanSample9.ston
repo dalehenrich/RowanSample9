@@ -2,7 +2,12 @@ RwPackageGroup {
 	#name : 'groups/RowanSample9',
 	#condition : 'common',
 	#projectNames : [ ],
-	#componentNames : [ ],
+	#componentNames : [
+		'RowanSample9/Definitions',
+		'RowanSample9/Loader',
+		'RowanSample9/Projects',
+		'RowanSample9/Tools'
+	],
 	#packageNames : [ ],
 	#comment : 'top-level package group component'
 }
