@@ -1,8 +1,8 @@
 RwPackageGroup {
-	#name : 'groups/RowanSample9/Projects',
+	#name : 'RowanSample9/Definitions',
 	#condition : 'common',
 	#projectNames : [ ],
 	#componentNames : [ ],
 	#packageNames : [ ],
-	#comment : 'package group for Projects'
+	#comment : 'package group for Definitions'
 }

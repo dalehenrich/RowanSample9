@@ -1,8 +1,0 @@
-RwPackageGroup {
-	#name : 'groups/RowanSample9/Tools',
-	#condition : 'common',
-	#projectNames : [ ],
-	#componentNames : [ ],
-	#packageNames : [ ],
-	#comment : 'package group for Tools'
-}
