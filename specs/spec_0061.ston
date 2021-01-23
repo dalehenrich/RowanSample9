@@ -1,0 +1,22 @@
+RwLoadSpecificationV2 {
+	#specName : 'spec_0061',
+	#projectName : 'RowanSample9',
+	#gitUrl : 'git@github.com:dalehenrich/RowanSample9.git',
+	#revision : 'spec_0061',
+	#projectSpecFile : 'rowan/project.ston',
+	#componentNames : [
+		'Core',
+		'Core'
+	],
+	#customConditionalAttributes : [
+		'tests'
+	],
+	#platformProperties : {
+		'gemstone' : {
+			'allusers' : {
+				#defaultSymbolDictName : 'RowanSample9_1'
+			}
+		}
+	},
+	#comment : 'Start with master; create a collection of classes and packages to populate the following categoryGroups: Public, Examples, Tests, Packages; where Packages is a synthetic category group'
+}
