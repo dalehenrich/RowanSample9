@@ -3,7 +3,9 @@ RwSimpleProjectLoadComponentV2 {
 	#condition : 'common',
 	#projectNames : [ ],
 	#componentNames : [
-		'common/Public'
+		'common/Examples',
+		'common/Public',
+		'common/Tests'
 	],
 	#packageNames : [ ],
 	#comment : 'Primary component used for loading the project.'
