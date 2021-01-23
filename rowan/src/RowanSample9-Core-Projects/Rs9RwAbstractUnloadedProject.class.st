@@ -1,5 +1,5 @@
 Class {
 	#name : 'Rs9RwAbstractUnloadedProject',
-	#superclass : 'AbstractProject',
+	#superclass : 'Rs9AbstractProject',
 	#category : 'Projects'
 }
