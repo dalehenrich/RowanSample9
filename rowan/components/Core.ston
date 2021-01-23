@@ -4,7 +4,8 @@ RwLoadComponent {
 	#componentNames : [
 		'common/Core',
 		'common/Examples',
-		'common/Tests'
+		'common/Tests',
+		'groups/Core'
 	],
 	#packageNames : [ ],
 	#comment : 'Primary component used for loading the project.'
