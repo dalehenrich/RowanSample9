@@ -4,10 +4,10 @@ RwSimpleNestedProjectLoadComponentV2 {
 	#projectNames : [ ],
 	#componentNames : [ ],
 	#packageNames : [
-		'RowanSample9-Examples',
-		'RowanSample9-Private',
-		'RowanSample9-Public',
-		'RowanSample9-Tests'
+		'RowanSample9-Examples-Core',
+		'RowanSample9-Private-Core',
+		'RowanSample9-Public-Core',
+		'RowanSample9-Tests-Core'
 	],
 	#comment : ''
 }
