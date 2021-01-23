@@ -3,6 +3,8 @@ RwPackageGroup {
 	#condition : 'common',
 	#projectNames : [ ],
 	#componentNames : [ ],
-	#packageNames : [ ],
+	#packageNames : [
+		'RowanSample9-Core-Loader'
+	],
 	#comment : 'package group for Loader'
 }

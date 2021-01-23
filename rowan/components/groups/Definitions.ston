@@ -3,6 +3,8 @@ RwPackageGroup {
 	#condition : 'common',
 	#projectNames : [ ],
 	#componentNames : [ ],
-	#packageNames : [ ],
+	#packageNames : [
+		'RowanSample9-Core-Definitions'
+	],
 	#comment : 'package group for Definitions'
 }
