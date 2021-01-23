@@ -4,8 +4,10 @@ RwPackageGroup {
 	#projectNames : [ ],
 	#componentNames : [
 		'RowanSample9/Definitions',
+		'RowanSample9/Examples',
 		'RowanSample9/Loader',
 		'RowanSample9/Projects',
+		'RowanSample9/Tests',
 		'RowanSample9/Tools'
 	],
 	#packageNames : [ ],
