@@ -3,8 +3,8 @@ RwSimpleProjectLoadComponentV2 {
 	#condition : 'common',
 	#projectNames : [ ],
 	#componentNames : [
+		'common/Core',
 		'common/Examples',
-		'common/Public',
 		'common/Tests'
 	],
 	#packageNames : [ ],

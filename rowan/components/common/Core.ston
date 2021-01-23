@@ -1,5 +1,5 @@
 RwSimpleNestedProjectLoadComponentV2 {
-	#name : 'common/Public',
+	#name : 'common/Core',
 	#condition : 'common',
 	#projectNames : [ ],
 	#componentNames : [ ],
