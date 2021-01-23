@@ -1,0 +1,10 @@
+RwSubcomponent {
+	#name : 'groups/Definitions',
+	#condition : 'common',
+	#projectNames : [ ],
+	#componentNames : [
+		'groups/RowanSample9/Definitions'
+	],
+	#packageNames : [ ],
+	#comment : 'package group for Definitions'
+}

@@ -1,0 +1,10 @@
+RwSubcomponent {
+	#name : 'groups/Projects',
+	#condition : 'common',
+	#projectNames : [ ],
+	#componentNames : [
+		'groups/RowanSample9/Projects'
+	],
+	#packageNames : [ ],
+	#comment : 'package group for Projects'
+}
