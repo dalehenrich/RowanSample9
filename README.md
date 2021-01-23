@@ -2353,7 +2353,8 @@ RwLoadSpecificationV2 {
 		'Core'
 	],
 	#customConditionalAttributes : [
-		'tests'
+		'tests',
+		'examples'
 	],
 	#platformProperties : {
 		'gemstone' : {
