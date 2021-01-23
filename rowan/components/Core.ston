@@ -1,0 +1,10 @@
+RwSimpleProjectLoadComponentV2 {
+	#name : 'Core',
+	#condition : 'common',
+	#projectNames : [ ],
+	#componentNames : [
+		'common/Public'
+	],
+	#packageNames : [ ],
+	#comment : 'Primary component used for loading the project.'
+}
