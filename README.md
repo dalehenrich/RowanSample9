@@ -2363,12 +2363,12 @@ RwLoadSpecificationV2 {
 			}
 		}
 	},
-	#comment : 'Start with master; create a collection of classes and packages to populate the following packageGroups: Projects, Definitions, Tools, Loader, Examples, Tests, Packages; where Packages is a synthetic package group'
+	#comment : 'Start with master; create a collection of classes and packages to populate the following packageGroups: Projects, Definitions, Rowan, Examples, Tests, WorkGroups, Packages; where WorkGroups are developer defined sets of packages that represent a personal working set, Packages is a synthetic package group'
 }
 
 RwTestProjectLibraryIndexCard {
 	#name : 'index_0061',
-	#title : 'Start with master; create a collection of classes and packages to populate the following packageGroups: Projects, Definitions, Tools, Loader, Examples, Tests, Packages; where Packages is a synthetic package group',
+	#title : 'Start with master; create a collection of classes and packages to populate the following packageGroups: Projects, Definitions, Rowan, Examples, Tests, WorkGroups, Packages; where WorkGroups are developer defined sets of packages that represent a personal working set, Packages is a synthetic package group',
 	#specName : 'spec_0061',
 	#index : 61,
 	#derivedFrom : 'master',

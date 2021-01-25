@@ -18,5 +18,5 @@ RwLoadSpecificationV2 {
 			}
 		}
 	},
-	#comment : 'Start with master; create a collection of classes and packages to populate the following packageGroups: Projects, Definitions, Tools, Loader, Examples, Tests, Packages; where Packages is a synthetic package group'
+	#comment : 'Start with master; create a collection of classes and packages to populate the following packageGroups: Projects, Definitions, Rowan, Examples, Tests, WorkGroups, Packages; where WorkGroups are developer defined sets of packages that represent a personal working set, Packages is a synthetic package group'
 }
