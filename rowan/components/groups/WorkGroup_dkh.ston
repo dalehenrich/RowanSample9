@@ -3,6 +3,9 @@ RwPackageGroup {
 	#condition : 'dkh',
 	#projectNames : [ ],
 	#componentNames : [ ],
-	#packageNames : [ ],
+	#packageNames : [
+		'RowanSample9-Core',
+		'RowanSample9-Core-Projects'
+	],
 	#comment : 'package group for WorkGroup_dkh'
 }

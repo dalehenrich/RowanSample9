@@ -1,5 +1,5 @@
 Class {
 	#name : 'Rs9AbstractProject',
-	#superclass : 'Object',
+	#superclass : 'Rs9Interface',
 	#category : 'Projects'
 }
