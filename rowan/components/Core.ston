@@ -5,12 +5,13 @@ RwLoadComponent {
 		'common/Core',
 		'common/Examples',
 		'common/Tests',
+		'common/WorkGoup_dkh',
 		'groups/Definitions',
 		'groups/Examples',
-		'groups/Loader',
 		'groups/Projects',
+		'groups/Rowan',
 		'groups/Tests',
-		'groups/Tools'
+		'groups/WorkGoup_dkh'
 	],
 	#packageNames : [ ],
 	#comment : 'Primary component used for loading the project.'

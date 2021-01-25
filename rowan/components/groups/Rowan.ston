@@ -1,10 +1,10 @@
 RwPackageGroup {
-	#name : 'groups/Loader',
+	#name : 'groups/Rowan',
 	#condition : 'common',
 	#projectNames : [ ],
 	#componentNames : [ ],
 	#packageNames : [
-		'RowanSample9-Core-Loader'
+		'RowanSample9-Core-Rowan'
 	],
-	#comment : 'package group for Loader'
+	#comment : 'package group for Rowan'
 }

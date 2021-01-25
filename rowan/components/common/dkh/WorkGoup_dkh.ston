@@ -1,0 +1,10 @@
+RwSubcomponent {
+	#name : 'common/dkh/WorkGoup_dkh',
+	#condition : 'dkh',
+	#projectNames : [ ],
+	#componentNames : [ ],
+	#packageNames : [
+		'RowanSample9-WorkGoup_dkh'
+	],
+	#comment : ''
+}

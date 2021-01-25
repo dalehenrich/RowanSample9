@@ -1,10 +1,10 @@
 RwPackageGroup {
-	#name : 'groups/Tools',
+	#name : 'groups/WorkGoup_dkh',
 	#condition : 'common',
 	#projectNames : [ ],
 	#componentNames : [ ],
 	#packageNames : [
-		'RowanSample9-Core-Tools'
+		'RowanSample9-WorkGoup_dkh'
 	],
-	#comment : 'package group for Tools'
+	#comment : 'package group for WorkGoup_dkh'
 }

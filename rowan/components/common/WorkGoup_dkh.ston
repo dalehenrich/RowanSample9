@@ -1,0 +1,10 @@
+RwSubcomponent {
+	#name : 'common/WorkGoup_dkh',
+	#condition : 'common',
+	#projectNames : [ ],
+	#componentNames : [
+		'common/dkh/WorkGoup_dkh'
+	],
+	#packageNames : [ ],
+	#comment : ''
+}
