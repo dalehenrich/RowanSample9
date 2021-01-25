@@ -2354,7 +2354,8 @@ RwLoadSpecificationV2 {
 	],
 	#customConditionalAttributes : [
 		'tests',
-		'examples'
+		'examples',
+		'dkh'
 	],
 	#platformProperties : {
 		'gemstone' : {
