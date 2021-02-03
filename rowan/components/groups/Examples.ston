@@ -1,9 +1,9 @@
 RwPackageGroup {
 	#name : 'groups/Examples',
-	#comment : 'package group for Examples',
+	#condition : 'common',
 	#componentNames : [ ],
 	#packageNames : [
 		'RowanSample9-Examples'
 	],
-	#condition : 'common'
+	#comment : 'package group for Examples'
 }

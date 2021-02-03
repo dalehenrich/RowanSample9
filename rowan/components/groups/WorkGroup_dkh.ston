@@ -1,10 +1,10 @@
 RwPackageGroup {
 	#name : 'groups/WorkGroup_dkh',
-	#comment : 'package group for WorkGroup_dkh',
+	#condition : 'dkh',
 	#componentNames : [ ],
 	#packageNames : [
 		'RowanSample9-Core',
 		'RowanSample9-Core-Projects'
 	],
-	#condition : 'dkh'
+	#comment : 'package group for WorkGroup_dkh'
 }

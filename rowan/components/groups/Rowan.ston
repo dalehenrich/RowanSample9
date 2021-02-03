@@ -1,9 +1,9 @@
 RwPackageGroup {
 	#name : 'groups/Rowan',
-	#comment : 'package group for Rowan',
+	#condition : 'common',
 	#componentNames : [ ],
 	#packageNames : [
 		'RowanSample9-Core-Rowan'
 	],
-	#condition : 'common'
+	#comment : 'package group for Rowan'
 }

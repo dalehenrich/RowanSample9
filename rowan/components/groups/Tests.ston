@@ -1,9 +1,9 @@
 RwPackageGroup {
 	#name : 'groups/Tests',
-	#comment : 'package group for Tests',
+	#condition : 'common',
 	#componentNames : [ ],
 	#packageNames : [
 		'RowanSample9-Tests'
 	],
-	#condition : 'common'
+	#comment : 'package group for Tests'
 }
