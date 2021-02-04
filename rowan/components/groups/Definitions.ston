@@ -1,9 +1,0 @@
-RwPackageGroup {
-	#name : 'groups/Definitions',
-	#condition : 'common',
-	#componentNames : [ ],
-	#packageNames : [
-		'RowanSample9-Core-Definitions'
-	],
-	#comment : 'package group for Definitions'
-}

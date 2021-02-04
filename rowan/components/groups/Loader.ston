@@ -1,0 +1,9 @@
+RwPackageGroup {
+	#name : 'groups/Loader',
+	#condition : 'common',
+	#componentNames : [ ],
+	#packageNames : [
+		'RowanSample9-Core-Loader'
+	],
+	#comment : 'package group for Loader'
+}
