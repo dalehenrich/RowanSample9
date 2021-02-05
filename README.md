@@ -2375,6 +2375,7 @@ RwTestProjectLibraryIndexCard {
 	#derivedFrom : 'master',
 	#comment : '',
 	#rowanIssues : [
+		573,
 		660
 	],
 	#gemstoneIssues : [ ],
