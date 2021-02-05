@@ -1,9 +1,0 @@
-RwPackageGroup {
-	#name : 'groups/Projects',
-	#condition : 'common',
-	#componentNames : [ ],
-	#packageNames : [
-		'RowanSample9-Core-Projects'
-	],
-	#comment : 'package group for Projects'
-}

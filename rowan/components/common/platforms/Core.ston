@@ -3,7 +3,7 @@ RwSubcomponent {
 	#condition : 'common',
 	#projectNames : [ ],
 	#componentNames : [
-		'common/platforms/gemstone/Core',
+		'common/platforms/gemstone/common/platforms/gemstone/Loader',
 		'common/platforms/pharo/Core'
 	],
 	#packageNames : [ ],
