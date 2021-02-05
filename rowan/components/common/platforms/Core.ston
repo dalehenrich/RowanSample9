@@ -4,7 +4,7 @@ RwSubcomponent {
 	#projectNames : [ ],
 	#componentNames : [
 		'common/platforms/gemstone/Loader',
-		'common/platforms/pharo/Core'
+		'common/platforms/pharo/Loader'
 	],
 	#packageNames : [ ],
 	#comment : ''
