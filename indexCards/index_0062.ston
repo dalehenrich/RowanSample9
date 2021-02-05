@@ -1,0 +1,14 @@
+RwTestProjectLibraryIndexCard {
+	#name : 'index_0062',
+	#title : 'Package Group Example 2: define using packages and components. Start with spec_0061, move the Loader packages into a common/Loader subcomponent and replace the loader package references in the group/Loader with a reference to the common/Loader component.',
+	#specName : 'spec_0062',
+	#index : 62,
+	#derivedFrom : 'spec_0061',
+	#comment : '',
+	#rowanIssues : [
+		573,
+		660
+	],
+	#gemstoneIssues : [ ],
+	#rowanSHA : '7f455aac'
+}
