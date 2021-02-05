@@ -1,5 +1,5 @@
 Class {
 	#name : 'Rs9LoadedPackage',
 	#superclass : 'Rs9Rs9LoadedThing',
-	#category : 'Projects'
+	#category : 'Loader'
 }

@@ -1,5 +1,5 @@
 # RowanSample9 - spec_0061
-Start with master; create a collection of classes and packages to populate the following packageGroups: Projects, Definitions, Rowan, Examples, Tests, WorkGroups, Packages; where WorkGroups are developer defined sets of packages that represent a personal working set, Packages is a synthetic package group. The WorkGroup will contain at least one package that is not already in a group plus at least one package that IS already in a group.
+Start with master; create a collection of classes and packages to populate the following packageGroups: Projects, Loader, Rowan, Examples, Tests, WorkGroups, Packages; where WorkGroups are developer defined sets of packages that represent a personal working set, Packages is a synthetic package group. The WorkGroup will contain at least one package that is not already in a group plus at least one package that IS already in a group.
 ```
 RwLoadSpecificationV2 {
 	#specName : 'spec_0061',
@@ -22,12 +22,12 @@ RwLoadSpecificationV2 {
 			}
 		}
 	},
-	#comment : 'Start with master; create a collection of classes and packages to populate the following packageGroups: Projects, Definitions, Rowan, Examples, Tests, WorkGroups, Packages; where WorkGroups are developer defined sets of packages that represent a personal working set, Packages is a synthetic package group. The WorkGroup will contain at least one package that is not already in a group plus at least one package that IS already in a group.'
+	#comment : 'Start with master; create a collection of classes and packages to populate the following packageGroups: Projects, Loader, Rowan, Examples, Tests, WorkGroups, Packages; where WorkGroups are developer defined sets of packages that represent a personal working set, Packages is a synthetic package group. The WorkGroup will contain at least one package that is not already in a group plus at least one package that IS already in a group.'
 }
 
 RwTestProjectLibraryIndexCard {
 	#name : 'index_0061',
-	#title : 'Start with master; create a collection of classes and packages to populate the following packageGroups: Projects, Definitions, Rowan, Examples, Tests, WorkGroups, Packages; where WorkGroups are developer defined sets of packages that represent a personal working set, Packages is a synthetic package group. The WorkGroup will contain at least one package that is not already in a group plus at least one package that IS already in a group.',
+	#title : 'Start with master; create a collection of classes and packages to populate the following packageGroups: Projects, Loader, Rowan, Examples, Tests, WorkGroups, Packages; where WorkGroups are developer defined sets of packages that represent a personal working set, Packages is a synthetic package group. The WorkGroup will contain at least one package that is not already in a group plus at least one package that IS already in a group.',
 	#specName : 'spec_0061',
 	#index : 61,
 	#derivedFrom : 'master',
