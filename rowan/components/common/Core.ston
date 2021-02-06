@@ -3,7 +3,6 @@ RwSubcomponent {
 	#condition : 'common',
 	#projectNames : [ ],
 	#componentNames : [
-		'common/platforms/Core',
 		'common/platforms/Loader'
 	],
 	#packageNames : [
