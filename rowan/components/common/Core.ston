@@ -3,11 +3,11 @@ RwSubcomponent {
 	#condition : 'common',
 	#projectNames : [ ],
 	#componentNames : [
-		'common/platforms/Core'
+		'common/platforms/Core',
+		'common/platforms/Loader'
 	],
 	#packageNames : [
 		'RowanSample9-Core',
-		'RowanSample9-Core-Loader',
 		'RowanSample9-Core-Projects',
 		'RowanSample9-Core-Rowan'
 	],
