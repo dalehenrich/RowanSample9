@@ -1,5 +1,5 @@
 RwSubcomponent {
-	#name : 'common/platforms/Loader',
+	#name : 'common/platforms/Core',
 	#condition : 'common',
 	#projectNames : [ ],
 	#componentNames : [

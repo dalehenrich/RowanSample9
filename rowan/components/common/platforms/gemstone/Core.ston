@@ -1,12 +1,12 @@
 RwPlatformSubcomponent {
-	#name : 'common/platforms/pharo/Loader',
+	#name : 'common/platforms/gemstone/Core',
 	#condition : [
-		'pharo'
+		'gemstone'
 	],
 	#projectNames : [ ],
 	#componentNames : [ ],
 	#packageNames : [
-		'RowanSample9-Loader-Pharo'
+		'RowanSample9-Loader-GemStone'
 	],
 	#comment : ''
 }
