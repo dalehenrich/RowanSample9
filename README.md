@@ -1,6 +1,22 @@
 # RowanSample9 - spec_0061
 ### Component Structure Examples
-**Part 1** - _this_
+The specs **spec_0061**, **spec_0062** and **spec_0063** provide examples of different conventions for organizing component structure.
+The code in this set of specs use the same set of packages
+- RowanSample9-Core-Loader
+- RowanSample9-Core-Projects
+- RowanSample9-Core-Rowan
+- RowanSample9-Core-Core
+- RowanSample9-Core-Examples
+- RowanSample9-Loader-GemStone
+- RowanSample9-Loader-Pharo
+- RowanSample9-Tests
+and differ only in how the components are organized.
+#### spec_0061
+The components in this spec are organized using directory structure and common component basenames to isolate the conditional components.
+#### spec_0062
+
+#### spec_0063
+
 
 ### Description
 Package Group Example 1: define using only packages, including references to conditional packages. Start with master; create a collection of classes and packages to populate the following packageGroups: Projects, Loader, Rowan, Examples, Tests, and WorkGroups; where Loader will reference all packages directly, including a couple of platform specific packages; WorkGroups contains a developer defined set of packages that represent a personal working set and will contain at least one package that is not already in a group plus at least one package that IS already in a group.
