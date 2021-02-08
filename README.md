@@ -1,4 +1,8 @@
 # RowanSample9 - spec_0061
+### Component Structure Examples
+**Part 1** - _this_
+
+### Description
 Package Group Example 1: define using only packages, including references to conditional packages. Start with master; create a collection of classes and packages to populate the following packageGroups: Projects, Loader, Rowan, Examples, Tests, and WorkGroups; where Loader will reference all packages directly, including a couple of platform specific packages; WorkGroups contains a developer defined set of packages that represent a personal working set and will contain at least one package that is not already in a group plus at least one package that IS already in a group.
 ```
 RwLoadSpecificationV2 {
@@ -37,7 +41,7 @@ RwTestProjectLibraryIndexCard {
 		660
 	],
 	#gemstoneIssues : [ ],
-	#rowanSHA : '49102f8f'
+	#rowanSHA : 'd30e8f16'
 }
 ```
 
