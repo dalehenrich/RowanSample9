@@ -3,9 +3,7 @@ RwPackageGroup {
 	#condition : 'common',
 	#componentNames : [ ],
 	#packageNames : [
-		'RowanSample9-Core-Rowan',
-		'RowanSample9-Loader-GemStone',
-		'RowanSample9-Loader-Pharo'
+		'RowanSample9-Core-Rowan'
 	],
 	#comment : 'package group for Rowan'
 }
