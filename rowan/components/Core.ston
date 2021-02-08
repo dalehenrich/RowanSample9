@@ -4,9 +4,9 @@ RwLoadComponent {
 	#componentNames : [
 		'common/Core',
 		'common/Examples',
+		'common/Loader',
 		'common/Tests',
 		'groups/Examples',
-		'groups/Loader',
 		'groups/Projects',
 		'groups/Rowan',
 		'groups/Tests',
