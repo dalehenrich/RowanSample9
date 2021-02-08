@@ -1,7 +1,7 @@
 # RowanSample9 - spec_0061
 ### Component Structure Examples
 The specs **spec_0061**, **spec_0062** and **spec_0063** provide examples of different conventions for organizing component structure.
-The code in this set of specs use the same set of packages
+The code in this set of specs use the same set of packages:
 - RowanSample9-Core-Loader
 - RowanSample9-Core-Projects
 - RowanSample9-Core-Rowan
@@ -10,6 +10,7 @@ The code in this set of specs use the same set of packages
 - RowanSample9-Loader-GemStone
 - RowanSample9-Loader-Pharo
 - RowanSample9-Tests
+
 and differ only in how the components are organized.
 #### spec_0061
 The components in this spec are organized using directory structure and common component basenames to isolate the conditional components.
