@@ -7,6 +7,7 @@ RwLoadComponent {
 		'common/Loader',
 		'common/Tests',
 		'groups/Examples',
+		'groups/Loader',
 		'groups/Projects',
 		'groups/Rowan',
 		'groups/Tests',
