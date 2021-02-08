@@ -19,5 +19,5 @@ RwLoadSpecificationV2 {
 			}
 		}
 	},
-	#comment : 'Package Group Example 2: define using packages and components. Start with spec_0061, move the Loader packages into a common/Loader subcomponent and replace the loader package references in the group/Loader with a reference to the common/Loader component.'
+	#comment : 'Package Group Example 2: define package groups using packages and components. Start with spec_0061, replace the loader package references in the group/Loader with a reference to the common/Loader component.'
 }
