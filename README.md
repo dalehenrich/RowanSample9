@@ -2,18 +2,20 @@
 ### Component Structure Examples
 The specs **spec_0061**, **spec_0062** and **spec_0063** provide examples of different conventions for organizing component structure.
 The code in this set of specs use the same set of packages:
-- RowanSample9-Core-Loader
 - RowanSample9-Core-Projects
 - RowanSample9-Core-Rowan
 - RowanSample9-Core-Core
-- RowanSample9-Core-Examples
+- RowanSample9-Examples
+- RowanSample9-Loader
 - RowanSample9-Loader-GemStone
 - RowanSample9-Loader-Pharo
 - RowanSample9-Tests
 
 and differ only in how the components are organized.
 #### spec_0061
-The components in this spec are organized using directory structure and common component basenames to isolate the conditional components.
+The components in this spec are organized using directory structure and common component name to isolate the conditional components.
+The packages RowanSample9-Loader,  RowanSample9-Loader-GemStone, and RowanSample9-Loader-Pharo are referenced by components named **Loader** that are located in different directories in the package structure. The conditional packages RowanSample9-Loader-GemStone and RowanSample9-Loader-Pharo subdirectories that reflect the condition used in the subcomponent (i.e., _gemstone_ and _pharo_) and the conditional subdirectories themselves are located in a _platforms_ subdirectory to isolate the condtional component structure from the other components.
+The advantage of this approach is that as a project is ported to more platforms or versions of the same platform, the number of condtions can increase dramaticaly and without the use of the _platforms_ directory, the number of subcomponents can become unmanageable.
 #### spec_0062
 
 #### spec_0063
