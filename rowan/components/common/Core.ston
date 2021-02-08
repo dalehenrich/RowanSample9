@@ -2,9 +2,7 @@ RwSubcomponent {
 	#name : 'common/Core',
 	#condition : 'common',
 	#projectNames : [ ],
-	#componentNames : [
-		'common/platforms/Loader'
-	],
+	#componentNames : [ ],
 	#packageNames : [
 		'RowanSample9-Core',
 		'RowanSample9-Core-Projects',

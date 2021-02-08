@@ -6,8 +6,6 @@ RwSubcomponent {
 		'common/platforms/gemstone/Loader',
 		'common/platforms/pharo/Loader'
 	],
-	#packageNames : [
-		'RowanSample9-Core-Loader'
-	],
+	#packageNames : [ ],
 	#comment : ''
 }

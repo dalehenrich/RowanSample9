@@ -2,7 +2,7 @@ RwPackageGroup {
 	#name : 'groups/Loader',
 	#condition : 'common',
 	#componentNames : [
-		'common/platforms/Loader'
+		'common/Loader'
 	],
 	#packageNames : [ ],
 	#comment : 'package group for Loader'
