@@ -23,6 +23,7 @@ The advantage of this approach is that as a project is ported to more platforms 
 The packages and component structure are identical to the structure in spec_0061, however, the _Loader_ package group, is defined using a reference to the common/Loader component instead of conditional packages.
 
 #### spec_0063
+The components in this spec are not using any directory structure. All of the components are in the top-level _components_ directory.
 
 
 ### Description
