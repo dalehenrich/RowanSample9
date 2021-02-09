@@ -1,4 +1,4 @@
-# RowanSample9 - spec_0061
+# RowanSample9 - spec_0063
 ### Component Structure Examples
 The specs **spec_0061**, **spec_0062** and **spec_0063** provide examples of different conventions for organizing component structure.
 The code in this set of specs use the same set of packages:
@@ -28,13 +28,13 @@ The components in this spec are not using any directory structure. All of the co
 
 ### Description
 
-Package Group Example 1: define using only packages, including references to conditional packages. Start with master; create a collection of classes and packages to populate the following packageGroups: Projects, Loader, Rowan, Examples, Tests, and WorkGroups; where Loader will reference all packages directly, including a couple of platform specific packages; WorkGroups contains a developer defined set of packages that represent a personal working set and will contain at least one package that is not already in a group plus at least one package that IS already in a group.
+Package Group Example 3: define package groups using packages and components. Start with spec_0061, and flatten the component structure so that all subcomponents and package groups are in top-level directory.
 ```
 RwLoadSpecificationV2 {
-	#specName : 'spec_0061',
+	#specName : 'spec_0063',
 	#projectName : 'RowanSample9',
 	#gitUrl : 'git@github.com:dalehenrich/RowanSample9.git',
-	#revision : 'spec_0061',
+	#revision : 'spec_0063',
 	#projectSpecFile : 'rowan/project.ston',
 	#componentNames : [
 		'Core'
@@ -51,22 +51,22 @@ RwLoadSpecificationV2 {
 			}
 		}
 	},
-	#comment : 'Package Group Example 1: define using only packages, including references to conditional packages. Start with master; create a collection of classes and packages to populate the following packageGroups: Projects, Loader, Rowan, Examples, Tests, and WorkGroups; where Loader will reference all packages directly, including a couple of platform specific packages; WorkGroups contains a developer defined set of packages that represent a personal working set and will contain at least one package that is not already in a group plus at least one package that IS already in a group.'
+	#comment : 'Package Group Example 3: define package groups using packages and components. Start with spec_0061, and flatten the component structure so that all subcomponents and package groups are in top-level directory.'
 }
 
 RwTestProjectLibraryIndexCard {
-	#name : 'index_0061',
-	#title : 'Package Group Example 1: define using only packages, including references to conditional packages. Start with master; create a collection of classes and packages to populate the following packageGroups: Projects, Loader, Rowan, Examples, Tests, and WorkGroups; where Loader will reference all packages directly, including a couple of platform specific packages; WorkGroups contains a developer defined set of packages that represent a personal working set and will contain at least one package that is not already in a group plus at least one package that IS already in a group.',
-	#specName : 'spec_0061',
-	#index : 61,
-	#derivedFrom : 'master',
+	#name : 'index_0063',
+	#title : 'Package Group Example 3: define package groups using packages and components. Start with spec_0061, and flatten the component structure so that all subcomponents and package groups are in top-level directory.',
+	#specName : 'spec_0063',
+	#index : 63,
+	#derivedFrom : 'spec_0061',
 	#comment : '',
 	#rowanIssues : [
 		573,
 		660
 	],
 	#gemstoneIssues : [ ],
-	#rowanSHA : 'd30e8f16'
+	#rowanSHA : 'a168bdaf'
 }
 ```
 

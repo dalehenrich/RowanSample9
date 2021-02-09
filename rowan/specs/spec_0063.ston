@@ -1,0 +1,23 @@
+RwLoadSpecificationV2 {
+	#specName : 'spec_0063',
+	#projectName : 'RowanSample9',
+	#gitUrl : 'git@github.com:dalehenrich/RowanSample9.git',
+	#revision : 'spec_0063',
+	#projectSpecFile : 'rowan/project.ston',
+	#componentNames : [
+		'Core'
+	],
+	#customConditionalAttributes : [
+		'tests',
+		'examples',
+		'dkh'
+	],
+	#platformProperties : {
+		'gemstone' : {
+			'allusers' : {
+				#defaultSymbolDictName : 'RowanSample9_1'
+			}
+		}
+	},
+	#comment : 'Package Group Example 3: define package groups using packages and components. Start with spec_0061, and flatten the component structure so that all subcomponents and package groups are in top-level directory.'
+}

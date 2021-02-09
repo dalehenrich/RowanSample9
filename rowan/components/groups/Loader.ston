@@ -1,11 +1,9 @@
 RwPackageGroup {
 	#name : 'groups/Loader',
 	#condition : 'common',
-	#componentNames : [ ],
-	#packageNames : [
-		'RowanSample9-Loader',
-		'RowanSample9-Loader-GemStone',
-		'RowanSample9-Loader-Pharo'
+	#componentNames : [
+		'common/Loader'
 	],
+	#packageNames : [ ],
 	#comment : 'package group for Loader'
 }
