@@ -1,5 +1,5 @@
 RwPackageGroup {
-	#name : 'groups/WorkGroup_dkh',
+	#name : 'WorkGroup_dkh_group',
 	#condition : 'dkh',
 	#componentNames : [ ],
 	#packageNames : [

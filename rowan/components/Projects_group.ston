@@ -1,5 +1,5 @@
 RwPackageGroup {
-	#name : 'groups/Projects',
+	#name : 'Projects_group',
 	#condition : 'common',
 	#componentNames : [ ],
 	#packageNames : [

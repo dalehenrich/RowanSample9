@@ -1,5 +1,5 @@
 RwPackageGroup {
-	#name : 'groups/Loader',
+	#name : 'Loader_group',
 	#condition : 'common',
 	#componentNames : [
 		'common/Loader'
