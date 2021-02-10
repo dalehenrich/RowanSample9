@@ -1,0 +1,13 @@
+RwTestProjectLibraryIndexCard {
+	#name : 'index_0064',
+	#title : 'Start with spec_0060; add RowanSample10 as an external project ... and add some package names that duplicate RowanSample10 package names ... reproduce https://github.com/GemTalk/Rowan/issues/680',
+	#specName : 'spec_0064',
+	#index : 61,
+	#derivedFrom : 'spec_0060',
+	#comment : '',
+	#rowanIssues : [
+		680
+	],
+	#gemstoneIssues : [ ],
+	#rowanSHA : '7a78962e'
+}
