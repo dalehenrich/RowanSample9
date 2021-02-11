@@ -27,7 +27,6 @@ The components in this spec are not using any directory structure. All of the co
 
 
 ### Description
-
 Package Group Example 3: define package groups using packages and components. Start with spec_0061, and flatten the component structure so that all subcomponents and package groups are in top-level directory.
 ```
 RwLoadSpecificationV2 {
@@ -66,7 +65,7 @@ RwTestProjectLibraryIndexCard {
 		660
 	],
 	#gemstoneIssues : [ ],
-	#rowanSHA : 'a168bdaf'
+	#rowanSHA : 'baa52c0c'
 }
 ```
 
