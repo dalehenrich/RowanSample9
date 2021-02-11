@@ -27,7 +27,6 @@ The components in this spec are not using any directory structure. All of the co
 
 
 ### Description
-
 Package Group Example 2: define package groups using packages and components. Start with spec_0061, replace the loader package references in the group/Loader with a reference to the common/Loader component.
 ```
 RwLoadSpecificationV2 {
@@ -66,7 +65,7 @@ RwTestProjectLibraryIndexCard {
 		660
 	],
 	#gemstoneIssues : [ ],
-	#rowanSHA : '7f455aac'
+	#rowanSHA : 'baa52c0c'
 }
 ```
 
