@@ -1,0 +1,21 @@
+RwLoadComponent {
+	#name : 'Core',
+	#projectNames : [ ],
+	#componentNames : [
+		'common/Examples',
+		'common/Loader',
+		'common/Tests',
+		'Examples_group',
+		'Loader_group',
+		'Projects_group',
+		'Rowan_group',
+		'Tests_group',
+		'WorkGroup_dkh_group'
+	],
+	#packageNames : [
+		'RowanSample9-Core',
+		'RowanSample9-Core-Projects',
+		'RowanSample9-Core-Rowan'
+	],
+	#comment : 'Primary component used for loading the project.'
+}
