@@ -3,13 +3,13 @@ RwLoadComponent {
 	#projectNames : [ ],
 	#componentNames : [
 		'common/Loader',
-		'common/Tests',
 		'Examples_examples',
 		'Examples_group',
 		'Loader_group',
 		'Projects_group',
 		'Rowan_group',
 		'Tests_group',
+		'Tests_tests',
 		'WorkGroup_dkh_group'
 	],
 	#packageNames : [

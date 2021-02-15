@@ -1,5 +1,5 @@
 RwSubcomponent {
-	#name : 'common/tests/Tests',
+	#name : 'Tests_tests',
 	#condition : 'tests',
 	#projectNames : [ ],
 	#componentNames : [ ],
