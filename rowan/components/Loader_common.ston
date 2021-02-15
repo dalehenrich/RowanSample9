@@ -2,7 +2,10 @@ RwSubcomponent {
 	#name : 'Loader_common',
 	#condition : 'common',
 	#projectNames : [ ],
-	#componentNames : [ ],
+	#componentNames : [
+		'Loader_gemstone',
+		'Loader_pharo'
+	],
 	#packageNames : [
 		'RowanSample9-Loader'
 	],
