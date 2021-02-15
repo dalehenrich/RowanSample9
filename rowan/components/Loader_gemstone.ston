@@ -1,0 +1,12 @@
+RwPlatformSubcomponent {
+	#name : 'Loader_gemstone',
+	#condition : [
+		'gemstone'
+	],
+	#projectNames : [ ],
+	#componentNames : [ ],
+	#packageNames : [
+		'RowanSample9-Loader-GemStone'
+	],
+	#comment : ''
+}

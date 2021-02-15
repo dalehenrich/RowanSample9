@@ -1,0 +1,12 @@
+RwPlatformSubcomponent {
+	#name : 'Loader_pharo',
+	#condition : [
+		'pharo'
+	],
+	#projectNames : [ ],
+	#componentNames : [ ],
+	#packageNames : [
+		'RowanSample9-Loader-Pharo'
+	],
+	#comment : ''
+}
