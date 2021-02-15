@@ -2,9 +2,9 @@ RwLoadComponent {
 	#name : 'Core',
 	#projectNames : [ ],
 	#componentNames : [
-		'common/Examples',
 		'common/Loader',
 		'common/Tests',
+		'Examples_examples',
 		'Examples_group',
 		'Loader_group',
 		'Projects_group',
