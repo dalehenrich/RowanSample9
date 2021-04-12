@@ -1,6 +1,6 @@
 RwSimpleNestedProjectLoadComponentV2 {
 	#name : 'tests/Tests',
-	#condition : 'test',
+	#condition : 'tests',
 	#projectNames : [ ],
 	#componentNames : [
 		'tests/platform/Tests'
