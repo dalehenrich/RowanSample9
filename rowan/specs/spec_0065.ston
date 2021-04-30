@@ -1,8 +1,8 @@
 RwLoadSpecificationV2 {
-	#specName : 'spec_0060',
+	#specName : 'spec_0065',
 	#projectName : 'RowanSample9',
 	#gitUrl : 'git@github.com:dalehenrich/RowanSample9.git',
-	#revision : 'spec_0060',
+	#revision : 'spec_0065',
 	#projectSpecFile : 'rowan/project.ston',
 	#componentNames : [
 		'Core'
@@ -17,5 +17,5 @@ RwLoadSpecificationV2 {
 			}
 		}
 	},
-	#comment : 'Start with spec_0001; add RowanSample10 as an external project ... based on genSpec_0052'
+	#comment : 'Start with spec_0060; replace external project RowanSample10 spec_0001 with spec_0002'
 }
