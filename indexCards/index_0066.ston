@@ -1,0 +1,13 @@
+RwTestProjectLibraryIndexCard {
+	#name : 'index_0066',
+	#title : 'Start with spec_0001; add RowanSample10, RowanSampleProjects11 and RowanSample12 as required projects',
+	#specName : 'spec_0066',
+	#index : 66,
+	#derivedFrom : 'spec_0001',
+	#comment : '',
+	#rowanIssues : [
+		701
+	],
+	#gemstoneIssues : [ ],
+	#rowanSHA : '31f85f24'
+}
