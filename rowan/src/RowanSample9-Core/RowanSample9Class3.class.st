@@ -3,7 +3,7 @@ I am an example class whose superclass is from a required project
 "
 Class {
 	#name : 'RowanSample9Class3',
-	#superclass : 'RowanSample11Class3',
+	#superclass : 'RowanSample11Class1',
 	#category : 'RowanSample9-Core'
 }
 
