@@ -2634,7 +2634,7 @@ RwLoadSpecificationV2 {
 	#platformProperties : {
 		'gemstone' : {
 			'allusers' : {
-				#defaultSymbolDictName : 'RowanSample9_1'
+				#defaultSymbolDictName : 'RowanSample9_2'
 			}
 		}
 	},
@@ -2652,7 +2652,7 @@ RwTestProjectLibraryIndexCard {
 		701
 	],
 	#gemstoneIssues : [ ],
-	#rowanSHA : '3a030ce8'
+	#rowanSHA : '760ec819'
 }
 ```
 
