@@ -28,7 +28,7 @@ RwTestProjectLibraryIndexCard {
 	#name : 'index_0065',
 	#title : 'Start with spec_0060; replace external project RowanSample10 spec_0001 with spec_0002',
 	#specName : 'spec_0065',
-	#index : 60,
+	#index : 65,
 	#derivedFrom : 'spec_0060',
 	#comment : '',
 	#rowanIssues : [
