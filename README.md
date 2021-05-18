@@ -2664,7 +2664,6 @@ RwLoadSpecificationV2 {
 	#revision : 'spec_0069',
 	#projectSpecFile : 'rowan/project.ston',
 	#componentNames : [
-		'Core',
 		'Parent'
 	],
 	#customConditionalAttributes : [
