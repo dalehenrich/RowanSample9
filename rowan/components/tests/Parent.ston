@@ -1,0 +1,10 @@
+RwSubcomponent {
+	#name : 'tests/Parent',
+	#condition : 'tests',
+	#projectNames : [ ],
+	#componentNames : [ ],
+	#packageNames : [
+		'RowanSample9-Parent-Tests'
+	],
+	#comment : ''
+}
