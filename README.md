@@ -10,7 +10,7 @@ The Bridge package has an AbstractRowanSample9BridgeClass1 class that is a subcl
 Each of the components in RowanSample9:spec_0069 has a corresponding test case that confirms the class structure.
 ```
 RwLoadSpecificationV2 {
-	#specName : 'spec_0069',
+	#specName : 'Parent',
 	#projectName : 'RowanSample9',
 	#gitUrl : 'git@github.com:dalehenrich/RowanSample9.git',
 	#revision : 'spec_0069',
