@@ -1,7 +1,7 @@
 RwLoadComponent {
 	#name : 'Parent',
 	#projectNames : [
-		'RowanSample12'
+		'RowanSample12_Parent'
 	],
 	#componentNames : [
 		'tests/Parent'

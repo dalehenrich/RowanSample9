@@ -1,5 +1,5 @@
 RwLoadSpecificationV2 {
-	#specName : 'RowanSample12',
+	#specName : 'RowanSample12_Parent',
 	#projectName : 'RowanSample12',
 	#gitUrl : 'git@github.com:dalehenrich/RowanSample12.git',
 	#revision : 'spec_0005',
