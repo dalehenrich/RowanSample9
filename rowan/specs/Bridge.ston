@@ -4,10 +4,7 @@ RwLoadSpecificationV2 {
 	#gitUrl : 'git@github.com:dalehenrich/RowanSample9.git',
 	#revision : 'spec_0069',
 	#projectSpecFile : 'rowan/project.ston',
-	#componentNames : [
-		'Parent',
-		'Bridge'
-	],
+	#componentNames : [ ],
 	#customConditionalAttributes : [
 		'tests'
 	],
