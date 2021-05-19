@@ -2,7 +2,7 @@ RwLoadComponent {
 	#name : 'Bridge',
 	#projectNames : [
 		'RowanSample11_Bridge',
-		'RowanSample12__Bridge'
+		'RowanSample12_Bridge'
 	],
 	#componentNames : [
 		'tests/Bridge'

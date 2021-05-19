@@ -1,7 +1,7 @@
 RwLoadSpecificationV2 {
-	#specName : 'RowanSample12__Bridge',
-	#projectName : 'RowanSample12_',
-	#gitUrl : 'git@github.com:dalehenrich/RowanSample12_.git',
+	#specName : 'RowanSample12_Bridge',
+	#projectName : 'RowanSample12',
+	#gitUrl : 'git@github.com:dalehenrich/RowanSample12.git',
 	#revision : 'spec_0006',
 	#projectSpecFile : 'rowan/project.ston',
 	#componentNames : [
