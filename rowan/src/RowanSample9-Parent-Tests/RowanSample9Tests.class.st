@@ -1,6 +1,6 @@
 Class {
 	#name : 'RowanSample9Tests',
-	#superclass : 'nil',
+	#superclass : 'TestCase',
 	#category : 'RowanSample9-Parent-Tests'
 }
 
