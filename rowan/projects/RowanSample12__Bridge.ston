@@ -1,0 +1,14 @@
+RwLoadSpecificationV2 {
+	#specName : 'RowanSample12__Bridge',
+	#projectName : 'RowanSample12_',
+	#gitUrl : 'git@github.com:dalehenrich/RowanSample12_.git',
+	#revision : 'spec_0006',
+	#projectSpecFile : 'rowan/project.ston',
+	#componentNames : [
+		'Core'
+	],
+	#customConditionalAttributes : [
+		'tests'
+	],
+	#comment : ''
+}

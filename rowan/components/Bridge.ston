@@ -1,0 +1,14 @@
+RwLoadComponent {
+	#name : 'Bridge',
+	#projectNames : [
+		'RowanSample11_Bridge',
+		'RowanSample12__Bridge'
+	],
+	#componentNames : [
+		'tests/Bridge'
+	],
+	#packageNames : [
+		'RowanSample9-Bridge'
+	],
+	#comment : ''
+}

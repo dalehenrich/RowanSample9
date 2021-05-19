@@ -1,0 +1,10 @@
+RwSubcomponent {
+	#name : 'tests/Bridge',
+	#condition : 'tests',
+	#projectNames : [ ],
+	#componentNames : [ ],
+	#packageNames : [
+		'RowanSample9-Bridge-Tests'
+	],
+	#comment : ''
+}
