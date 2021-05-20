@@ -5,5 +5,5 @@ Class {
 }
 
 { #category : 'tests' }
-RowanSample9Tests >> testClass1 [ self assert: AbstractRowanSample9BridgeClass1 new foo = 1
+RowanSample9Tests >> testClass1 [ self assert: RowanSample12ConcreteClass1 new foo = 1
 ]
