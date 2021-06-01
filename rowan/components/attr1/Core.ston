@@ -1,0 +1,12 @@
+RwSubcomponent {
+	#name : 'attr1/Core',
+	#condition : 'attr1',
+	#projectNames : [ ],
+	#componentNames : [
+		'attr1/tests/Core'
+	],
+	#packageNames : [
+		'RowanSample9-Core1'
+	],
+	#comment : ''
+}

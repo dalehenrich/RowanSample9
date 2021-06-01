@@ -1,11 +1,11 @@
-# RowanSample9 - spec_0001
-Bare bones package structure -Core and -Tests
+# RowanSample9 - spec_0070
+Start with spec_0001 (RowanSample9) add 2 more components: attr1/Core1 that adds the class RowanSample9Class2 as a subclass of RowanSample9Class1 and attr2/Core2 that adds the class RowanSample9Class3 as a subclass of RowanSampleClass1. Tests are included by attr1/tests/Core1 and attr2/tests/Core2 The custom conditional attributes attr1 and attr2 are used to control  whether or not the classes are loaded. By default the attribute list includes only tests.
 ```
 RwLoadSpecificationV2 {
-	#specName : 'spec_0001',
+	#specName : 'spec_0070',
 	#projectName : 'RowanSample9',
 	#gitUrl : 'git@github.com:dalehenrich/RowanSample9.git',
-	#revision : 'spec_0001',
+	#revision : 'spec_0070',
 	#projectSpecFile : 'rowan/project.ston',
 	#componentNames : [
 		'Core'
@@ -20,21 +20,21 @@ RwLoadSpecificationV2 {
 			}
 		}
 	},
-	#comment : 'Bare bones package structure -Core and -Tests'
+	#comment : 'Start with spec_0001 (RowanSample9) add 2 more components: attr1/Core1 that adds the class RowanSample9Class2 as a subclass of RowanSample9Class1 and attr2/Core2 that adds the class RowanSample9Class3 as a subclass of RowanSampleClass1. Tests are included by attr1/tests/Core1 and attr2/tests/Core2 The custom conditional attributes attr1 and attr2 are used to control  whether or not the classes are loaded. By default the attribute list includes only tests.'
 }
 
 RwTestProjectLibraryIndexCard {
-	#name : 'index_0001',
-	#title : 'Bare bones package structure -Core and -Tests',
-	#specName : 'spec_0001',
-	#index : 1,
-	#derivedFrom : 'spec_0000',
-	#comment : 'One class per package: RowanSample9-Core and RowanSample9-Tests packages',
+	#name : 'index_0070',
+	#title : 'Start with spec_0001 (RowanSample9) add 2 more components: attr1/Core1 that adds the class RowanSample9Class2 as a subclass of RowanSample9Class1 and attr2/Core2 that adds the class RowanSample9Class3 as a subclass of RowanSampleClass1. Tests are included by attr1/tests/Core1 and attr2/tests/Core2 The custom conditional attributes attr1 and attr2 are used to control  whether or not the classes are loaded. By default the attribute list includes only tests.',
+	#specName : 'spec_0070',
+	#index : 70,
+	#derivedFrom : 'spec_0001',
+	#comment : '',
 	#rowanIssues : [
-		527
+		711
 	],
 	#gemstoneIssues : [ ],
-	#rowanSHA : '440eab25'
+	#rowanSHA : '4494d120'
 }
 ```
 

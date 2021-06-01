@@ -1,0 +1,13 @@
+RwTestProjectLibraryIndexCard {
+	#name : 'index_0070',
+	#title : 'Start with spec_0001 (RowanSample9) add 2 more components: attr1/Core1 that adds the class RowanSample9Class2 as a subclass of RowanSample9Class1 and attr2/Core2 that adds the class RowanSample9Class3 as a subclass of RowanSampleClass1. Tests are included by attr1/tests/Core1 and attr2/tests/Core2 The custom conditional attributes attr1 and attr2 are used to control  whether or not the classes are loaded. By default the attribute list includes only tests.',
+	#specName : 'spec_0070',
+	#index : 70,
+	#derivedFrom : 'spec_0001',
+	#comment : '',
+	#rowanIssues : [
+		711
+	],
+	#gemstoneIssues : [ ],
+	#rowanSHA : '4494d120'
+}
