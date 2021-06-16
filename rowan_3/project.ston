@@ -1,0 +1,9 @@
+RwProjectSpecificationV2 {
+	#specName : 'project',
+	#componentsPath : 'components',
+	#packagesPath : 'src',
+	#projectsPath : 'projects',
+	#specsPath : 'specs',
+	#packageFormat : 'tonel',
+	#comment : ''
+}

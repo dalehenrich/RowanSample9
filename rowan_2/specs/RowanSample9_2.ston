@@ -1,11 +1,11 @@
 RwLoadSpecificationV2 {
-	#specName : 'RowanSample9_3',
-	#projectName : 'RowanSample9_3',
+	#specName : 'RowanSample9_2',
+	#projectName : 'RowanSample9_2',
 	#projectAlias : 'RowanSample9',
 	#gitUrl : 'git@github.com:dalehenrich/RowanSample9.git',
-	#relativeRepositoryRoot : 'rowan_3',
+	#relativeRepositoryRoot : 'rowan_2',
 	#revision : 'spec_0025',
-	#projectSpecFile : 'rowan/project.ston',
+	#projectSpecFile : 'project.ston',
 	#componentNames : [
 		'Core'
 	],
