@@ -1,5 +1,5 @@
 # RowanSample9 - spec_0025
-Start with  spec_0001, add 3 embedded projects
+Start with  spec_0001, add 3 additional projects, using relativeRepositoryRoot to distinquish between projects
 ```
 RwLoadSpecificationV2 {
 	#specName : 'spec_0025',
@@ -20,18 +20,19 @@ RwLoadSpecificationV2 {
 			}
 		}
 	},
-	#comment : 'Start with  spec_0001, add 3 embedded projects'
+	#comment : 'Start with  spec_0001, add 3 additional projects, using relativeRepositoryRoot to distinquish between projects'
 }
 
 RwTestProjectLibraryIndexCard {
 	#name : 'index_0025',
-	#title : 'Start with  spec_0001, add 3 embedded projects',
+	#title : 'Start with  spec_0001, add 3 additional projects, using relativeRepositoryRoot to distinquish between projects',
 	#specName : 'spec_0025',
 	#index : 25,
 	#derivedFrom : 'spec_0001',
 	#comment : '',
 	#rowanIssues : [
-		571
+		571,
+		714
 	],
 	#gemstoneIssues : [ ],
 	#rowanSHA : 'd53c0b2f'
