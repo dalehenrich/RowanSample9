@@ -5,7 +5,7 @@ RwLoadSpecificationV2 {
 	#gitUrl : 'git@github.com:dalehenrich/RowanSample9.git',
 	#relativeRepositoryRoot : 'rowan_2',
 	#revision : 'spec_0025',
-	#projectSpecFile : 'rowan_2/rowan/project.ston',
+	#projectSpecFile : 'rowan/project.ston',
 	#componentNames : [
 		'Core'
 	],
