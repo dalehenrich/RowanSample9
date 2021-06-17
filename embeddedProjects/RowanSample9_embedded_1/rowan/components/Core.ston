@@ -1,0 +1,14 @@
+RwSimpleProjectLoadComponentV2 {
+	#name : 'Core',
+	#condition : 'common',
+	#projectNames : [ ],
+	#componentNames : [
+		'GemStone24x/Core',
+		'GemStone3x/Core',
+		'tests/Tests'
+	],
+	#packageNames : [
+		'RowanSample9_embedded_1-Core'
+	],
+	#comment : ''
+}
