@@ -2023,12 +2023,12 @@ RwLoadSpecificationV2 {
 			}
 		}
 	},
-	#comment : 'Start with spec_0001; add an embedded project that is basically a copy of spec_001; and adjust class in primary project be a subclass of class in embedded project'
+	#comment : 'Start with spec_0001; add an additional project using relativeRepositoryRoot that is basically a copy of spec_001; and adjust class in primary project be a subclass of class in additional project'
 }
 
 RwTestProjectLibraryIndexCard {
 	#name : 'index_0052',
-	#title : 'Start with spec_0001; add an embedded project that is basically a copy of spec_001; and adjust class in primary project be a subclass of class in embedded project',
+	#title : 'Start with spec_0001; add an additional project using relativeRepositoryRoot that is basically a copy of spec_001; and adjust class in primary project be a subclass of class in additional project',
 	#specName : 'spec_0052',
 	#index : 52,
 	#derivedFrom : 'spec_0001',
