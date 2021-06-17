@@ -1,10 +1,11 @@
-RwEmbeddedLoadSpecificationV2 {
+RwLoadSpecificationV2 {
 	#specName : 'RowanSample9_embedded_1',
 	#projectName : 'RowanSample9_embedded_1',
 	#projectAlias : 'RowanSample9',
 	#gitUrl : 'git@github.com:dalehenrich/RowanSample9.git',
+	#relativeRepositoryRoot : 'embeddedProjects/RowanSample9_embedded_1',
 	#revision : 'spec_0053',
-	#projectSpecFile : 'embededProjects/RowanSample9_embedded_1/rowan/project.ston',
+	#projectSpecFile : 'rowan/project.ston',
 	#componentNames : [
 		'Core'
 	],
