@@ -1,0 +1,13 @@
+RwTestProjectLibraryIndexCard {
+	#name : 'index_0071',
+	#title : 'Start with spec_0000 and create a directory structure that is offset by one directory deeper from git root. Enable me to play games with differences between git root and repository root.',
+	#specName : 'spec_0071',
+	#index : 71,
+	#derivedFrom : 'spec_0000',
+	#comment : '',
+	#rowanIssues : [
+		714
+	],
+	#gemstoneIssues : [ ],
+	#rowanSHA : '1fde57bd'
+}
