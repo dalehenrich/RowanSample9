@@ -1,5 +1,5 @@
 # RowanSample9 - spec_0054
-Start with spec_0052; add platform conditional packages to the embedded project and the primary project.
+Start with spec_0052; add platform conditional packages to the embedded project (using relativeRepositoryRoot) and the primary project.
 ```
 RwLoadSpecificationV2 {
 	#specName : 'spec_0054',
@@ -20,12 +20,12 @@ RwLoadSpecificationV2 {
 			}
 		}
 	},
-	#comment : 'Start with spec_0052; add platform conditional packages to the embedded project and the primary project.'
+	#comment : 'Start with spec_0052; add platform conditional packages to the embedded project (using relativeRepositoryRoot) and the primary project.'
 }
 
 RwTestProjectLibraryIndexCard {
 	#name : 'index_0054',
-	#title : 'Start with spec_0052; add platform conditional packages to the embedded project and the primary project.',
+	#title : 'Start with spec_0052; add platform conditional packages to the embedded project (using relativeRepositoryRoot) and the primary project.',
 	#specName : 'spec_0054',
 	#index : 54,
 	#derivedFrom : 'spec_0052',
