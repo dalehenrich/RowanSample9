@@ -2138,12 +2138,12 @@ RwLoadSpecificationV2 {
 			}
 		}
 	},
-	#comment : 'Start with spec_0052; add platform conditional packages (GemStone version 2.4.0) to the embedded project and the primary project.'
+	#comment : 'Start with spec_0052; add platform conditional packages (GemStone version 2.4.0) to the embedded project (using relativeRepositoryRoot) and the primary project.'
 }
 
 RwTestProjectLibraryIndexCard {
 	#name : 'index_0055',
-	#title : 'Start with spec_0052; add platform conditional packages (GemStone version 2.4.0) to the embedded project and the primary project.',
+	#title : 'Start with spec_0052; add platform conditional packages (GemStone version 2.4.0) to the embedded project (using relativeRepositoryRoot) and the primary project.',
 	#specName : 'spec_0055',
 	#index : 55,
 	#derivedFrom : 'spec_0052',
