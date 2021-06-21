@@ -2062,12 +2062,12 @@ RwLoadSpecificationV2 {
 			}
 		}
 	},
-	#comment : 'Start with spec_0052; add instance side method #ivar1 referencing inherited ivar to class in primary project'
+	#comment : 'Start with spec_0052; add instance side method #ivar1 referencing inherited ivar to class in primary project; add instance method #ivar1_embedded to class in embedded project'
 }
 
 RwTestProjectLibraryIndexCard {
 	#name : 'index_0053',
-	#title : 'Start with spec_0052; add instance side method #ivar1 referencing inherited ivar to class in primary project',
+	#title : 'Start with spec_0052; add instance side method #ivar1 referencing inherited ivar to class in primary project; add instance method #ivar1_embedded to class in embedded project',
 	#specName : 'spec_0053',
 	#index : 53,
 	#derivedFrom : 'spec_0052',
@@ -2076,7 +2076,7 @@ RwTestProjectLibraryIndexCard {
 		591
 	],
 	#gemstoneIssues : [ ],
-	#rowanSHA : '440eab25'
+	#rowanSHA : 'e8106ddb'
 }
 ```
 ### spec_0054
