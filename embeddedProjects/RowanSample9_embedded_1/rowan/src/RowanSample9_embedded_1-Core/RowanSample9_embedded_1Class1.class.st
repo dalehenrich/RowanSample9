@@ -13,3 +13,7 @@ Class {
 { #category : 'accessing' }
 RowanSample9_embedded_1Class1 >> foo [ ^1
 ]
+
+{ #category : 'accessing' }
+RowanSample9_embedded_1Class1 >> ivar1_embedded [ ^ ivar1
+]
