@@ -1,0 +1,12 @@
+RwSimpleProjectLoadComponentV2 {
+	#name : 'Core3',
+	#condition : 'common',
+	#projectNames : [ ],
+	#componentNames : [
+		'Core1'
+	],
+	#packageNames : [
+		'RowanSample9-Core1'
+	],
+	#comment : 'contains RowanSample9-Core1 package, which is a duplicate reference, since the Core1 component also references the RowanSample9-Core1 package'
+}
