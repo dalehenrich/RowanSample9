@@ -161,7 +161,8 @@ RwLoadSpecificationV2 {
 	#revision : 'spec_0004',
 	#projectSpecFile : 'rowan/project.ston',
 	#componentNames : [
-		'Core1'
+		'Core1',
+		'Core2'
 	],
 	#customConditionalAttributes : [
 		'tests'
@@ -188,7 +189,7 @@ RwTestProjectLibraryIndexCard {
 		531
 	],
 	#gemstoneIssues : [ ],
-	#rowanSHA : '440eab25'
+	#rowanSHA : '0b05d4bad'
 }
 ```
 ### [spec_0004_b](https://github.com/dalehenrich/RowanSample9/tree/spec_0004_b)
