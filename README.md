@@ -32,7 +32,7 @@ RwTestProjectLibraryIndexCard {
 	#comment : '',
 	#rowanIssues : [ ],
 	#gemstoneIssues : [ ],
-	#rowanSHA : 'beab7f2e'
+	#rowanSHA : '0b05d4bad'
 }
 ```
 
