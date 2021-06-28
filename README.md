@@ -34,7 +34,7 @@ RwTestProjectLibraryIndexCard {
 		680
 	],
 	#gemstoneIssues : [ ],
-	#rowanSHA : 'baa52c0c'
+	#rowanSHA : '0b05d4bad'
 }
 ```
 
