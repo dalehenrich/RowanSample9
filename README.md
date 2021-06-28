@@ -1,7 +1,7 @@
 # RowanSample9
 Sample project that is being used to develop the **final** version of the V2.0 project handling API.
 ## Summary of Load Specs
-### spec_0000
+### [spec_0000](https://github.com/dalehenrich/RowanSample9/tree/spec_0000)
 ```
 RwLoadSpecificationV2 {
 	#specName : 'spec_0000',
@@ -34,10 +34,10 @@ RwTestProjectLibraryIndexCard {
 	#comment : '',
 	#rowanIssues : [ ],
 	#gemstoneIssues : [ ],
-	#rowanSHA : '440eab25'
+	#rowanSHA : '0b05d4bad'
 }
 ```
-### spec_0001
+### [spec_0001](https://github.com/dalehenrich/RowanSample9/tree/spec_0001)
 ```
 RwLoadSpecificationV2 {
 	#specName : 'spec_0001',
@@ -75,7 +75,7 @@ RwTestProjectLibraryIndexCard {
 	#rowanSHA : '440eab25'
 }
 ```
-### spec_0002
+### [spec_0002](https://github.com/dalehenrich/RowanSample9/tree/spec_0002)
 ```
 RwLoadSpecificationV2 {
 	#specName : 'spec_0002',
@@ -114,7 +114,7 @@ RwTestProjectLibraryIndexCard {
 	#rowanSHA : '440eab25'
 }
 ```
-### spec_0003
+### [spec_0003](https://github.com/dalehenrich/RowanSample9/tree/spec_0003)
 ```
 RwLoadSpecificationV2 {
 	#specName : 'spec_0003',
@@ -152,7 +152,7 @@ RwTestProjectLibraryIndexCard {
 	#rowanSHA : '440eab25'
 }
 ```
-### spec_0004
+### [spec_0004](https://github.com/dalehenrich/RowanSample9/tree/spec_0004)
 ```
 RwLoadSpecificationV2 {
 	#specName : 'spec_0004',
@@ -191,7 +191,7 @@ RwTestProjectLibraryIndexCard {
 	#rowanSHA : '440eab25'
 }
 ```
-### spec_0004_b
+### [spec_0004_b](https://github.com/dalehenrich/RowanSample9/tree/spec_0004_b)
 ```
 RwLoadSpecificationV2 {
 	#specName : 'spec_0004_b',
@@ -229,7 +229,7 @@ RwTestProjectLibraryIndexCard {
 	#rowanSHA : '440eab25'
 }
 ```
-### spec_0005
+### [spec_0005](https://github.com/dalehenrich/RowanSample9/tree/spec_0005)
 ```
 RwLoadSpecificationV2 {
 	#specName : 'spec_0005',
@@ -267,7 +267,7 @@ RwTestProjectLibraryIndexCard {
 	#rowanSHA : '440eab25'
 }
 ```
-### spec_0006
+### [spec_0006](https://github.com/dalehenrich/RowanSample9/tree/spec_0006)
 ```
 RwLoadSpecificationV2 {
 	#specName : 'spec_0006',
@@ -305,7 +305,7 @@ RwTestProjectLibraryIndexCard {
 	#rowanSHA : '440eab25'
 }
 ```
-### spec_0007
+### [spec_0007](https://github.com/dalehenrich/RowanSample9/tree/spec_0007)
 ```
 RwLoadSpecificationV2 {
 	#specName : 'spec_0007',
@@ -343,7 +343,7 @@ RwTestProjectLibraryIndexCard {
 	#rowanSHA : '440eab25'
 }
 ```
-### spec_0008
+### [spec_0008](https://github.com/dalehenrich/RowanSample9/tree/spec_0008)
 ```
 RwLoadSpecificationV2 {
 	#specName : 'spec_0008',
@@ -381,7 +381,7 @@ RwTestProjectLibraryIndexCard {
 	#rowanSHA : '440eab25'
 }
 ```
-### spec_0009
+### [spec_0009](https://github.com/dalehenrich/RowanSample9/tree/spec_0009)
 ```
 RwLoadSpecificationV2 {
 	#specName : 'spec_0009',
@@ -419,7 +419,7 @@ RwTestProjectLibraryIndexCard {
 	#rowanSHA : '440eab25'
 }
 ```
-### spec_0010
+### [spec_0010](https://github.com/dalehenrich/RowanSample9/tree/spec_0010)
 ```
 RwLoadSpecificationV2 {
 	#specName : 'spec_0010',
@@ -457,7 +457,7 @@ RwTestProjectLibraryIndexCard {
 	#rowanSHA : '440eab25'
 }
 ```
-### spec_0011
+### [spec_0011](https://github.com/dalehenrich/RowanSample9/tree/spec_0011)
 ```
 RwLoadSpecificationV2 {
 	#specName : 'spec_0011',
@@ -495,7 +495,7 @@ RwTestProjectLibraryIndexCard {
 	#rowanSHA : '440eab25'
 }
 ```
-### spec_0012
+### [spec_0012](https://github.com/dalehenrich/RowanSample9/tree/spec_0012)
 ```
 RwLoadSpecificationV2 {
 	#specName : 'spec_0012',
@@ -533,7 +533,7 @@ RwTestProjectLibraryIndexCard {
 	#rowanSHA : '440eab25'
 }
 ```
-### spec_0013
+### [spec_0013](https://github.com/dalehenrich/RowanSample9/tree/spec_0013)
 ```
 RwLoadSpecificationV2 {
 	#specName : 'spec_0013',
@@ -571,7 +571,7 @@ RwTestProjectLibraryIndexCard {
 	#rowanSHA : '440eab25'
 }
 ```
-### spec_0014
+### [spec_0014](https://github.com/dalehenrich/RowanSample9/tree/spec_0014)
 ```
 RwLoadSpecificationV2 {
 	#specName : 'spec_0014',
@@ -609,7 +609,7 @@ RwTestProjectLibraryIndexCard {
 	#rowanSHA : '440eab25'
 }
 ```
-### spec_0015
+### [spec_0015](https://github.com/dalehenrich/RowanSample9/tree/spec_0015)
 ```
 RwLoadSpecificationV2 {
 	#specName : 'spec_0015',
@@ -647,7 +647,7 @@ RwTestProjectLibraryIndexCard {
 	#rowanSHA : '440eab25'
 }
 ```
-### spec_0016
+### [spec_0016](https://github.com/dalehenrich/RowanSample9/tree/spec_0016)
 ```
 RwLoadSpecificationV2 {
 	#specName : 'spec_0016',
@@ -685,7 +685,7 @@ RwTestProjectLibraryIndexCard {
 	#rowanSHA : '440eab25'
 }
 ```
-### spec_0017
+### [spec_0017](https://github.com/dalehenrich/RowanSample9/tree/spec_0017)
 ```
 RwLoadSpecificationV2 {
 	#specName : 'spec_0017',
@@ -723,7 +723,7 @@ RwTestProjectLibraryIndexCard {
 	#rowanSHA : '440eab25'
 }
 ```
-### spec_0018
+### [spec_0018](https://github.com/dalehenrich/RowanSample9/tree/spec_0018)
 ```
 RwLoadSpecificationV2 {
 	#specName : 'spec_0018',
@@ -752,7 +752,7 @@ RwTestProjectLibraryIndexCard {
 	#rowanSHA : '440eab25'
 }
 ```
-### spec_0019
+### [spec_0019](https://github.com/dalehenrich/RowanSample9/tree/spec_0019)
 ```
 RwLoadSpecificationV2 {
 	#specName : 'spec_0019',
@@ -790,7 +790,7 @@ RwTestProjectLibraryIndexCard {
 	#rowanSHA : '440eab25'
 }
 ```
-### spec_0020
+### [spec_0020](https://github.com/dalehenrich/RowanSample9/tree/spec_0020)
 ```
 RwLoadSpecificationV2 {
 	#specName : 'spec_0020',
@@ -828,7 +828,7 @@ RwTestProjectLibraryIndexCard {
 	#rowanSHA : '440eab25'
 }
 ```
-### spec_0021
+### [spec_0021](https://github.com/dalehenrich/RowanSample9/tree/spec_0021)
 ```
 RwLoadSpecificationV2 {
 	#specName : 'spec_0021',
@@ -866,7 +866,7 @@ RwTestProjectLibraryIndexCard {
 	#rowanSHA : '440eab25'
 }
 ```
-### spec_0022
+### [spec_0022](https://github.com/dalehenrich/RowanSample9/tree/spec_0022)
 ```
 RwLoadSpecificationV2 {
 	#specName : 'spec_0022',
@@ -904,7 +904,7 @@ RwTestProjectLibraryIndexCard {
 	#rowanSHA : '440eab25'
 }
 ```
-### spec_0023
+### [spec_0023](https://github.com/dalehenrich/RowanSample9/tree/spec_0023)
 ```
 RwLoadSpecificationV2 {
 	#specName : 'spec_0023',
@@ -942,7 +942,7 @@ RwTestProjectLibraryIndexCard {
 	#rowanSHA : 'd53c0b2f'
 }
 ```
-### spec_0024
+### [spec_0024](https://github.com/dalehenrich/RowanSample9/tree/spec_0024)
 ```
 RwLoadSpecificationV2 {
 	#specName : 'spec_0024',
@@ -980,7 +980,7 @@ RwTestProjectLibraryIndexCard {
 	#rowanSHA : '716aa5be'
 }
 ```
-### spec_0025
+### [spec_0025](https://github.com/dalehenrich/RowanSample9/tree/spec_0025)
 ```
 RwLoadSpecificationV2 {
 	#specName : 'spec_0025',
@@ -1019,7 +1019,7 @@ RwTestProjectLibraryIndexCard {
 	#rowanSHA : '29cf8d8d'
 }
 ```
-### spec_0026
+### [spec_0026](https://github.com/dalehenrich/RowanSample9/tree/spec_0026)
 ```
 RwLoadSpecificationV2 {
 	#specName : 'spec_0026',
@@ -1057,7 +1057,7 @@ RwTestProjectLibraryIndexCard {
 	#rowanSHA : '440eab25'
 }
 ```
-### spec_0027
+### [spec_0027](https://github.com/dalehenrich/RowanSample9/tree/spec_0027)
 ```
 RwLoadSpecificationV2 {
 	#specName : 'spec_0027',
@@ -1095,7 +1095,7 @@ RwTestProjectLibraryIndexCard {
 	#rowanSHA : '440eab25'
 }
 ```
-### spec_0028
+### [spec_0028](https://github.com/dalehenrich/RowanSample9/tree/spec_0028)
 ```
 RwLoadSpecificationV2 {
 	#specName : 'spec_0028',
@@ -1133,7 +1133,7 @@ RwTestProjectLibraryIndexCard {
 	#rowanSHA : '440eab25'
 }
 ```
-### spec_0029
+### [spec_0029](https://github.com/dalehenrich/RowanSample9/tree/spec_0029)
 ```
 RwLoadSpecificationV2 {
 	#specName : 'spec_0029',
@@ -1171,7 +1171,7 @@ RwTestProjectLibraryIndexCard {
 	#rowanSHA : '440eab25'
 }
 ```
-### spec_0030
+### [spec_0030](https://github.com/dalehenrich/RowanSample9/tree/spec_0030)
 ```
 RwLoadSpecificationV2 {
 	#specName : 'spec_0030',
@@ -1209,7 +1209,7 @@ RwTestProjectLibraryIndexCard {
 	#rowanSHA : '440eab25'
 }
 ```
-### spec_0031
+### [spec_0031](https://github.com/dalehenrich/RowanSample9/tree/spec_0031)
 ```
 RwLoadSpecificationV2 {
 	#specName : 'spec_0031',
@@ -1247,7 +1247,7 @@ RwTestProjectLibraryIndexCard {
 	#rowanSHA : '440eab25'
 }
 ```
-### spec_0032
+### [spec_0032](https://github.com/dalehenrich/RowanSample9/tree/spec_0032)
 ```
 RwLoadSpecificationV2 {
 	#specName : 'spec_0032',
@@ -1288,7 +1288,7 @@ RwTestProjectLibraryIndexCard {
 	#rowanSHA : '440eab25'
 }
 ```
-### spec_0033
+### [spec_0033](https://github.com/dalehenrich/RowanSample9/tree/spec_0033)
 ```
 RwLoadSpecificationV2 {
 	#specName : 'spec_0033',
@@ -1327,7 +1327,7 @@ RwTestProjectLibraryIndexCard {
 	#rowanSHA : '440eab25'
 }
 ```
-### spec_0034
+### [spec_0034](https://github.com/dalehenrich/RowanSample9/tree/spec_0034)
 ```
 RwLoadSpecificationV2 {
 	#specName : 'spec_0034',
@@ -1361,7 +1361,7 @@ RwTestProjectLibraryIndexCard {
 	#rowanSHA : '440eab25'
 }
 ```
-### spec_0035
+### [spec_0035](https://github.com/dalehenrich/RowanSample9/tree/spec_0035)
 ```
 RwLoadSpecificationV2 {
 	#specName : 'spec_0035',
@@ -1395,7 +1395,7 @@ RwTestProjectLibraryIndexCard {
 	#rowanSHA : '440eab25'
 }
 ```
-### spec_0036
+### [spec_0036](https://github.com/dalehenrich/RowanSample9/tree/spec_0036)
 ```
 RwLoadSpecificationV2 {
 	#specName : 'spec_0036',
@@ -1429,7 +1429,7 @@ RwTestProjectLibraryIndexCard {
 	#rowanSHA : '440eab25'
 }
 ```
-### spec_0037
+### [spec_0037](https://github.com/dalehenrich/RowanSample9/tree/spec_0037)
 ```
 RwLoadSpecificationV2 {
 	#specName : 'spec_0037',
@@ -1467,7 +1467,7 @@ RwTestProjectLibraryIndexCard {
 	#rowanSHA : '440eab25'
 }
 ```
-### spec_0038
+### [spec_0038](https://github.com/dalehenrich/RowanSample9/tree/spec_0038)
 ```
 RwLoadSpecificationV2 {
 	#specName : 'spec_0038',
@@ -1505,7 +1505,7 @@ RwTestProjectLibraryIndexCard {
 	#rowanSHA : '440eab25'
 }
 ```
-### spec_0039
+### [spec_0039](https://github.com/dalehenrich/RowanSample9/tree/spec_0039)
 ```
 RwLoadSpecificationV2 {
 	#specName : 'spec_0039',
@@ -1543,7 +1543,7 @@ RwTestProjectLibraryIndexCard {
 	#rowanSHA : '440eab25'
 }
 ```
-### spec_0040
+### [spec_0040](https://github.com/dalehenrich/RowanSample9/tree/spec_0040)
 ```
 RwLoadSpecificationV2 {
 	#specName : 'spec_0040',
@@ -1581,7 +1581,7 @@ RwTestProjectLibraryIndexCard {
 	#rowanSHA : '440eab25'
 }
 ```
-### spec_0041
+### [spec_0041](https://github.com/dalehenrich/RowanSample9/tree/spec_0041)
 ```
 RwLoadSpecificationV2 {
 	#specName : 'spec_0041',
@@ -1619,7 +1619,7 @@ RwTestProjectLibraryIndexCard {
 	#rowanSHA : '440eab25'
 }
 ```
-### spec_0042
+### [spec_0042](https://github.com/dalehenrich/RowanSample9/tree/spec_0042)
 ```
 RwLoadSpecificationV2 {
 	#specName : 'spec_0042',
@@ -1657,7 +1657,7 @@ RwTestProjectLibraryIndexCard {
 	#rowanSHA : '440eab25'
 }
 ```
-### spec_0043
+### [spec_0043](https://github.com/dalehenrich/RowanSample9/tree/spec_0043)
 ```
 RwLoadSpecificationV2 {
 	#specName : 'spec_0043',
@@ -1695,7 +1695,7 @@ RwTestProjectLibraryIndexCard {
 	#rowanSHA : '440eab25'
 }
 ```
-### spec_0044
+### [spec_0044](https://github.com/dalehenrich/RowanSample9/tree/spec_0044)
 ```
 RwLoadSpecificationV2 {
 	#specName : 'spec_0044',
@@ -1733,7 +1733,7 @@ RwTestProjectLibraryIndexCard {
 	#rowanSHA : '440eab25'
 }
 ```
-### spec_0045
+### [spec_0045](https://github.com/dalehenrich/RowanSample9/tree/spec_0045)
 ```
 RwLoadSpecificationV2 {
 	#specName : 'spec_0045',
@@ -1771,7 +1771,7 @@ RwTestProjectLibraryIndexCard {
 	#rowanSHA : '440eab25'
 }
 ```
-### spec_0046
+### [spec_0046](https://github.com/dalehenrich/RowanSample9/tree/spec_0046)
 ```
 RwLoadSpecificationV2 {
 	#specName : 'spec_0046',
@@ -1809,7 +1809,7 @@ RwTestProjectLibraryIndexCard {
 	#rowanSHA : '440eab25'
 }
 ```
-### spec_0047
+### [spec_0047](https://github.com/dalehenrich/RowanSample9/tree/spec_0047)
 ```
 RwLoadSpecificationV2 {
 	#specName : 'spec_0047',
@@ -1847,7 +1847,7 @@ RwTestProjectLibraryIndexCard {
 	#rowanSHA : '440eab25'
 }
 ```
-### spec_0048
+### [spec_0048](https://github.com/dalehenrich/RowanSample9/tree/spec_0048)
 ```
 RwLoadSpecificationV2 {
 	#specName : 'spec_0048',
@@ -1887,7 +1887,7 @@ RwTestProjectLibraryIndexCard {
 	#rowanSHA : '440eab25'
 }
 ```
-### spec_0049
+### [spec_0049](https://github.com/dalehenrich/RowanSample9/tree/spec_0049)
 ```
 RwLoadSpecificationV2 {
 	#specName : 'spec_0049',
@@ -1926,7 +1926,7 @@ RwTestProjectLibraryIndexCard {
 	#rowanSHA : '440eab25'
 }
 ```
-### spec_0050
+### [spec_0050](https://github.com/dalehenrich/RowanSample9/tree/spec_0050)
 ```
 RwLoadSpecificationV2 {
 	#specName : 'spec_0050',
@@ -1964,7 +1964,7 @@ RwTestProjectLibraryIndexCard {
 	#rowanSHA : '440eab25'
 }
 ```
-### spec_0051
+### [spec_0051](https://github.com/dalehenrich/RowanSample9/tree/spec_0051)
 ```
 RwLoadSpecificationV2 {
 	#specName : 'spec_0051',
@@ -2002,7 +2002,7 @@ RwTestProjectLibraryIndexCard {
 	#rowanSHA : '440eab25'
 }
 ```
-### spec_0052
+### [spec_0052](https://github.com/dalehenrich/RowanSample9/tree/spec_0052)
 ```
 RwLoadSpecificationV2 {
 	#specName : 'spec_0052',
@@ -2041,7 +2041,7 @@ RwTestProjectLibraryIndexCard {
 	#rowanSHA : '440eab25'
 }
 ```
-### spec_0053
+### [spec_0053](https://github.com/dalehenrich/RowanSample9/tree/spec_0053)
 ```
 RwLoadSpecificationV2 {
 	#specName : 'spec_0053',
@@ -2079,7 +2079,7 @@ RwTestProjectLibraryIndexCard {
 	#rowanSHA : 'e8106ddb'
 }
 ```
-### spec_0054
+### [spec_0054](https://github.com/dalehenrich/RowanSample9/tree/spec_0054)
 ```
 RwLoadSpecificationV2 {
 	#specName : 'spec_0054',
@@ -2117,7 +2117,7 @@ RwTestProjectLibraryIndexCard {
 	#rowanSHA : '440eab25'
 }
 ```
-### spec_0055
+### [spec_0055](https://github.com/dalehenrich/RowanSample9/tree/spec_0055)
 ```
 RwLoadSpecificationV2 {
 	#specName : 'spec_0055',
@@ -2155,7 +2155,7 @@ RwTestProjectLibraryIndexCard {
 	#rowanSHA : '440eab25'
 }
 ```
-### spec_0056
+### [spec_0056](https://github.com/dalehenrich/RowanSample9/tree/spec_0056)
 ```
 RwLoadSpecificationV2 {
 	#specName : 'spec_0056',
@@ -2193,7 +2193,7 @@ RwTestProjectLibraryIndexCard {
 	#rowanSHA : '440eab25'
 }
 ```
-### spec_0057
+### [spec_0057](https://github.com/dalehenrich/RowanSample9/tree/spec_0057)
 ```
 RwLoadSpecificationV2 {
 	#specName : 'spec_0057',
@@ -2229,7 +2229,7 @@ RwTestProjectLibraryIndexCard {
 	#rowanSHA : 'beab7f2e'
 }
 ```
-### spec_0058
+### [spec_0058](https://github.com/dalehenrich/RowanSample9/tree/spec_0058)
 ```
 RwLoadSpecificationV2 {
 	#specName : 'spec_0058',
@@ -2265,7 +2265,7 @@ RwTestProjectLibraryIndexCard {
 	#rowanSHA : '3c75c5c4'
 }
 ```
-### spec_0059
+### [spec_0059](https://github.com/dalehenrich/RowanSample9/tree/spec_0059)
 ```
 RwLoadSpecificationV2 {
 	#specName : 'spec_0059',
@@ -2304,7 +2304,7 @@ RwTestProjectLibraryIndexCard {
 	#rowanSHA : '4dd378c7'
 }
 ```
-### spec_0060
+### [spec_0060](https://github.com/dalehenrich/RowanSample9/tree/spec_0060)
 ```
 RwLoadSpecificationV2 {
 	#specName : 'spec_0060',
@@ -2342,7 +2342,7 @@ RwTestProjectLibraryIndexCard {
 	#rowanSHA : '31f85f24'
 }
 ```
-### spec_0061
+### [spec_0061](https://github.com/dalehenrich/RowanSample9/tree/spec_0061)
 ```
 RwLoadSpecificationV2 {
 	#specName : 'spec_0061',
@@ -2383,7 +2383,7 @@ RwTestProjectLibraryIndexCard {
 	#rowanSHA : 'baa52c0c'
 }
 ```
-### spec_0062
+### [spec_0062](https://github.com/dalehenrich/RowanSample9/tree/spec_0062)
 ```
 RwLoadSpecificationV2 {
 	#specName : 'spec_0062',
@@ -2424,7 +2424,7 @@ RwTestProjectLibraryIndexCard {
 	#rowanSHA : 'baa52c0c'
 }
 ```
-### spec_0063
+### [spec_0063](https://github.com/dalehenrich/RowanSample9/tree/spec_0063)
 ```
 RwLoadSpecificationV2 {
 	#specName : 'spec_0063',
@@ -2465,7 +2465,7 @@ RwTestProjectLibraryIndexCard {
 	#rowanSHA : 'baa52c0c'
 }
 ```
-### spec_0064
+### [spec_0064](https://github.com/dalehenrich/RowanSample9/tree/spec_0064)
 ```
 RwLoadSpecificationV2 {
 	#specName : 'spec_0064',
@@ -2503,7 +2503,7 @@ RwTestProjectLibraryIndexCard {
 	#rowanSHA : 'baa52c0c'
 }
 ```
-### spec_0065
+### [spec_0065](https://github.com/dalehenrich/RowanSample9/tree/spec_0065)
 ```
 RwLoadSpecificationV2 {
 	#specName : 'spec_0065',
@@ -2542,7 +2542,7 @@ RwTestProjectLibraryIndexCard {
 	#rowanSHA : 'b0ef8b25'
 }
 ```
-### spec_0066
+### [spec_0066](https://github.com/dalehenrich/RowanSample9/tree/spec_0066)
 ```
 RwLoadSpecificationV2 {
 	#specName : 'spec_0066',
@@ -2580,7 +2580,7 @@ RwTestProjectLibraryIndexCard {
 	#rowanSHA : '31f85f24'
 }
 ```
-### spec_0067
+### [spec_0067](https://github.com/dalehenrich/RowanSample9/tree/spec_0067)
 ```
 RwLoadSpecificationV2 {
 	#specName : 'spec_0067',
@@ -2618,7 +2618,7 @@ RwTestProjectLibraryIndexCard {
 	#rowanSHA : '80c5d4e8'
 }
 ```
-### spec_0068
+### [spec_0068](https://github.com/dalehenrich/RowanSample9/tree/spec_0068)
 ```
 RwLoadSpecificationV2 {
 	#specName : 'spec_0068',
@@ -2656,7 +2656,7 @@ RwTestProjectLibraryIndexCard {
 	#rowanSHA : '760ec819'
 }
 ```
-### spec_0069
+### [spec_0069](https://github.com/dalehenrich/RowanSample9/tree/spec_0069)
 ```
 RwLoadSpecificationV2 {
 	#specName : 'spec_0069',
@@ -2694,7 +2694,7 @@ RwTestProjectLibraryIndexCard {
 	#rowanSHA : 'f49c8823'
 }
 ```
-### spec_0070
+### [spec_0070](https://github.com/dalehenrich/RowanSample9/tree/spec_0070)
 ```
 RwLoadSpecificationV2 {
 	#specName : 'spec_0070',
@@ -2732,7 +2732,7 @@ RwTestProjectLibraryIndexCard {
 	#rowanSHA : '4494d120'
 }
 ```
-### spec_0071
+### [spec_0071](https://github.com/dalehenrich/RowanSample9/tree/spec_0071)
 ```
 RwLoadSpecificationV2 {
 	#specName : 'spec_0071',
