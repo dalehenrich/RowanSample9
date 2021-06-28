@@ -940,7 +940,7 @@ RwTestProjectLibraryIndexCard {
 		568
 	],
 	#gemstoneIssues : [ ],
-	#rowanSHA : 'd53c0b2f'
+	#rowanSHA : '0b05d4bad'
 }
 ```
 ### [spec_0024](https://github.com/dalehenrich/RowanSample9/tree/spec_0024)
