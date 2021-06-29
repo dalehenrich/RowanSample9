@@ -1,11 +1,11 @@
-# RowanSample9 - spec_0053
-Start with spec_0052; add instance side method #ivar1 referencing inherited ivar to class in primary project; add instance method #ivar1_embedded to class in embedded project
+# RowanSample9 - spec_0072
+Start with spec_0053; change the project spec so that none of the directories are using the default path
 ```
 RwLoadSpecificationV2 {
-	#specName : 'spec_0053',
+	#specName : 'spec_0072',
 	#projectName : 'RowanSample9',
 	#gitUrl : 'git@github.com:dalehenrich/RowanSample9.git',
-	#revision : 'spec_0053',
+	#revision : 'spec_0072',
 	#projectSpecFile : 'rowan/project.ston',
 	#componentNames : [
 		'Core'
@@ -20,21 +20,21 @@ RwLoadSpecificationV2 {
 			}
 		}
 	},
-	#comment : 'Start with spec_0052; add instance side method #ivar1 referencing inherited ivar to class in primary project; add instance method #ivar1_embedded to class in embedded project'
+	#comment : 'Start with spec_0053; change the project spec so that none of the directories are using the default path'
 }
 
 RwTestProjectLibraryIndexCard {
-	#name : 'index_0053',
-	#title : 'Start with spec_0052; add instance side method #ivar1 referencing inherited ivar to class in primary project; add instance method #ivar1_embedded to class in embedded project',
-	#specName : 'spec_0053',
-	#index : 53,
-	#derivedFrom : 'spec_0052',
+	#name : 'index_0072',
+	#title : 'Start with spec_0053; change the project spec so that none of the directories are using the default path',
+	#specName : 'spec_0072',
+	#index : 72,
+	#derivedFrom : 'spec_0053',
 	#comment : '',
 	#rowanIssues : [
-		591
+		724
 	],
 	#gemstoneIssues : [ ],
-	#rowanSHA : '0b05d4bad'
+	#rowanSHA : 'ddabb5da4'
 }
 ```
 
