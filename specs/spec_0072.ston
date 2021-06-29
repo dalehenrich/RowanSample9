@@ -1,0 +1,21 @@
+RwLoadSpecificationV2 {
+	#specName : 'spec_0072',
+	#projectName : 'RowanSample9',
+	#gitUrl : 'git@github.com:dalehenrich/RowanSample9.git',
+	#revision : 'spec_0072',
+	#projectSpecFile : 'rowan/project.ston',
+	#componentNames : [
+		'Core'
+	],
+	#customConditionalAttributes : [
+		'tests'
+	],
+	#platformProperties : {
+		'gemstone' : {
+			'allusers' : {
+				#defaultSymbolDictName : 'RowanSample9_1'
+			}
+		}
+	},
+	#comment : 'Start with spec_0053; change the project spec so that none of the directories are using the default path'
+}
