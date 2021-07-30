@@ -1,11 +1,10 @@
-RwLoadSpecificationV2 {
+RwEmbeddedLoadSpecificationV2 {
 	#specName : 'RowanSample9_3',
 	#projectName : 'RowanSample9_3',
 	#projectAlias : 'RowanSample9',
 	#gitUrl : 'git@github.com:dalehenrich/RowanSample9.git',
-	#relativeRepositoryRoot : 'rowan_3',
 	#revision : 'spec_0025',
-	#projectSpecFile : 'project.ston',
+	#projectSpecFile : 'rowan_3/project.ston',
 	#componentNames : [
 		'Core'
 	],
@@ -19,5 +18,5 @@ RwLoadSpecificationV2 {
 			}
 		}
 	},
-	#comment : 'Start with  spec_0001, add 3 additional projects, using relativeRepositoryRoot to distinquish between projects'
+	#comment : 'Start with  spec_0001, add 3 embedded projects'
 }
