@@ -1,5 +1,5 @@
 # RowanSample9 - spec_0056
-Start with spec_0052; add platform conditional packages (GemStone version 3.6.x, 3.5.x, and 3.2.15) to the embedded project (using relativeRepositoryRoot) and the primary project. This is expected to reproduce issue #594 for those three patforms.
+Start with spec_0052; add platform conditional packages (GemStone version 3.6.x, 3.5.x, and 3.2.15) to the embedded project and the primary project. This is expected to reproduce issue #594 for those three patforms.
 ```
 RwLoadSpecificationV2 {
 	#specName : 'spec_0056',
@@ -20,12 +20,12 @@ RwLoadSpecificationV2 {
 			}
 		}
 	},
-	#comment : 'Start with spec_0052; add platform conditional packages (GemStone version 3.6.x, 3.5.x, and 3.2.15) to the embedded project (using relativeRepositoryRoot) and the primary project. This is expected to reproduce issue #594 for those three patforms.'
+	#comment : 'Start with spec_0052; add platform conditional packages (GemStone version 3.6.x, 3.5.x, and 3.2.15) to the embedded project and the primary project. This is expected to reproduce issue #594 for those three patforms.'
 }
 
 RwTestProjectLibraryIndexCard {
 	#name : 'index_0056',
-	#title : 'Start with spec_0052; add platform conditional packages (GemStone version 3.6.x, 3.5.x, and 3.2.15) to the embedded project (using relativeRepositoryRoot) and the primary project. This is expected to reproduce issue #594 for those three patforms.',
+	#title : 'Start with spec_0052; add platform conditional packages (GemStone version 3.6.x, 3.5.x, and 3.2.15) to the embedded project and the primary project. This is expected to reproduce issue #594 for those three patforms.',
 	#specName : 'spec_0056',
 	#index : 56,
 	#derivedFrom : 'spec_0052',
@@ -34,7 +34,7 @@ RwTestProjectLibraryIndexCard {
 		594
 	],
 	#gemstoneIssues : [ ],
-	#rowanSHA : '0b05d4bad'
+	#rowanSHA : 'a23abc583'
 }
 ```
 
