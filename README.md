@@ -2100,12 +2100,12 @@ RwLoadSpecificationV2 {
 			}
 		}
 	},
-	#comment : 'Start with spec_0052; add platform conditional packages to the embedded project (using relativeRepositoryRoot) and the primary project.'
+	#comment : 'Start with spec_0052; add platform conditional packages to the embedded project and the primary project.'
 }
 
 RwTestProjectLibraryIndexCard {
 	#name : 'index_0054',
-	#title : 'Start with spec_0052; add platform conditional packages to the embedded project (using relativeRepositoryRoot) and the primary project.',
+	#title : 'Start with spec_0052; add platform conditional packages to the embedded project and the primary project.',
 	#specName : 'spec_0054',
 	#index : 54,
 	#derivedFrom : 'spec_0052',
@@ -2114,7 +2114,7 @@ RwTestProjectLibraryIndexCard {
 		594
 	],
 	#gemstoneIssues : [ ],
-	#rowanSHA : '0b05d4bad'
+	#rowanSHA : 'a23abc583'
 }
 ```
 ### spec_0055

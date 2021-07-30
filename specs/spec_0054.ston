@@ -17,5 +17,5 @@ RwLoadSpecificationV2 {
 			}
 		}
 	},
-	#comment : 'Start with spec_0052; add platform conditional packages to the embedded project (using relativeRepositoryRoot) and the primary project.'
+	#comment : 'Start with spec_0052; add platform conditional packages to the embedded project and the primary project.'
 }
