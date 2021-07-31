@@ -1,0 +1,23 @@
+RwLoadSpecificationV2 {
+	#specName : 'RowanSample9_embedded_1',
+	#projectName : 'RowanSample9_embedded_1',
+	#projectAlias : 'RowanSample9',
+	#gitUrl : 'git@github.com:dalehenrich/RowanSample9.git',
+	#relativeRepositoryRoot : 'embeddedProjects/RowanSample9_embedded_1',
+	#revision : 'spec_0053',
+	#projectSpecFile : 'rowan/project.ston',
+	#componentNames : [
+		'Core'
+	],
+	#customConditionalAttributes : [
+		'tests'
+	],
+	#platformProperties : {
+		'gemstone' : {
+			'allusers' : {
+				#defaultSymbolDictName : 'RowanSample9_2'
+			}
+		}
+	},
+	#comment : ''
+}
