@@ -1,0 +1,13 @@
+RwTestProjectLibraryIndexCard {
+	#name : 'index_0076',
+	#title : 'Start with spec_0074; add platform conditional packages to the embedded project (using relativeRepositoryRoot) and the primary project.',
+	#specName : 'spec_0076',
+	#index : 76,
+	#derivedFrom : 'spec_0074',
+	#comment : '',
+	#rowanIssues : [
+		594
+	],
+	#gemstoneIssues : [ ],
+	#rowanSHA : '36166050d'
+}
