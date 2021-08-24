@@ -1,0 +1,10 @@
+RwPlatformNestedProjectLoadComponentV2 {
+	#name : 'tests/GemStone24x/Tests',
+	#condition : [
+		'gs2.[4-]'
+	],
+	#packageNames : [
+		'RowanSample9-GemStone24x-Tests'
+	],
+	#comment : ''
+}

@@ -1,11 +1,11 @@
-# RowanSample9 - spec_0074
-Start with spec_0001; add an additional project using relativeRepositoryRoot that is basically a copy of spec_001; and adjust class in primary project be a subclass of class in additional project
+# RowanSample9 - spec_0077
+Start with spec_0074; add platform conditional packages (GemStone version 2.4.0) to the embedded project (using relativeRepositoryRoot) and the primary project.
 ```
 RwLoadSpecificationV2 {
-	#specName : 'spec_0074',
+	#specName : 'spec_0077',
 	#projectName : 'RowanSample9',
 	#gitUrl : 'git@github.com:dalehenrich/RowanSample9.git',
-	#revision : 'spec_0074',
+	#revision : 'spec_0077',
 	#projectSpecFile : 'rowan/project.ston',
 	#componentNames : [
 		'Core'
@@ -20,19 +20,18 @@ RwLoadSpecificationV2 {
 			}
 		}
 	},
-	#comment : 'Start with spec_0001; add an additional project using relativeRepositoryRoot that is basically a copy of spec_001; and adjust class in primary project be a subclass of class in additional project'
+	#comment : 'Start with spec_0074; add platform conditional packages (GemStone version 2.4.0) to the embedded project (using relativeRepositoryRoot) and the primary project.'
 }
 
 RwTestProjectLibraryIndexCard {
-	#name : 'index_0074',
-	#title : 'Start with spec_0001; add an additional project using relativeRepositoryRoot that is basically a copy of spec_001; and adjust class in primary project be a subclass of class in additional project',
-	#specName : 'spec_0074',
-	#index : 74,
-	#derivedFrom : 'spec_0001',
+	#name : 'index_0077',
+	#title : 'Start with spec_0074; add platform conditional packages (GemStone version 2.4.0) to the embedded project (using relativeRepositoryRoot) and the primary project.',
+	#specName : 'spec_0077',
+	#index : 77,
+	#derivedFrom : 'spec_0074',
 	#comment : '',
 	#rowanIssues : [
-		591,
-		571
+		594
 	],
 	#gemstoneIssues : [ ],
 	#rowanSHA : '36166050d'
