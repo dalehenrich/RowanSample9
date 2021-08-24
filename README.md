@@ -2801,13 +2801,13 @@ RwTestProjectLibraryIndexCard {
 	#title : 'Start with spec_0053; change the project spec so that none of the directories are using the default path',
 	#specName : 'spec_0072',
 	#index : 72,
-	#derivedFrom : 'spec_0053',
+	#derivedFrom : 'spec_0075',
 	#comment : '',
 	#rowanIssues : [
 		724
 	],
 	#gemstoneIssues : [ ],
-	#rowanSHA : 'ddabb5da4'
+	#rowanSHA : 'f247fb739'
 }
 ```
 ### [spec_0073](https://github.com/dalehenrich/RowanSample9/tree/spec_0073)
