@@ -1,11 +1,11 @@
-# RowanSample9 - spec_0001
-Bare bones package structure -Core and -Tests
+# RowanSample9 - spec_0073
+Start with  spec_0001, add 3 additional projects, using relativeRepositoryRoot to distinquish between projects
 ```
 RwLoadSpecificationV2 {
-	#specName : 'spec_0001',
+	#specName : 'spec_0073',
 	#projectName : 'RowanSample9',
 	#gitUrl : 'git@github.com:dalehenrich/RowanSample9.git',
-	#revision : 'spec_0001',
+	#revision : 'spec_0073',
 	#projectSpecFile : 'rowan/project.ston',
 	#componentNames : [
 		'Core'
@@ -20,21 +20,22 @@ RwLoadSpecificationV2 {
 			}
 		}
 	},
-	#comment : 'Bare bones package structure -Core and -Tests'
+	#comment : 'Start with  spec_0001, add 3 additional projects, using relativeRepositoryRoot to distinquish between projects'
 }
 
 RwTestProjectLibraryIndexCard {
-	#name : 'index_0001',
-	#title : 'Bare bones package structure -Core and -Tests',
-	#specName : 'spec_0001',
-	#index : 1,
-	#derivedFrom : 'spec_0000',
-	#comment : 'One class per package: RowanSample9-Core and RowanSample9-Tests packages',
+	#name : 'index_0073',
+	#title : 'Start with  spec_0001, add 3 additional projects, using relativeRepositoryRoot to distinquish between projects',
+	#specName : 'spec_0073',
+	#index : 73,
+	#derivedFrom : 'spec_0001',
+	#comment : '',
 	#rowanIssues : [
-		527
+		571,
+		714
 	],
 	#gemstoneIssues : [ ],
-	#rowanSHA : '0b05d4bad'
+	#rowanSHA : 'c9cf2c35f'
 }
 ```
 
