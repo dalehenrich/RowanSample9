@@ -1,11 +1,11 @@
-# RowanSample9 - spec_0074
-Start with spec_0001; add an additional project using relativeRepositoryRoot that is basically a copy of spec_001; and adjust class in primary project be a subclass of class in additional project
+# RowanSample9 - spec_0075
+Start with spec_0074; add instance side method #ivar1 referencing inherited ivar to class in primary project; add instance method #ivar1_embedded to class in embedded project
 ```
 RwLoadSpecificationV2 {
-	#specName : 'spec_0074',
+	#specName : 'spec_0075',
 	#projectName : 'RowanSample9',
 	#gitUrl : 'git@github.com:dalehenrich/RowanSample9.git',
-	#revision : 'spec_0074',
+	#revision : 'spec_0075',
 	#projectSpecFile : 'rowan/project.ston',
 	#componentNames : [
 		'Core'
@@ -20,19 +20,18 @@ RwLoadSpecificationV2 {
 			}
 		}
 	},
-	#comment : 'Start with spec_0001; add an additional project using relativeRepositoryRoot that is basically a copy of spec_001; and adjust class in primary project be a subclass of class in additional project'
+	#comment : 'Start with spec_0074; add instance side method #ivar1 referencing inherited ivar to class in primary project; add instance method #ivar1_embedded to class in embedded project'
 }
 
 RwTestProjectLibraryIndexCard {
-	#name : 'index_0074',
-	#title : 'Start with spec_0001; add an additional project using relativeRepositoryRoot that is basically a copy of spec_001; and adjust class in primary project be a subclass of class in additional project',
-	#specName : 'spec_0074',
-	#index : 74,
-	#derivedFrom : 'spec_0001',
+	#name : 'index_0075',
+	#title : 'Start with spec_0074; add instance side method #ivar1 referencing inherited ivar to class in primary project; add instance method #ivar1_embedded to class in embedded project',
+	#specName : 'spec_0075',
+	#index : 75,
+	#derivedFrom : 'spec_0074',
 	#comment : '',
 	#rowanIssues : [
-		591,
-		571
+		591
 	],
 	#gemstoneIssues : [ ],
 	#rowanSHA : '36166050d'
