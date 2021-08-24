@@ -1,0 +1,14 @@
+RwTestProjectLibraryIndexCard {
+	#name : 'index_0073',
+	#title : 'Start with  spec_0001, add 3 additional projects, using relativeRepositoryRoot to distinquish between projects',
+	#specName : 'spec_0073',
+	#index : 73,
+	#derivedFrom : 'spec_0001',
+	#comment : '',
+	#rowanIssues : [
+		571,
+		714
+	],
+	#gemstoneIssues : [ ],
+	#rowanSHA : 'c9cf2c35f'
+}
