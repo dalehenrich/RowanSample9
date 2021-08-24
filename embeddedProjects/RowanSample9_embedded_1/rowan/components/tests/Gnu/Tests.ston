@@ -1,0 +1,10 @@
+RwPlatformNestedProjectLoadComponentV2 {
+	#name : 'tests/Gnu/Tests',
+	#condition : [
+		'gnu'
+	],
+	#packageNames : [
+		'RowanSample9_embedded_1-Gnu-Tests'
+	],
+	#comment : ''
+}
