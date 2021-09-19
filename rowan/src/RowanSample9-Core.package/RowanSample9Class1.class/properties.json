@@ -1,0 +1,14 @@
+{
+	"category" : "RowanSample9-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "RowanSample9Class1",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
