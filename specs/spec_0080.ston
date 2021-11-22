@@ -17,5 +17,5 @@ RwLoadSpecificationV2 {
 			}
 		}
 	},
-	#comment : 'Start with spec_0002; and write in tonel format v1.0 (keys and values are Symbols).'
+	#comment : 'Start with spec_0002; read and write in Pharo tonel format v1.0 (keys and values are Symbols).'
 }
