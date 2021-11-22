@@ -1,5 +1,5 @@
 # RowanSample9 - spec_0080
-Start with spec_0002; and write in tonel format v1.0 (keys and values are Symbols).
+Start with spec_0002; read and write in Pharo tonel format v1.0 (keys and values are Symbols).
 ```
 RwLoadSpecificationV2 {
 	#specName : 'spec_0080',
@@ -20,12 +20,12 @@ RwLoadSpecificationV2 {
 			}
 		}
 	},
-	#comment : 'Start with spec_0002; and write in tonel format v1.0 (keys and values are Symbols).'
+	#comment : 'Start with spec_0002; read and write in Pharo tonel format v1.0 (keys and values are Symbols).'
 }
 
 RwTestProjectLibraryIndexCard {
 	#name : 'index_0080',
-	#title : 'Start with spec_0002; and write in tonel format v1.0 (keys and values are Symbols).',
+	#title : 'Start with spec_0002; read and write in Pharo tonel format v1.0 (keys and values are Symbols).',
 	#specName : 'spec_0080',
 	#index : 80,
 	#derivedFrom : 'spec_0002',
