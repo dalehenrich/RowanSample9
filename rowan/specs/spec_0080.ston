@@ -1,7 +1,7 @@
 RwLoadSpecificationV2 {
 	#specName : 'spec_0080',
 	#projectName : 'RowanSample9',
-	#gitUrl : 'file:/home/dhenrich/rogue/_homes/rogue/_home/server/stones/rowan_dev_l/git/testRepositories/RowanSample9',
+	#gitUrl : 'git@github.com:dalehenrich/RowanSample9.git',
 	#revision : 'spec_0080',
 	#projectSpecFile : 'rowan/project.ston',
 	#componentNames : [
