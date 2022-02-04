@@ -1,0 +1,51 @@
+#!/usr/bin/env superdoit_stone
+options
+{
+SuperDoitOptionalOptionWithRequiredArg long: 'projectsHome' default: '$ROWAN_PROJECTS_HOME'.
+}
+%
+usage
+-----
+USAGE
+      $basename [--help | -h] [--debug | -D] --projectsHome=<project-directory>      					
+
+DESCRIPTION
+  Create the RowanSample9:tutorial project.
+
+OPTIONS
+  -h, --help           display usage message
+  -D, --debug          bring up topaz debugger in the event of a script error
+  --projectsHome=<project-directory>
+                       This is the directory where the project will be created.
+                       By default, projects are created in $ROWAN_PROJECTS_HOME.
+  
+
+EXAMPLES
+  $basename -h
+  $basename --projectsHome=$GS_HOME/shared/repos -- rowan_dev_l
+-----
+%
+doit
+	| projectName componentName definedProject |
+	projectName := 'RowanSample9'.
+	componentName := 'Tutorial'.
+	definedProject := (Rowan newProjectNamed: projectName)
+		specName: componentName;
+		addLoadComponentNamed: componentName;
+		packageConvention: 'RowanHybrid';
+		gemstoneSetDefaultSymbolDictNameTo: 'Globals';
+		repoType: #git;	
+		packageFormat: 'filetree';
+		projectsHome: self projectsHome;
+		packagesPath: componentName asLowercase;
+		yourself.
+	definedProject
+		addPackagesNamed: {'RowanSample9-Tutorial-Lessons'. 'RowanSample9-Tutorial-Tests'. } 
+		toComponentNamed: componentName;
+		yourself.
+
+	(self projectsHome asFileReference / projectName / 'rowan') ensureDeleteAll.
+	(self projectsHome asFileReference / projectName / 'tutorial') ensureDeleteAll.
+	definedProject resolveProject write.
+	^ self noResult
+%

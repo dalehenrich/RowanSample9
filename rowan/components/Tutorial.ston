@@ -1,0 +1,11 @@
+RwSimpleProjectLoadComponentV2 {
+	#name : 'Tutorial',
+	#condition : 'common',
+	#projectNames : [ ],
+	#componentNames : [ ],
+	#packageNames : [
+		'RowanSample9-Tutorial-Lessons',
+		'RowanSample9-Tutorial-Tests'
+	],
+	#comment : ''
+}

@@ -1,0 +1,14 @@
+{
+	"category" : "RowanSample9-Tutorial-Lessons",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "RowanTutorialLessons",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

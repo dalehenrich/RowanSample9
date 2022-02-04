@@ -1,0 +1,16 @@
+RwLoadSpecificationV2 {
+	#specName : 'Tutorial',
+	#projectName : 'RowanSample9',
+	#projectSpecFile : 'rowan/project.ston',
+	#componentNames : [
+		'Tutorial'
+	],
+	#platformProperties : {
+		'gemstone' : {
+			'allusers' : {
+				#defaultSymbolDictName : 'Globals'
+			}
+		}
+	},
+	#comment : ''
+}

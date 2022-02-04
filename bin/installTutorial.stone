@@ -1,0 +1,57 @@
+#!/usr/bin/env superdoit_stone
+options
+{
+SuperDoitOptionalOptionWithRequiredArg long: 'projectsHome' default: '$ROWAN_PROJECTS_HOME'.
+}
+%
+usage
+-----
+USAGE
+      $basename [--help | -h] [--debug | -D] [--projectsHome=<projects-directory>]
+
+DESCRIPTION
+  Install the RowanSample9 tutorial project into the given stone for development.
+
+OPTIONS
+  -h, --help           display usage message
+  -D, --debug          bring up topaz debugger in the event of a script error
+  --projectsHome=<project-directory>
+                       This is the directory where the project will be loaded
+                       from. By default, projects are loaded from 
+                       $ROWAN_PROJECTS_HOME.
+
+EXAMPLES
+  $basename -h
+  $basename -h -- <stone-name>
+  $basename -h -- -l -I $GEMSTONE/data/.topazini
+
+  $basename --projectsHome=$GS_HOME/server/stones/rowan_dev_l/git -- rowan_dev_l
+  $basename -- -l -I $GEMSTONE/data/.topazini
+-----
+%
+specs
+[
+RwLoadSpecificationV2 {
+	#specName : 'Tutorial',
+	#projectAlias : 'RowanSample9',
+	#projectName : 'RowanTutorial',
+	#projectSpecFile : 'rowan/project.ston',
+	#componentNames : [
+		'Tutorial'
+	],
+	#platformProperties : {
+		'gemstone' : {
+			'allusers' : {
+				#defaultSymbolDictName : 'Globals'
+			}
+		}
+	},
+	#comment : ''
+}
+]
+%
+doit
+	self preDoitSpecLoad: [:spec | 
+		spec projectsHome: self projectsHome ].
+	^ System commit
+%

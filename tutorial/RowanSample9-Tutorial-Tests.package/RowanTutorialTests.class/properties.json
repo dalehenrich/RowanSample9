@@ -1,0 +1,14 @@
+{
+	"category" : "RowanSample9-Tutorial-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "RowanTutorialTests",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }
