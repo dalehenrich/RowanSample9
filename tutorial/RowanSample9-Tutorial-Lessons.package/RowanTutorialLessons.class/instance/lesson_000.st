@@ -1,6 +1,6 @@
 lessons
 lesson_000
-	"set up environment variables for running the tutorial"
+	"set up environment variables and directory structure for running the tutorial. The contents of TUTORIAL_PROJECTS_HOME will be deleted during this lesson."
 
 	| oldRowanProjectsHome tutorialProjectsHome gitTool |
 	oldRowanProjectsHome := System gemEnvironmentVariable: 'ROWAN_PROJECTS_HOME'.
@@ -16,8 +16,5 @@ lesson_000
 			self
 				error:
 					'env vars ROWAN_PROJECTS_HOME and TUTORIAL_PROJECTS_HOME cannot reference the same directory' ].
-	System
-		gemEnvironmentVariable: 'OLD_ROWAN_PROJECTS_HOME'
-		put: oldRowanProjectsHome.
-	System gemEnvironmentVariable: 'ROWAN_PROJECTS_HOME' put: tutorialProjectsHome.
-	'$ROWAN_PROJECTS_HOME' asFileReference ensureCreateDirectory
+	tutorialProjectsHome asFileReference exists
+		ifTrue: [ tutorialProjectsHome asFileReference ensureDeleteAllChildren ].
