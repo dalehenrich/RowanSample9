@@ -7,7 +7,8 @@ lesson_001
 		named 'rowan'.
 	2. The Tests subcomponent and package will be conditionally loaded
 		when the 'tests' attrbute is present.
-	3. Write the project to a git repository in TUTORIAL_PROJECTS_HOME
+	3. Add some simple classes, methods and a test case
+	4. Write the project to a git repository in TUTORIAL_PROJECTS_HOME
 	"
 
 	| projectName loadComponentName conditionalTestComponentName definedProject resolvedProject |
@@ -29,6 +30,20 @@ lesson_001
 		addPackageNamed: projectName , '-Core' toComponentNamed: loadComponentName;
 		addPackageNamed: projectName , '-Tests'
 			toComponentNamed: conditionalTestComponentName;
+		yourself.
+	((definedProject packageNamed: projectName , '-Core')
+		addClassNamed: projectName , 'Class'
+		super: 'Object'
+		category: projectName , '-Core')
+		addInstanceMethod: 'foo ^ 1' protocol: 'accessing';
+		yourself.
+	((definedProject packageNamed: projectName , '-Tests')
+		addClassNamed: projectName , 'Test'
+		super: 'TestCase'
+		category: projectName , '-Tests')
+		addInstanceMethod:
+				'test self assert: ' , projectName , 'Class new foo equals: 1'
+			protocol: 'tests';
 		yourself.
 	resolvedProject := definedProject resolveProject.	"create git repository on disk"
 	resolvedProject write.	"write resolvedProject to disk"
