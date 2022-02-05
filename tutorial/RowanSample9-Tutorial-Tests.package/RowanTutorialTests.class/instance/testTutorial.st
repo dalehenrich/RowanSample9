@@ -21,4 +21,9 @@ testTutorial
 	self assert: loadedProject testSuite tests isEmpty.
 
 	tutorial lesson_003.
-	self assert: (Rowan projectNamed: projectName ifAbsent: [  ]) equals: nil	"project unloaded at end of the lesson_003"
+	self assert: (Rowan projectNamed: projectName ifAbsent: [  ]) equals: nil.	"project unloaded at end of the lesson_003"
+
+	tutorial lesson_004.
+	self assert: (Rowan globalNamed: projectName , 'Class') notNil.
+	self assert: (Rowan globalNamed: projectName , 'Test') notNil.
+	self deny: loadedProject testSuite tests isEmpty.

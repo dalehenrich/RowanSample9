@@ -10,6 +10,7 @@ lesson_002
 	4. The loadedProjectSet returned by the #load message is a list of the projects loaded
 		by the spec. More than one project would be expected if the project has required 
 		projects. In this case only one project is loaded.
+	5. NOTE: the way things are defined, the tests are not loaded by default.
 	"
 
 	| loadSpec loadedProjectSet |
