@@ -1,11 +1,11 @@
-# RowanSample9 - spec_0011
-A single class with an extension method in a separate package. All packages loaded into a single symbol dict. Test methods validate classes and symbol dictionary mapping.
+# RowanSample9 - spec_0081
+Start with spec_0011; add 2 more instance methods and 3 class methods to RowanSample9Class1 in RowanSample9-Core; then add 3 instance-side extension methods to RowanSample9Class1 and 2 more class-side extension methods; add tests for all of the new methods. Fodder for audit testing.
 ```
 RwLoadSpecificationV2 {
-	#specName : 'spec_0011',
+	#specName : 'spec_0081',
 	#projectName : 'RowanSample9',
 	#gitUrl : 'git@github.com:dalehenrich/RowanSample9.git',
-	#revision : 'spec_0011',
+	#revision : 'spec_0081',
 	#projectSpecFile : 'rowan/project.ston',
 	#componentNames : [
 		'Core'
@@ -20,21 +20,19 @@ RwLoadSpecificationV2 {
 			}
 		}
 	},
-	#comment : 'A single class with an extension method in a separate package. All packages loaded into a single symbol dict. Test methods validate classes and symbol dictionary mapping.'
+	#comment : 'Start with spec_0011; add 2 more instance methods and 3 class methods to RowanSample9Class1 in RowanSample9-Core; then add 3 instance-side extension methods to RowanSample9Class1 and 2 more class-side extension methods; add tests for all of the new methods. Fodder for audit testing.'
 }
 
 RwTestProjectLibraryIndexCard {
-	#name : 'index_0011',
-	#title : 'A single class with an extension method in a separate package. All packages loaded into a single symbol dict. Test methods validate classes and symbol dictionary mapping.',
-	#specName : 'spec_0011',
-	#index : 11,
-	#derivedFrom : 'spec_0001',
-	#comment : 'RowanSample9-Core, RowanSample9-Extensions, and RowanSample9-Tests packages in default symbol dictionary.',
-	#rowanIssues : [
-		495
-	],
+	#name : 'index_0081',
+	#title : 'Start with spec_0011; add 2 more instance methods and 3 class methods to RowanSample9Class1 in RowanSample9-Core; then add 3 instance-side extension methods to RowanSample9Class1 and 2 more class-side extension methods; add tests for all of the new methods. Fodder for audit testing.',
+	#specName : 'spec_0081',
+	#index : 81,
+	#derivedFrom : 'spec_0011',
+	#comment : '',
+	#rowanIssues : [ ],
 	#gemstoneIssues : [ ],
-	#rowanSHA : '0b05d4bad'
+	#rowanSHA : '31ee13deb'
 }
 ```
 
