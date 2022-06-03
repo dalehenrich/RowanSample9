@@ -1,0 +1,16 @@
+RwLoadSpecificationV2 {
+	#specName : 'spec_0082',
+	#projectName : 'RowanSample9',
+	#gitUrl : 'git@github.com:dalehenrich/RowanSample9.git',
+	#revision : 'spec_0082',
+	#projectSpecFile : 'rowan/project.ston',
+	#componentNames : [ ],
+	#platformProperties : {
+		'gemstone' : {
+			'allusers' : {
+				#defaultSymbolDictName : 'RowanSample9_1'
+			}
+		}
+	},
+	#comment : 'Start with master; add Core, Extension, and Test packages. Add classes to Core that use the full complement of class types: normal, byteSubclass, and variable. Add extension methods for each of the classes. Add tests for each class. Use topaz package format.'
+}
