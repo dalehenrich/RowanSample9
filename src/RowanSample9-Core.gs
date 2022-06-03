@@ -53,3 +53,21 @@ true.
 removeallmethods RowanSample9IndexableClass1
 removeallclassmethods RowanSample9IndexableClass1
 
+! Class implementation for 'RowanSample9ByteClass1'
+
+!		Class methods for 'RowanSample9ByteClass1'
+
+category: 'instance creation'
+classmethod: RowanSample9ByteClass1
+with: aValue with: val2 | inst | inst := self new: 2. inst at: 1 put: aValue; at: 2 put: val2. ^inst
+%
+
+! Class implementation for 'RowanSample9IndexableClass1'
+
+!		Class methods for 'RowanSample9IndexableClass1'
+
+category: 'instance creation'
+classmethod: RowanSample9IndexableClass1
+with: aValue | inst | inst := self new: 1. inst at: 1 put: aValue. ^inst
+%
+
