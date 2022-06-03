@@ -3160,7 +3160,9 @@ RwLoadSpecificationV2 {
 	#gitUrl : 'git@github.com:dalehenrich/RowanSample9.git',
 	#revision : 'spec_0082',
 	#projectSpecFile : 'rowan/project.ston',
-	#componentNames : [ ],
+	#componentNames : [
+		'Core'
+	],
 	#platformProperties : {
 		'gemstone' : {
 			'allusers' : {
