@@ -1,0 +1,13 @@
+RwTestProjectLibraryIndexCard {
+	#name : 'index_0082',
+	#title : 'Start with master; add Core, Extension, and Test packages. Add classes to Core that use the full complement of class types: normal, byteSubclass, and variable. Add extension methods for each of the classes. Add tests for each class. Use topaz package format.',
+	#specName : 'spec_0082',
+	#index : 82,
+	#derivedFrom : 'master',
+	#comment : '',
+	#rowanIssues : [
+		820
+	],
+	#gemstoneIssues : [ ],
+	#rowanSHA : 'c2b17937e'
+}
