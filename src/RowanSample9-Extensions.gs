@@ -4,7 +4,7 @@ SET PACKAGE: RowanSample9-Extensions
 
 !		Class methods for 'RowanSample9ByteClass1'
 
-category: '*rowansample9-tests'
+category: '*rowansample9-extensions'
 classmethod: RowanSample9ByteClass1
 bar ^'bar'
 %
@@ -13,7 +13,7 @@ bar ^'bar'
 
 !		Class methods for 'RowanSample9Class1'
 
-category: '*rowansample9-tests'
+category: '*rowansample9-extensions'
 classmethod: RowanSample9Class1
 bar ^'bar'
 %
@@ -22,7 +22,7 @@ bar ^'bar'
 
 !		Class methods for 'RowanSample9IndexableClass1'
 
-category: '*rowansample9-tests'
+category: '*rowansample9-extensions'
 classmethod: RowanSample9IndexableClass1
 bar ^'bar'
 %
