@@ -4,7 +4,7 @@ Two classes, two  packages, plus tests. Primer for Issue 230, using ivs instead 
 RwLoadSpecificationV2 {
 	#specName : 'spec_0007',
 	#projectName : 'RowanSample9',
-	#gitUrl : 'git@github.com:dalehenrich/RowanSample9V2.git',
+	#gitUrl : 'git@github.com:dalehenrich/RowanSample9.git',
 	#revision : 'spec_0007',
 	#projectSpecFile : 'rowan/project.ston',
 	#componentNames : [
