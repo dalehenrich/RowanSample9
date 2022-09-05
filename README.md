@@ -4,7 +4,7 @@ RowanSample4 basic project definition
 RwLoadSpecificationV2 {
 	#specName : 'spec_0002',
 	#projectName : 'RowanSample9',
-	#gitUrl : 'git@github.com:dalehenrich/RowanSample9V2.git',
+	#gitUrl : 'git@github.com:dalehenrich/RowanSample9.git',
 	#revision : 'spec_0002',
 	#projectSpecFile : 'rowan/project.ston',
 	#componentNames : [
