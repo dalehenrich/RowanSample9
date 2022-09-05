@@ -6,7 +6,7 @@ Sample project that is being used to develop the **final** version of the V2.0 p
 RwLoadSpecificationV2 {
 	#specName : 'spec_0000',
 	#projectName : 'RowanSample9',
-	#gitUrl : 'git@github.com:dalehenrich/RowanSample9.git',
+	#gitUrl : 'git@github.com:dalehenrich/RowanSample9V2.git',
 	#revision : 'spec_0000',
 	#projectSpecFile : 'rowan/project.ston',
 	#componentNames : [
