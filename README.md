@@ -1,11 +1,11 @@
-# RowanSample9 - spec_0001
-Bare bones package structure -Core and -Tests
+# RowanSample9 - spec_0011
+A single class with an extension method in a separate package. All packages loaded into a single symbol dict. Test methods validate classes and symbol dictionary mapping.
 ```
 RwLoadSpecificationV2 {
-	#specName : 'spec_0001',
+	#specName : 'spec_0011',
 	#projectName : 'RowanSample9',
 	#gitUrl : 'git@github.com:dalehenrich/RowanSample9.git',
-	#revision : 'spec_0001',
+	#revision : 'spec_0011',
 	#projectSpecFile : 'rowan/project.ston',
 	#componentNames : [
 		'Core'
@@ -20,18 +20,18 @@ RwLoadSpecificationV2 {
 			}
 		}
 	},
-	#comment : 'Bare bones package structure -Core and -Tests'
+	#comment : 'A single class with an extension method in a separate package. All packages loaded into a single symbol dict. Test methods validate classes and symbol dictionary mapping.'
 }
 
 RwTestProjectLibraryIndexCard {
-	#name : 'index_0001',
-	#title : 'Bare bones package structure -Core and -Tests',
-	#specName : 'spec_0001',
-	#index : 1,
-	#derivedFrom : 'spec_0000',
-	#comment : 'One class per package: RowanSample9-Core and RowanSample9-Tests packages',
+	#name : 'index_0011',
+	#title : 'A single class with an extension method in a separate package. All packages loaded into a single symbol dict. Test methods validate classes and symbol dictionary mapping.',
+	#specName : 'spec_0011',
+	#index : 11,
+	#derivedFrom : 'spec_0001',
+	#comment : 'RowanSample9-Core, RowanSample9-Extensions, and RowanSample9-Tests packages in default symbol dictionary.',
 	#rowanIssues : [
-		527
+		495
 	],
 	#gemstoneIssues : [ ],
 	#rowanSHA : '0b05d4bad'

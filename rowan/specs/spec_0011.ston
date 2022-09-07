@@ -1,8 +1,8 @@
 RwLoadSpecificationV2 {
-	#specName : 'spec_0001',
+	#specName : 'spec_0011',
 	#projectName : 'RowanSample9',
 	#gitUrl : 'git@github.com:dalehenrich/RowanSample9.git',
-	#revision : 'spec_0001',
+	#revision : 'spec_0011',
 	#projectSpecFile : 'rowan/project.ston',
 	#componentNames : [
 		'Core'
@@ -17,5 +17,5 @@ RwLoadSpecificationV2 {
 			}
 		}
 	},
-	#comment : 'Bare bones package structure -Core and -Tests'
+	#comment : 'A single class with an extension method in a separate package. All packages loaded into a single symbol dict. Test methods validate classes and symbol dictionary mapping.'
 }
