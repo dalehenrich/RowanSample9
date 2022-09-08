@@ -5,8 +5,7 @@ RwLoadSpecificationV2 {
 	#revision : 'spec_0004',
 	#projectSpecFile : 'rowan/project.ston',
 	#componentNames : [
-		'Core1',
-		'Core2'
+		'Core1'
 	],
 	#customConditionalAttributes : [
 		'tests'
